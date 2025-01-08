@@ -1,6 +1,6 @@
-package.json과 package-lock.json 각각 무엇인지, 둘의 차이를 알자
-npm, 과 node.js 와의 관계를 알자
-각 json 파일의 생성 시점을 알자
+- package.json과 package-lock.json 각각 무엇인지, 둘의 차이를 알자
+- npm, 과 node.js 와의 관계를 알자
+- 각 json 파일의 생성 시점을 알자
 
 
 npm 패키지 매니저에서 npm install 시 생성되는 의존성 파일
