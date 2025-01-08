@@ -1,6 +1,9 @@
 {
 	"nodes":[
-		{"id":"11546b0e091a5a52","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"캔바스 기능 테슽\n"}
+		{"id":"f767e243941ce915","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"캔바스 기능 테스트"},
+		{"id":"2875a9ef54202c37","x":340,"y":-30,"width":250,"height":60,"type":"text","text":""}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"7d2cfef25f1ae655","fromNode":"f767e243941ce915","fromSide":"right","toNode":"2875a9ef54202c37","toSide":"left"}
+	]
 }
