@@ -11,17 +11,14 @@
             "id": "a72cc4f541afc6ed",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 232.5,
-                  "y": -85,
-                  "zoom": 0
-                }
+                "file": "github와 연결 방법.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "github와 연결 방법"
             }
           }
         ]
@@ -166,10 +163,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "710010ae01219ce3",
+  "active": "a72cc4f541afc6ed",
   "lastOpenFiles": [
-    "README.md",
+    "github와 연결 방법.md",
     "Untitled.canvas",
+    "README.md",
     "2025-01-08.md",
     "폴더 생성 테스트/노트 생성 테스트.md",
     "KWL 노트",
