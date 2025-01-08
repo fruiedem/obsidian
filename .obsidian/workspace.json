@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "github와 연결 방법.md",
+                "file": "obsidian 동기화 방법.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "github와 연결 방법"
+              "title": "obsidian 동기화 방법"
             }
           }
         ],
@@ -180,8 +180,8 @@
   },
   "active": "35c8b7ce9f4b7de9",
   "lastOpenFiles": [
-    "obsidian 동기화 방법.md",
     "github와 연결 방법.md",
+    "obsidian 동기화 방법.md",
     "Untitled.canvas",
     "README.md",
     "2025-01-08.md",
