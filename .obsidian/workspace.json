@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "github와 연결 방법.md",
+                "file": "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/17. ObjClass02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "github와 연결 방법"
+              "title": "17. ObjClass02"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中15)/16. ObjClass01.md",
+                "file": "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/17. ObjClass02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "16. ObjClass01"
+              "title": "17. ObjClass02"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,6 +85,22 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "943b7d5709cdf00d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e794316d5e877016",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
             }
           }
         ]
@@ -178,19 +193,20 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "35c8b7ce9f4b7de9",
+  "active": "a72cc4f541afc6ed",
   "lastOpenFiles": [
-    "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中15)/15. 구매문서.md",
-    "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中15)/14. 구매품목문서.md",
-    "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中15)/13. 구매품목VO.md",
-    "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中15)/16. ObjClass01.md",
-    "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中15)/Untitled.md",
+    "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/16. ObjClass01.md",
+    "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/17. ObjClass02.md",
+    "github와 연결 방법.md",
+    "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/Untitled.md",
+    "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/13. 구매품목VO.md",
+    "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/14. 구매품목문서.md",
+    "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/15. 구매문서.md",
     "런타임 환경.md",
-    "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中15)",
+    "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)",
     "KWL 노트/자바익힘(1월)",
     "obsidian 동기화 방법.md",
     "Package-lock.json.md",
-    "github와 연결 방법.md",
     "Untitled.canvas",
     "README.md",
     "2025-01-08.md",
