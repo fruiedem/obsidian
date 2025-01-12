@@ -12,3 +12,4 @@ PC에서 연결하는 방법 `obsidian-git` 또는 `git` 플러그인 이용
 
 스마트폰에서 연결하는 방법 `git` 플러그인 이용
 - username 과 PAT 만 있으면 연결 가능
+- 

@@ -1,4 +1,9 @@
 [
   "github-sync",
-  "obsidian-git"
+  "recent-files-obsidian",
+  "settings-search",
+  "obsidian-plugin-update-tracker",
+  "emoji-shortcodes",
+  "code-styler",
+  "editing-toolbar"
 ]
