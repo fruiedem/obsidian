@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "github와 연결 방법",
+      "path": "github와 연결 방법.md"
+    },
+    {
       "basename": "18. ObjClass03",
       "path": "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/18. ObjClass03.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "17. ObjClass02",
       "path": "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/17. ObjClass02.md"
-    },
-    {
-      "basename": "github와 연결 방법",
-      "path": "github와 연결 방법.md"
     }
   ],
   "omittedPaths": [],
