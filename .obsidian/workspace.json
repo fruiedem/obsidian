@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/18. ObjClass03.md",
+                "file": "github와 연결 방법.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "18. ObjClass03"
+              "title": "github와 연결 방법"
             }
           },
           {
@@ -47,6 +47,7 @@
       {
         "id": "ac6f4e3f16c53798",
         "type": "tabs",
+        "dimension": 71.6432865731463,
         "children": [
           {
             "id": "710010ae01219ce3",
@@ -57,7 +58,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "파일 탐색기"
             }
           },
           {
@@ -92,6 +93,7 @@
       {
         "id": "943b7d5709cdf00d",
         "type": "tabs",
+        "dimension": 28.35671342685371,
         "children": [
           {
             "id": "e794316d5e877016",
@@ -184,19 +186,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
       "github-sync:Sync with Remote": false
     }
   },
   "active": "a72cc4f541afc6ed",
   "lastOpenFiles": [
-    "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/16. ObjClass01.md",
     "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/18. ObjClass03.md",
+    "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/16. ObjClass01.md",
     "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/17. ObjClass02.md",
     "github와 연결 방법.md",
     "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/Untitled.md",
