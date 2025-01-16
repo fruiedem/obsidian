@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "무제 파일 2",
+      "path": "무제 파일 2.md"
+    },
+    {
+      "basename": "무제 파일 1",
+      "path": "무제 파일 1.md"
+    },
+    {
+      "basename": "github와 연결 방법",
+      "path": "github와 연결 방법.md"
+    },
+    {
       "basename": "db 데이터 변경 시 unique key 관련 오류",
       "path": "WPJ/db 데이터 변경 시 unique key 관련 오류.md"
     },
@@ -39,10 +51,6 @@
     {
       "basename": "개발환경",
       "path": "WPJ/개발환경.md"
-    },
-    {
-      "basename": "github와 연결 방법",
-      "path": "github와 연결 방법.md"
     },
     {
       "basename": "18. ObjClass03",
