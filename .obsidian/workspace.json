@@ -29,13 +29,27 @@
               "state": {
                 "file": "WPJ/공통코드.canvas",
                 "viewState": {
-                  "x": -1162.1149189677074,
-                  "y": 57.937062864990764,
-                  "zoom": -0.5843220893184065
+                  "x": -915.6375450750425,
+                  "y": 811.4636923501432,
+                  "zoom": -0.9176554226517397
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "공통코드"
+            }
+          },
+          {
+            "id": "95219f419e569936",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IntelliJ SpringBoot 자동 빌드 설정.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IntelliJ SpringBoot 자동 빌드 설정"
             }
           },
           {
@@ -53,7 +67,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -143,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "로컬저장소 recoil-persist commonCodeListState.png",
+                "file": "IntelliJ SpringBoot 자동 빌드 설정.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +167,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "로컬저장소 recoil-persist commonCodeListState의 백링크"
+              "title": "IntelliJ SpringBoot 자동 빌드 설정의 백링크"
             }
           },
           {
@@ -212,11 +226,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "ce16d0c8ab600988",
+  "active": "95219f419e569936",
   "lastOpenFiles": [
+    "WPJ/공통코드.canvas",
+    "IntelliJ SpringBoot 자동 빌드 설정.md",
     "로컬저장소 recoil-persist commonCodeListState.png",
     "검색 요청값(TO-BE).png",
-    "WPJ/공통코드.canvas",
     "검색 요청값(AS-IS).png",
     "무제 파일.md",
     "WPJ/db 데이터 변경 시 unique key 관련 오류.md",
