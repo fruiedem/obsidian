@@ -44,12 +44,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IntelliJ SpringBoot 자동 빌드 설정.md",
+                "file": "WPJ/db 데이터 변경 시 unique key 관련 오류.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IntelliJ SpringBoot 자동 빌드 설정"
+              "title": "db 데이터 변경 시 unique key 관련 오류"
             }
           },
           {
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IntelliJ SpringBoot 자동 빌드 설정.md",
+                "file": "WPJ/db 데이터 변경 시 unique key 관련 오류.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "IntelliJ SpringBoot 자동 빌드 설정의 백링크"
+              "title": "db 데이터 변경 시 unique key 관련 오류의 백링크"
             }
           },
           {
@@ -228,11 +228,12 @@
   },
   "active": "95219f419e569936",
   "lastOpenFiles": [
+    "검색 요청값(TO-BE).png",
+    "검색 요청값(AS-IS).png",
+    "WPJ/무제 파일.md",
     "WPJ/공통코드.canvas",
     "IntelliJ SpringBoot 자동 빌드 설정.md",
     "로컬저장소 recoil-persist commonCodeListState.png",
-    "검색 요청값(TO-BE).png",
-    "검색 요청값(AS-IS).png",
     "무제 파일.md",
     "WPJ/db 데이터 변경 시 unique key 관련 오류.md",
     "Pasted image 20250116170814.png",
