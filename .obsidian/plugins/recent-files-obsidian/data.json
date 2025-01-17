@@ -1,28 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "무제 파일 2",
-      "path": "무제 파일 2.md"
-    },
-    {
-      "basename": "무제 파일 1",
-      "path": "무제 파일 1.md"
-    },
-    {
-      "basename": "github와 연결 방법",
-      "path": "github와 연결 방법.md"
+      "basename": "공통코드 정상 로직",
+      "path": "WPJ/공통코드 정상 로직.canvas"
     },
     {
       "basename": "db 데이터 변경 시 unique key 관련 오류",
       "path": "WPJ/db 데이터 변경 시 unique key 관련 오류.md"
-    },
-    {
-      "basename": "검색 요청값(TO-BE)",
-      "path": "검색 요청값(TO-BE).png"
-    },
-    {
-      "basename": "검색 요청값(AS-IS)",
-      "path": "검색 요청값(AS-IS).png"
     },
     {
       "basename": "무제 파일",
@@ -33,16 +17,44 @@
       "path": "WPJ/공통코드.canvas"
     },
     {
-      "basename": "IntelliJ SpringBoot 자동 빌드 설정",
-      "path": "IntelliJ SpringBoot 자동 빌드 설정.md"
+      "basename": "검색 요청값(AS-IS)",
+      "path": "검색 요청값(AS-IS).png"
     },
     {
-      "basename": "로컬저장소 recoil-persist commonCodeListState",
-      "path": "로컬저장소 recoil-persist commonCodeListState.png"
+      "basename": "검색 요청값(TO-BE)",
+      "path": "검색 요청값(TO-BE).png"
+    },
+    {
+      "basename": "런타임 환경",
+      "path": "런타임 환경.md"
     },
     {
       "basename": "무제 파일",
       "path": "무제 파일.md"
+    },
+    {
+      "basename": "무제 파일 1",
+      "path": "무제 파일 1.md"
+    },
+    {
+      "basename": "IntelliJ SpringBoot 자동 빌드 설정",
+      "path": "IntelliJ SpringBoot 자동 빌드 설정.md"
+    },
+    {
+      "basename": "Pasted image 20250116170814",
+      "path": "Pasted image 20250116170814.png"
+    },
+    {
+      "basename": "github와 연결 방법",
+      "path": "github와 연결 방법.md"
+    },
+    {
+      "basename": "무제 파일 2",
+      "path": "무제 파일 2.md"
+    },
+    {
+      "basename": "로컬저장소 recoil-persist commonCodeListState",
+      "path": "로컬저장소 recoil-persist commonCodeListState.png"
     },
     {
       "basename": "공통코드",

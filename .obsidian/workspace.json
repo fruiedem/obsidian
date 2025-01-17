@@ -70,14 +70,17 @@
             "id": "5c36f2c32f581cf2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "무제 파일 2.md",
-                "mode": "source",
-                "source": false
+                "file": "WPJ/공통코드 정상 로직.canvas",
+                "viewState": {
+                  "x": -36,
+                  "y": 964.6000061035156,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "무제 파일 2"
+              "icon": "lucide-layout-dashboard",
+              "title": "공통코드 정상 로직"
             }
           },
           {
@@ -213,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일 2.md",
+                "file": "WPJ/공통코드 정상 로직.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +226,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "무제 파일 2의 백링크"
+              "title": "공통코드 정상 로직의 백링크"
             }
           },
           {
@@ -273,6 +276,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
@@ -284,23 +288,26 @@
   },
   "active": "5c36f2c32f581cf2",
   "lastOpenFiles": [
+    "WPJ/db 데이터 변경 시 unique key 관련 오류.md",
+    "WPJ/공통코드 정상 로직.canvas",
+    "WPJ/무제 파일 1.md",
+    "WPJ/무제 파일.md",
+    "WPJ/공통코드.canvas",
+    "검색 요청값(AS-IS).png",
+    "검색 요청값(TO-BE).png",
+    "런타임 환경.md",
+    "무제 파일.md",
     "무제 파일 1.md",
-    "무제 파일 2.md",
+    "IntelliJ SpringBoot 자동 빌드 설정.md",
+    "Pasted image 20250116170814.png",
     "github와 연결 방법.md",
+    "무제 파일 2.md",
     "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/31. 객체지향05.md",
     "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/30. 객체지향04.md",
     "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/29. 객체지향03.md",
     "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/28. 객체지향02.md",
     "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/27. 객체지향 01.md",
-    "WPJ/db 데이터 변경 시 unique key 관련 오류.md",
-    "검색 요청값(TO-BE).png",
-    "검색 요청값(AS-IS).png",
-    "WPJ/무제 파일.md",
-    "WPJ/공통코드.canvas",
-    "IntelliJ SpringBoot 자동 빌드 설정.md",
     "로컬저장소 recoil-persist commonCodeListState.png",
-    "무제 파일.md",
-    "Pasted image 20250116170814.png",
     "WPJ/공통코드.md",
     "WPJ/개발환경.md",
     "WPJ",
@@ -311,14 +318,11 @@
     "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/13. 구매품목VO.md",
     "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/14. 구매품목문서.md",
     "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/15. 구매문서.md",
-    "런타임 환경.md",
     "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)",
     "KWL 노트/자바익힘(1월)",
     "obsidian 동기화 방법.md",
     "Package-lock.json.md",
     "Untitled.canvas",
-    "README.md",
-    "2025-01-08.md",
     "KWL 노트",
     "폴더 생성 테스트"
   ]
