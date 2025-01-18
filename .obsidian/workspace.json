@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/18. ObjClass03.md",
+                "file": "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/20. 객체지향02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "18. ObjClass03"
+              "title": "20. 객체지향02"
+            }
+          },
+          {
+            "id": "26de85113eef051e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "독서노트/일 잘하는 사람의 시간은 다르게 흘러간다.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "일 잘하는 사람의 시간은 다르게 흘러간다"
             }
           },
           {
@@ -35,7 +49,8 @@
               "title": "17. ObjClass02"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -193,10 +208,24 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "a72cc4f541afc6ed",
+  "active": "35c8b7ce9f4b7de9",
   "lastOpenFiles": [
-    "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/16. ObjClass01.md",
+    "독서노트/일 잘하는 사람의 시간은 다르게 흘러간다.md",
+    "위키하우/목표달성 방법.md",
+    "위키하우/시간관리 방법.md",
+    "위키하우/독서방법.md",
+    "독서노트/시간, 목표달성 관리",
+    "위키하우",
+    "독서노트",
+    "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/20. 객체지향02.md",
+    "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/21. 객체지향03.md",
+    "Pasted image 20250112092806.png",
+    "Pasted image 20250112092132.png",
+    "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/19. 객체지향01.md",
+    "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/23. 객체지향05.md",
+    "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/22. 객체지향04.md",
     "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/18. ObjClass03.md",
+    "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/16. ObjClass01.md",
     "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/17. ObjClass02.md",
     "github와 연결 방법.md",
     "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/Untitled.md",
