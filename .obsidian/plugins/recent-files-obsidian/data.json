@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "17. ObjClass02",
-      "path": "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/17. ObjClass02.md"
+      "basename": "github와 연결 방법",
+      "path": "github와 연결 방법.md"
     },
     {
-      "basename": "일 잘하는 사람의 시간은 다르게 흘러간다",
-      "path": "독서노트/일 잘하는 사람의 시간은 다르게 흘러간다.md"
+      "basename": "intellij 디버깅 방법",
+      "path": "위키하우/intellij/intellij 디버깅 방법.md"
     },
     {
-      "basename": "독서방법",
-      "path": "위키하우/독서방법.md"
+      "basename": "런타임 환경",
+      "path": "런타임 환경.md"
+    },
+    {
+      "basename": "2025-01-18",
+      "path": "2025-01-18.md"
+    },
+    {
+      "basename": "검색 요청값(AS-IS)",
+      "path": "첨부파일/검색 요청값(AS-IS).png"
+    },
+    {
+      "basename": "검색 요청값(TO-BE)",
+      "path": "첨부파일/검색 요청값(TO-BE).png"
     },
     {
       "basename": "20. 객체지향02",
@@ -21,16 +33,8 @@
       "path": "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/21. 객체지향03.md"
     },
     {
-      "basename": "19. 객체지향01",
-      "path": "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/19. 객체지향01.md"
-    },
-    {
-      "basename": "23. 객체지향05",
-      "path": "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/23. 객체지향05.md"
-    },
-    {
-      "basename": "22. 객체지향04",
-      "path": "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/22. 객체지향04.md"
+      "basename": "17. ObjClass02",
+      "path": "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/17. ObjClass02.md"
     },
     {
       "basename": "18. ObjClass03",
@@ -41,8 +45,60 @@
       "path": "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/16. ObjClass01.md"
     },
     {
-      "basename": "github와 연결 방법",
-      "path": "github와 연결 방법.md"
+      "basename": "Pasted image 20250112092132",
+      "path": "첨부파일/Pasted image 20250112092132.png"
+    },
+    {
+      "basename": "22. 객체지향04",
+      "path": "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/22. 객체지향04.md"
+    },
+    {
+      "basename": "19. 객체지향01",
+      "path": "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/19. 객체지향01.md"
+    },
+    {
+      "basename": "23. 객체지향05",
+      "path": "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/23. 객체지향05.md"
+    },
+    {
+      "basename": "27. 객체지향 01",
+      "path": "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/27. 객체지향 01.md"
+    },
+    {
+      "basename": "29. 객체지향03",
+      "path": "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/29. 객체지향03.md"
+    },
+    {
+      "basename": "30. 객체지향04",
+      "path": "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/30. 객체지향04.md"
+    },
+    {
+      "basename": "(SYSTEM) 위플젝 서버 접속 정보",
+      "path": "WPJ/(SYSTEM) 위플젝 서버 접속 정보.md"
+    },
+    {
+      "basename": "intellij tips",
+      "path": "위키하우/intellij/intellij tips.md"
+    },
+    {
+      "basename": "intellij 디버깅 방법2",
+      "path": "위키하우/intellij/intellij 디버깅 방법2.md"
+    },
+    {
+      "basename": "로컬저장소 recoil-persist commonCodeListState",
+      "path": "첨부파일/로컬저장소 recoil-persist commonCodeListState.png"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "일 잘하는 사람의 시간은 다르게 흘러간다",
+      "path": "독서노트/일 잘하는 사람의 시간은 다르게 흘러간다.md"
+    },
+    {
+      "basename": "독서방법",
+      "path": "위키하우/독서방법.md"
     }
   ],
   "omittedPaths": [],
