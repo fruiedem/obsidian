@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "README",
-      "path": "README.md"
+      "basename": "obsidian 동기화 방법",
+      "path": "obsidian 동기화 방법.md"
+    },
+    {
+      "basename": "github와 연결 방법",
+      "path": "위키하우/git/github와 연결 방법.md"
+    },
+    {
+      "basename": "Package-lock.json",
+      "path": "Wonder 5W1H/Package-lock.json.md"
+    },
+    {
+      "basename": "IntelliJ SpringBoot 자동 빌드 설정",
+      "path": "Wonder 5W1H/IntelliJ SpringBoot 자동 빌드 설정.md"
     },
     {
       "basename": "런타임 환경",
-      "path": "런타임 환경.md"
+      "path": "Wonder 5W1H/런타임 환경.md"
+    },
+    {
+      "basename": "intellij tips",
+      "path": "위키하우/intellij/intellij tips.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "2025-01-18",
@@ -35,14 +55,6 @@
     {
       "basename": "공통코드 정상 로직",
       "path": "WPJ/공통코드 정상 로직.canvas"
-    },
-    {
-      "basename": "IntelliJ SpringBoot 자동 빌드 설정",
-      "path": "IntelliJ SpringBoot 자동 빌드 설정.md"
-    },
-    {
-      "basename": "Package-lock.json",
-      "path": "Package-lock.json.md"
     },
     {
       "basename": "Pasted image 20250118092432",
@@ -87,14 +99,6 @@
     {
       "basename": "Pasted image 20250112092132",
       "path": "첨부파일/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/Pasted image 20250112092132.png"
-    },
-    {
-      "basename": "obsidian 동기화 방법",
-      "path": "obsidian 동기화 방법.md"
-    },
-    {
-      "basename": "github와 연결 방법",
-      "path": "위키하우/git/github와 연결 방법.md"
     },
     {
       "basename": "intellij 디버깅 방법",
@@ -147,10 +151,6 @@
     {
       "basename": "(SYSTEM) 위플젝 서버 접속 정보",
       "path": "WPJ/(SYSTEM) 위플젝 서버 접속 정보.md"
-    },
-    {
-      "basename": "intellij tips",
-      "path": "위키하우/intellij/intellij tips.md"
     },
     {
       "basename": "intellij 디버깅 방법2",
