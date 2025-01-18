@@ -1,12 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "github와 연결 방법",
-      "path": "github와 연결 방법.md"
-    },
-    {
-      "basename": "intellij 디버깅 방법",
-      "path": "위키하우/intellij/intellij 디버깅 방법.md"
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "런타임 환경",
@@ -17,12 +13,92 @@
       "path": "2025-01-18.md"
     },
     {
-      "basename": "검색 요청값(AS-IS)",
-      "path": "첨부파일/검색 요청값(AS-IS).png"
+      "basename": "로컬저장소 recoil-persist commonCodeListState",
+      "path": "첨부파일/WPJ/로컬저장소 recoil-persist commonCodeListState.png"
     },
     {
       "basename": "검색 요청값(TO-BE)",
-      "path": "첨부파일/검색 요청값(TO-BE).png"
+      "path": "첨부파일/WPJ/검색 요청값(TO-BE).png"
+    },
+    {
+      "basename": "검색 요청값(AS-IS)",
+      "path": "첨부파일/WPJ/검색 요청값(AS-IS).png"
+    },
+    {
+      "basename": "Pasted image 20250116170814",
+      "path": "첨부파일/WPJ/Pasted image 20250116170814.png"
+    },
+    {
+      "basename": "db 데이터 변경 시 unique key 관련 오류",
+      "path": "WPJ/db 데이터 변경 시 unique key 관련 오류.md"
+    },
+    {
+      "basename": "공통코드 정상 로직",
+      "path": "WPJ/공통코드 정상 로직.canvas"
+    },
+    {
+      "basename": "IntelliJ SpringBoot 자동 빌드 설정",
+      "path": "IntelliJ SpringBoot 자동 빌드 설정.md"
+    },
+    {
+      "basename": "Package-lock.json",
+      "path": "Package-lock.json.md"
+    },
+    {
+      "basename": "Pasted image 20250118092432",
+      "path": "첨부파일/위키하우/intellij/Pasted image 20250118092432.png"
+    },
+    {
+      "basename": "Pasted image 20250118094051",
+      "path": "첨부파일/위키하우/intellij/Pasted image 20250118094051.png"
+    },
+    {
+      "basename": "Pasted image 20250112092806",
+      "path": "첨부파일/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/Pasted image 20250112092806.png"
+    },
+    {
+      "basename": "Pasted image 20250118092551",
+      "path": "첨부파일/위키하우/intellij/Pasted image 20250118092551.png"
+    },
+    {
+      "basename": "Pasted image 20250118092608",
+      "path": "첨부파일/위키하우/intellij/Pasted image 20250118092608.png"
+    },
+    {
+      "basename": "Pasted image 20250118092620",
+      "path": "첨부파일/위키하우/intellij/Pasted image 20250118092620.png"
+    },
+    {
+      "basename": "Pasted image 20250118093957",
+      "path": "첨부파일/위키하우/intellij/Pasted image 20250118093957.png"
+    },
+    {
+      "basename": "Pasted image 20250118094016",
+      "path": "첨부파일/위키하우/intellij/Pasted image 20250118094016.png"
+    },
+    {
+      "basename": "Pasted image 20250118094020",
+      "path": "첨부파일/위키하우/intellij/Pasted image 20250118094020.png"
+    },
+    {
+      "basename": "Pasted image 20250118094030",
+      "path": "첨부파일/위키하우/intellij/Pasted image 20250118094030.png"
+    },
+    {
+      "basename": "Pasted image 20250112092132",
+      "path": "첨부파일/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/Pasted image 20250112092132.png"
+    },
+    {
+      "basename": "obsidian 동기화 방법",
+      "path": "obsidian 동기화 방법.md"
+    },
+    {
+      "basename": "github와 연결 방법",
+      "path": "위키하우/git/github와 연결 방법.md"
+    },
+    {
+      "basename": "intellij 디버깅 방법",
+      "path": "위키하우/intellij/intellij 디버깅 방법.md"
     },
     {
       "basename": "20. 객체지향02",
@@ -43,10 +119,6 @@
     {
       "basename": "16. ObjClass01",
       "path": "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/16. ObjClass01.md"
-    },
-    {
-      "basename": "Pasted image 20250112092132",
-      "path": "첨부파일/Pasted image 20250112092132.png"
     },
     {
       "basename": "22. 객체지향04",
@@ -83,14 +155,6 @@
     {
       "basename": "intellij 디버깅 방법2",
       "path": "위키하우/intellij/intellij 디버깅 방법2.md"
-    },
-    {
-      "basename": "로컬저장소 recoil-persist commonCodeListState",
-      "path": "첨부파일/로컬저장소 recoil-persist commonCodeListState.png"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.md"
     },
     {
       "basename": "일 잘하는 사람의 시간은 다르게 흘러간다",
