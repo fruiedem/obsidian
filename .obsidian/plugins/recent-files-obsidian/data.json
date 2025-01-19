@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "4.4 요청 처리 메서드와 모델 유형",
+      "path": "3. KWL 노트/스프링부트 익힘/4장 컨트롤러 구현/4.4 요청 처리 메서드와 모델 유형.md"
+    },
+    {
       "basename": "4.3 @RequestMapping을 이용한 요청 매핑 경로 설정",
       "path": "3. KWL 노트/스프링부트 익힘/4장 컨트롤러 구현/4.3 @RequestMapping을 이용한 요청 매핑 경로 설정.md"
     },
