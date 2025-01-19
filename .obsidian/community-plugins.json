@@ -6,7 +6,6 @@
   "emoji-shortcodes",
   "code-styler",
   "editing-toolbar",
-  "attachment-management",
-  "obsidian-style-settings",
-  "obsidian-version-history-diff"
+  "obsidian-git",
+  "obsidian-style-settings"
 ]
