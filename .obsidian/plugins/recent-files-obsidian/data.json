@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "공통코드",
+      "path": "5. 프로젝트-WPJ/공통코드.canvas"
+    },
+    {
+      "basename": "5.2 경로 변수와 @PathVariable",
+      "path": "3. KWL 노트/스프링부트 익힘/5장 요청 처리 메서드의 파라미터 유형/5.2 경로 변수와 @PathVariable.md"
+    },
+    {
+      "basename": "5.3 매트릭스 변수와 @MatrixVariable",
+      "path": "3. KWL 노트/스프링부트 익힘/5장 요청 처리 메서드의 파라미터 유형/5.3 매트릭스 변수와 @MatrixVariable.md"
+    },
+    {
+      "basename": "5.4 도서 쇼핑몰_도서 상세 정보 표시하기",
+      "path": "3. KWL 노트/스프링부트 익힘/5장 요청 처리 메서드의 파라미터 유형/5.4 도서 쇼핑몰_도서 상세 정보 표시하기.md"
+    },
+    {
       "basename": "13.2 RESTful 방식의 애너테이션",
       "path": "3. KWL 노트/스프링부트 익힘/13장 RESTful 웹 서비스/13.2 RESTful 방식의 애너테이션.md"
     },
@@ -21,20 +37,8 @@
       "path": "3. KWL 노트/스프링부트 익힘/13장 RESTful 웹 서비스/13 학습 목표.md"
     },
     {
-      "basename": "5.3 매트릭스 변수와 @MatrixVariable",
-      "path": "3. KWL 노트/스프링부트 익힘/5장 요청 처리 메서드의 파라미터 유형/5.3 매트릭스 변수와 @MatrixVariable.md"
-    },
-    {
-      "basename": "5.2 경로 변수와 @PathVariable",
-      "path": "3. KWL 노트/스프링부트 익힘/5장 요청 처리 메서드의 파라미터 유형/5.2 경로 변수와 @PathVariable.md"
-    },
-    {
       "basename": "5.1 요청 파라미터와 @RequestParam",
       "path": "3. KWL 노트/스프링부트 익힘/5장 요청 처리 메서드의 파라미터 유형/5.1 요청 파라미터와 @RequestParam.md"
-    },
-    {
-      "basename": "5.4 도서 쇼핑몰_도서 상세 정보 표시하기",
-      "path": "3. KWL 노트/스프링부트 익힘/5장 요청 처리 메서드의 파라미터 유형/5.4 도서 쇼핑몰_도서 상세 정보 표시하기.md"
     },
     {
       "basename": "5 학습 목표",

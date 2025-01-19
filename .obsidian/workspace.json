@@ -42,14 +42,17 @@
             "id": "95219f419e569936",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "3. KWL 노트/스프링부트 익힘/13장 RESTful 웹 서비스/13.2 RESTful 방식의 애너테이션.md",
-                "mode": "source",
-                "source": false
+                "file": "5. 프로젝트-WPJ/공통코드.canvas",
+                "viewState": {
+                  "x": -558.4857735664096,
+                  "y": 3275.7531521821493,
+                  "zoom": -1.5451604275324409
+                }
               },
-              "icon": "lucide-file",
-              "title": "13.2 RESTful 방식의 애너테이션"
+              "icon": "lucide-layout-dashboard",
+              "title": "공통코드"
             }
           },
           {
@@ -174,10 +177,26 @@
   "right": {
     "id": "80e777cda9c60c48",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "adca12fbff7ef093",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9f1e6ed04f2dbdd",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,16 +212,16 @@
   },
   "active": "95219f419e569936",
   "lastOpenFiles": [
+    "3. KWL 노트/스프링부트 익힘/5장 요청 처리 메서드의 파라미터 유형/5.2 경로 변수와 @PathVariable.md",
+    "3. KWL 노트/스프링부트 익힘/5장 요청 처리 메서드의 파라미터 유형/5.3 매트릭스 변수와 @MatrixVariable.md",
+    "3. KWL 노트/스프링부트 익힘/5장 요청 처리 메서드의 파라미터 유형/5.4 도서 쇼핑몰_도서 상세 정보 표시하기.md",
+    "3. KWL 노트/스프링부트 익힘/13장 RESTful 웹 서비스/13.2 RESTful 방식의 애너테이션.md",
     "3. KWL 노트/스프링부트 익힘/13장 RESTful 웹 서비스/13.1 RESTful 웹 서비스의 개요.md",
     "3. KWL 노트/스프링부트 익힘/13장 RESTful 웹 서비스/13.4 도서 쇼핑몰_장바구니 페이지 만들기.md",
     "3. KWL 노트/스프링부트 익힘/13장 RESTful 웹 서비스/13.3 RESTful 웹 서비스의 CRUD.md",
-    "3. KWL 노트/스프링부트 익힘/13장 RESTful 웹 서비스/13.2 RESTful 방식의 애너테이션.md",
     "3. KWL 노트/스프링부트 익힘/13장 RESTful 웹 서비스/13 학습 목표.md",
-    "3. KWL 노트/스프링부트 익힘/5장 요청 처리 메서드의 파라미터 유형/5.3 매트릭스 변수와 @MatrixVariable.md",
     "3. KWL 노트/스프링부트 익힘/13장 RESTful 웹 서비스",
-    "3. KWL 노트/스프링부트 익힘/5장 요청 처리 메서드의 파라미터 유형/5.2 경로 변수와 @PathVariable.md",
     "3. KWL 노트/스프링부트 익힘/5장 요청 처리 메서드의 파라미터 유형/5.1 요청 파라미터와 @RequestParam.md",
-    "3. KWL 노트/스프링부트 익힘/5장 요청 처리 메서드의 파라미터 유형/5.4 도서 쇼핑몰_도서 상세 정보 표시하기.md",
     "3. KWL 노트/스프링부트 익힘/5장 요청 처리 메서드의 파라미터 유형/5 학습 목표.md",
     "3. KWL 노트/스프링부트 익힘/4장 컨트롤러 구현/4.5 도서 쇼핑몰_도서 목록 표시하기.canvas",
     "3. KWL 노트/스프링부트 익힘/5장 요청 처리 메서드의 파라미터 유형",
