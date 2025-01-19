@@ -41,12 +41,82 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "위키하우/보안/SSH-KEY를 통한 공개키 인증의 원리.md",
+                "file": "2. 위키하우/intellij/intellij 디버깅 방법.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SSH-KEY를 통한 공개키 인증의 원리"
+              "title": "intellij 디버깅 방법"
+            }
+          },
+          {
+            "id": "95e38daf38ba50fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. 프로젝트-WPJ/db 데이터 변경 시 unique key 관련 오류.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "db 데이터 변경 시 unique key 관련 오류"
+            }
+          },
+          {
+            "id": "c0b8e03f8cdb9600",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. 프로젝트-WPJ/db 데이터 변경 시 unique key 관련 오류.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "db 데이터 변경 시 unique key 관련 오류"
+            }
+          },
+          {
+            "id": "29cd21208cff8ba7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. 프로젝트-WPJ/db 데이터 변경 시 unique key 관련 오류.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "db 데이터 변경 시 unique key 관련 오류"
+            }
+          },
+          {
+            "id": "6279b49cfa162ead",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. 프로젝트-WPJ/db 데이터 변경 시 unique key 관련 오류.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "db 데이터 변경 시 unique key 관련 오류"
+            }
+          },
+          {
+            "id": "dff783c9606ebec9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. KWL 노트/스프링부트 익힘/3장 스프링부트의 구조/3.3 도서 쇼핑몰_계층적 구조 만들기 (25-01-28).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.3 도서 쇼핑몰_계층적 구조 만들기 (25-01-28)"
             }
           },
           {
@@ -78,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -90,7 +160,7 @@
       {
         "id": "ac6f4e3f16c53798",
         "type": "tabs",
-        "dimension": 80.73217726396918,
+        "dimension": 72.42044358727097,
         "children": [
           {
             "id": "710010ae01219ce3",
@@ -98,7 +168,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabeticalReverse"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -110,7 +180,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "IMG-20250118203247999.png",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,7 +206,7 @@
       {
         "id": "943b7d5709cdf00d",
         "type": "tabs",
-        "dimension": 19.26782273603083,
+        "dimension": 27.579556412729026,
         "children": [
           {
             "id": "e794316d5e877016",
@@ -152,7 +222,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 600.5
   },
   "right": {
     "id": "80e777cda9c60c48",
@@ -238,56 +308,56 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "35c8b7ce9f4b7de9",
+  "active": "dff783c9606ebec9",
   "lastOpenFiles": [
-    "첨부파일/위키하우/보안/SSH-KEY를 통한 공개키 인증의 원리",
-    "첨부파일/위키하우/보안/(2025-01-18) SSH-KEY를 통한 공개키 인증의 원리",
-    "첨부파일/위키하우/보안",
-    "위키하우/보안",
-    "첨부파일/Wonder 5W1H/(2025-01-18) SSH-KEY를 통한 공개키 인증의 원리",
-    "첨부파일/Wonder 5W1H",
-    "첨부파일/위키하우/보안/SSH-KEY를 통한 공개키 인증의 원리/IMG-20250118154415951.png",
-    "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/17. ObjClass02.md",
-    "위키하우/보안/SSH-KEY를 통한 공개키 인증의 원리.md",
+    "1. Wonder 5W1H/도메인, DTO, Entity 차이.md",
+    "3. KWL 노트/스프링부트 익힘/3장 스프링부트의 구조/3.3 도서 쇼핑몰_계층적 구조 만들기 (25-01-28).md",
+    "첨부파일/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/Pasted image 20250112092132.png",
+    "3. KWL 노트/스프링부트 익힘/3장 스프링부트의 구조",
+    "3. KWL 노트/스프링부트 익힘",
+    "첨부파일/3. KWL 노트/자바익힘/자바 입문자를 위한 강의(88中16)/20. 객체지향02",
+    "첨부파일/3. KWL 노트/자바익힘/자바 입문자를 위한 강의(88中16)",
+    "첨부파일/3. KWL 노트/자바익힘",
+    "첨부파일/3. KWL 노트",
+    "1. Wonder 5W1H/Package-lock.json.md",
+    "첨부파일/Pasted image 20250118205220.png",
+    "첨부파일/Pasted image 20250118205121.png",
+    "첨부파일/5. 프로젝트-WPJ/db 데이터 변경 시 unique key 관련 오류/IMG-20250118203248001.png",
+    "5. 프로젝트-WPJ/db 데이터 변경 시 unique key 관련 오류.md",
+    "5. 프로젝트-WPJ/공통코드 정상 로직.canvas",
+    "1. Wonder 5W1H/IntelliJ SpringBoot 자동 빌드 설정.md",
+    "1. Wonder 5W1H/런타임 환경.md",
+    "2. 위키하우/보안/SSH-KEY를 통한 공개키 인증의 원리.md",
+    "2. 위키하우/intellij/intellij tips.md",
+    "2. 위키하우/intellij/intellij 디버깅 방법2.md",
+    "2. 위키하우/intellij/intellij 디버깅 방법.md",
+    "첨부파일/첨부파일/5. 프로젝트-WPJ/공통코드/IMG-20250118203247999.png/IMG-20250118204514766.png",
+    "첨부파일/5. 프로젝트-WPJ/db 데이터 변경 시 unique key 관련 오류",
+    "첨부파일/위키하우/보안/SSH-KEY를 통한 공개키 인증의 원리/IMG-20250118202942794.png",
+    "첨부파일/위키하우/intellij/intellij tips/IMG-20250118202942784.png",
+    "첨부파일/3. KWL 노트/자바익힘/자바 입문자를 위한 강의(88中16)/20. 객체지향02/IMG-20250118212045240.png",
+    "첨부파일/5. 프로젝트-WPJ/공통코드/IMG-20250118204717825.png",
+    "첨부파일/5. 프로젝트-WPJ/공통코드/IMG-20250118204712691.png",
+    "첨부파일/5. 프로젝트-WPJ/공통코드/IMG-20250118203247999.png.md",
+    "5. 프로젝트-WPJ/공통코드.canvas",
+    "첨부파일/첨부파일/5. 프로젝트-WPJ/공통코드",
+    "첨부파일/첨부파일/5. 프로젝트-WPJ",
+    "첨부파일/첨부파일",
+    "5. 프로젝트-WPJ/(SYSTEM) 위플젝 서버 접속 정보.md",
+    "4. 독서노트/일 잘하는 사람의 시간은 다르게 흘러간다.md",
+    "Wonder 5W1H/Untitled.md",
+    "3. KWL 노트/자바익힘/자바 입문자를 위한 강의(88中16)/17. ObjClass02.md",
     "obsidian 동기화 방법.md",
-    "위키하우/git/github와 연결 방법.md",
-    "Wonder 5W1H/Package-lock.json.md",
-    "Wonder 5W1H/IntelliJ SpringBoot 자동 빌드 설정.md",
-    "Wonder 5W1H/런타임 환경.md",
-    "위키하우/intellij/intellij tips.md",
+    "2. 위키하우/git/github와 연결 방법.md",
     "README.md",
-    "Wonder 5W1H",
     "2025-01-18.md",
-    "첨부파일/WPJ/로컬저장소 recoil-persist commonCodeListState.png",
-    "첨부파일/WPJ/검색 요청값(TO-BE).png",
-    "첨부파일/WPJ/검색 요청값(AS-IS).png",
-    "첨부파일/WPJ/Pasted image 20250116170814.png",
-    "WPJ/db 데이터 변경 시 unique key 관련 오류.md",
-    "WPJ/공통코드 정상 로직.canvas",
     "WPJ/무제 파일.md",
     "Untitled.md",
-    "첨부파일/위키하우/intellij/Pasted image 20250118092432.png",
-    "첨부파일/위키하우/intellij/Pasted image 20250118094051.png",
-    "첨부파일/위키하우/intellij",
-    "첨부파일/위키하우/git",
-    "첨부파일/위키하우",
-    "첨부파일/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/Pasted image 20250112092806.png",
-    "첨부파일/위키하우/intellij/Pasted image 20250118092551.png",
-    "첨부파일/위키하우/intellij/Pasted image 20250118092608.png",
-    "첨부파일/자바익힘(1월)/자바 입문자를 위한 강의(88中16)",
-    "위키하우/intellij/intellij 디버깅 방법.md",
     "무제 파일 1.md",
     "무제 파일 2.md",
     "무제 파일.md",
-    "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/20. 객체지향02.md",
-    "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/21. 객체지향03.md",
-    "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/18. ObjClass03.md",
-    "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/16. ObjClass01.md",
-    "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/22. 객체지향04.md",
-    "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/19. 객체지향01.md",
-    "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/23. 객체지향05.md",
-    "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/27. 객체지향 01.md",
-    "WPJ/공통코드.canvas",
+    "3. KWL 노트/자바익힘/자바 입문자를 위한 강의(88中16)/20. 객체지향02.md",
+    "3. KWL 노트/자바익힘/자바 입문자를 위한 강의(88中16)/21. 객체지향03.md",
     "Untitled.canvas"
   ]
 }

@@ -1,12 +1,120 @@
 {
   "recentFiles": [
     {
+      "basename": "3.3 도서 쇼핑몰_계층적 구조 만들기 (25-01-28)",
+      "path": "3. KWL 노트/스프링부트 익힘/3장 스프링부트의 구조/3.3 도서 쇼핑몰_계층적 구조 만들기 (25-01-28).md"
+    },
+    {
+      "basename": "도메인, DTO, Entity 차이",
+      "path": "1. Wonder 5W1H/도메인, DTO, Entity 차이.md"
+    },
+    {
+      "basename": "Pasted image 20250112092132",
+      "path": "첨부파일/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/Pasted image 20250112092132.png"
+    },
+    {
+      "basename": "Package-lock.json",
+      "path": "1. Wonder 5W1H/Package-lock.json.md"
+    },
+    {
+      "basename": "IMG-20250118203248001",
+      "path": "첨부파일/5. 프로젝트-WPJ/db 데이터 변경 시 unique key 관련 오류/IMG-20250118203248001.png"
+    },
+    {
+      "basename": "db 데이터 변경 시 unique key 관련 오류",
+      "path": "5. 프로젝트-WPJ/db 데이터 변경 시 unique key 관련 오류.md"
+    },
+    {
+      "basename": "공통코드 정상 로직",
+      "path": "5. 프로젝트-WPJ/공통코드 정상 로직.canvas"
+    },
+    {
+      "basename": "IntelliJ SpringBoot 자동 빌드 설정",
+      "path": "1. Wonder 5W1H/IntelliJ SpringBoot 자동 빌드 설정.md"
+    },
+    {
+      "basename": "런타임 환경",
+      "path": "1. Wonder 5W1H/런타임 환경.md"
+    },
+    {
       "basename": "SSH-KEY를 통한 공개키 인증의 원리",
-      "path": "위키하우/보안/SSH-KEY를 통한 공개키 인증의 원리.md"
+      "path": "2. 위키하우/보안/SSH-KEY를 통한 공개키 인증의 원리.md"
+    },
+    {
+      "basename": "intellij tips",
+      "path": "2. 위키하우/intellij/intellij tips.md"
+    },
+    {
+      "basename": "intellij 디버깅 방법2",
+      "path": "2. 위키하우/intellij/intellij 디버깅 방법2.md"
+    },
+    {
+      "basename": "intellij 디버깅 방법",
+      "path": "2. 위키하우/intellij/intellij 디버깅 방법.md"
+    },
+    {
+      "basename": "IMG-20250118202942794",
+      "path": "첨부파일/위키하우/보안/SSH-KEY를 통한 공개키 인증의 원리/IMG-20250118202942794.png"
+    },
+    {
+      "basename": "IMG-20250118202942784",
+      "path": "첨부파일/위키하우/intellij/intellij tips/IMG-20250118202942784.png"
+    },
+    {
+      "basename": "IMG-20250118212045240",
+      "path": "첨부파일/3. KWL 노트/자바익힘/자바 입문자를 위한 강의(88中16)/20. 객체지향02/IMG-20250118212045240.png"
+    },
+    {
+      "basename": "IMG-20250118204717825",
+      "path": "첨부파일/5. 프로젝트-WPJ/공통코드/IMG-20250118204717825.png"
+    },
+    {
+      "basename": "IMG-20250118204712691",
+      "path": "첨부파일/5. 프로젝트-WPJ/공통코드/IMG-20250118204712691.png"
+    },
+    {
+      "basename": "IMG-20250118204617093",
+      "path": "첨부파일/5. 프로젝트-WPJ/공통코드/IMG-20250118204617093.png"
+    },
+    {
+      "basename": "IMG-20250118203247999.png",
+      "path": "첨부파일/5. 프로젝트-WPJ/공통코드/IMG-20250118203247999.png.md"
+    },
+    {
+      "basename": "공통코드",
+      "path": "5. 프로젝트-WPJ/공통코드.canvas"
+    },
+    {
+      "basename": "(SYSTEM) 위플젝 서버 접속 정보",
+      "path": "5. 프로젝트-WPJ/(SYSTEM) 위플젝 서버 접속 정보.md"
+    },
+    {
+      "basename": "IMG-20250118202942880",
+      "path": "첨부파일/위키하우/intellij/intellij 디버깅 방법/IMG-20250118202942880.png"
+    },
+    {
+      "basename": "IMG-20250118202942919",
+      "path": "첨부파일/위키하우/intellij/intellij 디버깅 방법/IMG-20250118202942919.png"
+    },
+    {
+      "basename": "IMG-20250118202942957",
+      "path": "첨부파일/위키하우/intellij/intellij 디버깅 방법/IMG-20250118202942957.png"
+    },
+    {
+      "basename": "IMG-20250118202942773",
+      "path": "첨부파일/위키하우/intellij/intellij 디버깅 방법/IMG-20250118202942773.png"
+    },
+    {
+      "basename": "IMG-20250118203407976",
+      "path": "첨부파일/2. 위키하우/보안/SSH-KEY를 통한 공개키 인증의 원리/IMG-20250118203407976.png"
+    },
+    {
+      "basename": "일 잘하는 사람의 시간은 다르게 흘러간다",
+      "path": "4. 독서노트/일 잘하는 사람의 시간은 다르게 흘러간다.md"
     },
     {
       "basename": "17. ObjClass02",
-      "path": "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/17. ObjClass02.md"
+      "path": "3. KWL 노트/자바익힘/자바 입문자를 위한 강의(88中16)/17. ObjClass02.md"
     },
     {
       "basename": "obsidian 동기화 방법",
@@ -14,23 +122,7 @@
     },
     {
       "basename": "github와 연결 방법",
-      "path": "위키하우/git/github와 연결 방법.md"
-    },
-    {
-      "basename": "Package-lock.json",
-      "path": "Wonder 5W1H/Package-lock.json.md"
-    },
-    {
-      "basename": "IntelliJ SpringBoot 자동 빌드 설정",
-      "path": "Wonder 5W1H/IntelliJ SpringBoot 자동 빌드 설정.md"
-    },
-    {
-      "basename": "런타임 환경",
-      "path": "Wonder 5W1H/런타임 환경.md"
-    },
-    {
-      "basename": "intellij tips",
-      "path": "위키하우/intellij/intellij tips.md"
+      "path": "2. 위키하우/git/github와 연결 방법.md"
     },
     {
       "basename": "README",
@@ -41,132 +133,48 @@
       "path": "2025-01-18.md"
     },
     {
-      "basename": "로컬저장소 recoil-persist commonCodeListState",
-      "path": "첨부파일/WPJ/로컬저장소 recoil-persist commonCodeListState.png"
-    },
-    {
-      "basename": "검색 요청값(TO-BE)",
-      "path": "첨부파일/WPJ/검색 요청값(TO-BE).png"
-    },
-    {
-      "basename": "검색 요청값(AS-IS)",
-      "path": "첨부파일/WPJ/검색 요청값(AS-IS).png"
-    },
-    {
-      "basename": "Pasted image 20250116170814",
-      "path": "첨부파일/WPJ/Pasted image 20250116170814.png"
-    },
-    {
-      "basename": "db 데이터 변경 시 unique key 관련 오류",
-      "path": "WPJ/db 데이터 변경 시 unique key 관련 오류.md"
-    },
-    {
-      "basename": "공통코드 정상 로직",
-      "path": "WPJ/공통코드 정상 로직.canvas"
-    },
-    {
-      "basename": "Pasted image 20250118092432",
-      "path": "첨부파일/위키하우/intellij/Pasted image 20250118092432.png"
-    },
-    {
-      "basename": "Pasted image 20250118094051",
-      "path": "첨부파일/위키하우/intellij/Pasted image 20250118094051.png"
-    },
-    {
-      "basename": "Pasted image 20250112092806",
-      "path": "첨부파일/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/Pasted image 20250112092806.png"
-    },
-    {
-      "basename": "Pasted image 20250118092551",
-      "path": "첨부파일/위키하우/intellij/Pasted image 20250118092551.png"
-    },
-    {
-      "basename": "Pasted image 20250118092608",
-      "path": "첨부파일/위키하우/intellij/Pasted image 20250118092608.png"
-    },
-    {
-      "basename": "Pasted image 20250118092620",
-      "path": "첨부파일/위키하우/intellij/Pasted image 20250118092620.png"
-    },
-    {
-      "basename": "Pasted image 20250118093957",
-      "path": "첨부파일/위키하우/intellij/Pasted image 20250118093957.png"
-    },
-    {
-      "basename": "Pasted image 20250118094016",
-      "path": "첨부파일/위키하우/intellij/Pasted image 20250118094016.png"
-    },
-    {
-      "basename": "Pasted image 20250118094020",
-      "path": "첨부파일/위키하우/intellij/Pasted image 20250118094020.png"
-    },
-    {
-      "basename": "Pasted image 20250118094030",
-      "path": "첨부파일/위키하우/intellij/Pasted image 20250118094030.png"
-    },
-    {
-      "basename": "Pasted image 20250112092132",
-      "path": "첨부파일/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/Pasted image 20250112092132.png"
-    },
-    {
-      "basename": "intellij 디버깅 방법",
-      "path": "위키하우/intellij/intellij 디버깅 방법.md"
-    },
-    {
       "basename": "20. 객체지향02",
-      "path": "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/20. 객체지향02.md"
+      "path": "3. KWL 노트/자바익힘/자바 입문자를 위한 강의(88中16)/20. 객체지향02.md"
     },
     {
       "basename": "21. 객체지향03",
-      "path": "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/21. 객체지향03.md"
+      "path": "3. KWL 노트/자바익힘/자바 입문자를 위한 강의(88中16)/21. 객체지향03.md"
     },
     {
       "basename": "18. ObjClass03",
-      "path": "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/18. ObjClass03.md"
+      "path": "3. KWL 노트/자바익힘/자바 입문자를 위한 강의(88中16)/18. ObjClass03.md"
     },
     {
       "basename": "16. ObjClass01",
-      "path": "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/16. ObjClass01.md"
+      "path": "3. KWL 노트/자바익힘/자바 입문자를 위한 강의(88中16)/16. ObjClass01.md"
     },
     {
       "basename": "22. 객체지향04",
-      "path": "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/22. 객체지향04.md"
+      "path": "3. KWL 노트/자바익힘/자바 입문자를 위한 강의(88中16)/22. 객체지향04.md"
     },
     {
       "basename": "19. 객체지향01",
-      "path": "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/19. 객체지향01.md"
+      "path": "3. KWL 노트/자바익힘/자바 입문자를 위한 강의(88中16)/19. 객체지향01.md"
     },
     {
       "basename": "23. 객체지향05",
-      "path": "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/23. 객체지향05.md"
+      "path": "3. KWL 노트/자바익힘/자바 입문자를 위한 강의(88中16)/23. 객체지향05.md"
     },
     {
       "basename": "27. 객체지향 01",
-      "path": "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/27. 객체지향 01.md"
+      "path": "3. KWL 노트/자바익힘/자바 입문자를 위한 강의(88中16)/27. 객체지향 01.md"
     },
     {
       "basename": "29. 객체지향03",
-      "path": "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/29. 객체지향03.md"
+      "path": "3. KWL 노트/자바익힘/자바 입문자를 위한 강의(88中16)/29. 객체지향03.md"
     },
     {
       "basename": "30. 객체지향04",
-      "path": "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/30. 객체지향04.md"
-    },
-    {
-      "basename": "(SYSTEM) 위플젝 서버 접속 정보",
-      "path": "WPJ/(SYSTEM) 위플젝 서버 접속 정보.md"
-    },
-    {
-      "basename": "intellij 디버깅 방법2",
-      "path": "위키하우/intellij/intellij 디버깅 방법2.md"
-    },
-    {
-      "basename": "일 잘하는 사람의 시간은 다르게 흘러간다",
-      "path": "독서노트/일 잘하는 사람의 시간은 다르게 흘러간다.md"
+      "path": "3. KWL 노트/자바익힘/자바 입문자를 위한 강의(88中16)/30. 객체지향04.md"
     },
     {
       "basename": "독서방법",
-      "path": "위키하우/독서방법.md"
+      "path": "2. 위키하우/독서방법.md"
     }
   ],
   "omittedPaths": [],

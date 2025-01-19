@@ -1,3 +1,21 @@
 {
-  "cssTheme": "Blue Topaz"
+  "cssTheme": "Blue Topaz",
+  "enabledCssSnippets": [
+    "【Background】default-markdown-page-background",
+    "【FONT】Consolas-Bookerly",
+    "color scheme_dark to light (All blue)",
+    "speech bubbles-1",
+    "speech bubbles-2",
+    "vertical lines of list-1",
+    "vertical lines of list-2",
+    "custom-background",
+    "custom-rainbow-colors",
+    "extended-colorschemes",
+    "floating-search-bar",
+    "floating-status-bar",
+    "its-frontmatter",
+    "minimal-cards",
+    "notion-cards"
+  ],
+  "theme": "obsidian"
 }

@@ -1,0 +1,12 @@
+{
+  "anuppuccin-custom-background@@anp-background-image-toggle": false,
+  "anuppuccin-theme-settings-extended@@anp-theme-ext-dark": true,
+  "anuppuccin-theme-settings-extended@@anp-theme-ext-light": false,
+  "anuppuccin-theme-settings-extended@@anp-theme-ext-amoled": false,
+  "anuppuccin-theme-settings-extended@@catppuccin-theme-extended": "ctp-nord-light",
+  "anuppuccin-theme-settings-extended@@catppuccin-theme-dark-extended": "ctp-nord-dark",
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-pink-topaz",
+  "blue-topaz-theme@@highlight-style": "all-rounded-corners-highlight",
+  "blue-topaz-theme@@text-highlight@@light": "#D857FF",
+  "blue-topaz-theme@@accent-strong@@dark": "#FF2CEB"
+}
