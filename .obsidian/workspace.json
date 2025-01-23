@@ -13,71 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WPJ/db 데이터 변경 시 unique key 관련 오류.md",
+                "file": "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/20. 객체지향02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "db 데이터 변경 시 unique key 관련 오류"
+              "title": "20. 객체지향02"
             }
           },
           {
-            "id": "ce16d0c8ab600988",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "WPJ/공통코드.canvas",
-                "viewState": {
-                  "x": -915.6375450750425,
-                  "y": 811.4636923501432,
-                  "zoom": -0.9176554226517397
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "공통코드"
-            }
-          },
-          {
-            "id": "95219f419e569936",
+            "id": "26de85113eef051e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. KWL 노트/스프링부트 익힘/13장 RESTful 웹 서비스/13.2 RESTful 방식의 애너테이션.md",
+                "file": "독서노트/일 잘하는 사람의 시간은 다르게 흘러간다.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13.2 RESTful 방식의 애너테이션"
-            }
-          },
-          {
-            "id": "61e1d09998e6b7f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "무제 파일 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "무제 파일 2"
-            }
-          },
-          {
-            "id": "ab18b45ebf3b8cc8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "무제 파일 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "무제 파일 1"
+              "title": "일 잘하는 사람의 시간은 다르게 흘러간다"
             }
           },
           {
@@ -86,16 +41,114 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/17. ObjClass02.md",
+                "file": "2. 위키하우/intellij/intellij 디버깅 방법.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "17. ObjClass02"
+              "title": "intellij 디버깅 방법"
+            }
+          },
+          {
+            "id": "95e38daf38ba50fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. 프로젝트-WPJ/db 데이터 변경 시 unique key 관련 오류.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "db 데이터 변경 시 unique key 관련 오류"
+            }
+          },
+          {
+            "id": "c0b8e03f8cdb9600",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. 프로젝트-WPJ/db 데이터 변경 시 unique key 관련 오류.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "db 데이터 변경 시 unique key 관련 오류"
+            }
+          },
+          {
+            "id": "29cd21208cff8ba7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. 프로젝트-WPJ/db 데이터 변경 시 unique key 관련 오류.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "db 데이터 변경 시 unique key 관련 오류"
+            }
+          },
+          {
+            "id": "6279b49cfa162ead",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. 프로젝트-WPJ/db 데이터 변경 시 unique key 관련 오류.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "db 데이터 변경 시 unique key 관련 오류"
+            }
+          },
+          {
+            "id": "dff783c9606ebec9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. KWL 노트/스프링부트 익힘/3장 스프링부트의 구조/3.3 도서 쇼핑몰_계층적 구조 만들기 (25-01-28).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.3 도서 쇼핑몰_계층적 구조 만들기 (25-01-28)"
+            }
+          },
+          {
+            "id": "595387dedb4d7748",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "위키하우/보안/SSH-KEY를 통한 공개키 인증의 원리.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SSH-KEY를 통한 공개키 인증의 원리"
+            }
+          },
+          {
+            "id": "e0ef53af78a0ee63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -107,7 +160,7 @@
       {
         "id": "ac6f4e3f16c53798",
         "type": "tabs",
-        "dimension": 71.6432865731463,
+        "dimension": 72.42044358727097,
         "children": [
           {
             "id": "710010ae01219ce3",
@@ -115,10 +168,10 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabeticalReverse"
               },
               "icon": "lucide-folder-closed",
-              "title": "파일 탐색기"
+              "title": "Files"
             }
           },
           {
@@ -127,7 +180,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "IMG-20250118203247999.png",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -153,7 +206,7 @@
       {
         "id": "943b7d5709cdf00d",
         "type": "tabs",
-        "dimension": 28.35671342685371,
+        "dimension": 27.579556412729026,
         "children": [
           {
             "id": "e794316d5e877016",
@@ -169,75 +222,143 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 600.5
   },
   "right": {
     "id": "80e777cda9c60c48",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "16fb979974b19d42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b47cc1a11e555534",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for README"
+            }
+          },
+          {
+            "id": "3a12b98c7bf5e26d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
+            }
+          },
+          {
+            "id": "294c51355800e14d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "cd2d00a3db2aae68",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
-      "github-sync:Sync with Remote": false,
-      "obsidian-git:Open Git source control": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "95219f419e569936",
+  "active": "dff783c9606ebec9",
   "lastOpenFiles": [
-    "3. KWL 노트/스프링부트 익힘/13장 RESTful 웹 서비스/13.1 RESTful 웹 서비스의 개요.md",
-    "3. KWL 노트/스프링부트 익힘/13장 RESTful 웹 서비스/13.4 도서 쇼핑몰_장바구니 페이지 만들기.md",
-    "3. KWL 노트/스프링부트 익힘/13장 RESTful 웹 서비스/13.3 RESTful 웹 서비스의 CRUD.md",
-    "3. KWL 노트/스프링부트 익힘/13장 RESTful 웹 서비스/13.2 RESTful 방식의 애너테이션.md",
-    "3. KWL 노트/스프링부트 익힘/13장 RESTful 웹 서비스/13 학습 목표.md",
+    "3. KWL 노트/스프링부트 익힘/5장 요청 처리 메서드의 파라미터 유형/5.4 도서 쇼핑몰_도서 상세 정보 표시하기.md",
     "3. KWL 노트/스프링부트 익힘/5장 요청 처리 메서드의 파라미터 유형/5.3 매트릭스 변수와 @MatrixVariable.md",
-    "3. KWL 노트/스프링부트 익힘/13장 RESTful 웹 서비스",
     "3. KWL 노트/스프링부트 익힘/5장 요청 처리 메서드의 파라미터 유형/5.2 경로 변수와 @PathVariable.md",
     "3. KWL 노트/스프링부트 익힘/5장 요청 처리 메서드의 파라미터 유형/5.1 요청 파라미터와 @RequestParam.md",
-    "3. KWL 노트/스프링부트 익힘/5장 요청 처리 메서드의 파라미터 유형/5.4 도서 쇼핑몰_도서 상세 정보 표시하기.md",
     "3. KWL 노트/스프링부트 익힘/5장 요청 처리 메서드의 파라미터 유형/5 학습 목표.md",
-    "3. KWL 노트/스프링부트 익힘/4장 컨트롤러 구현/4.5 도서 쇼핑몰_도서 목록 표시하기.canvas",
     "3. KWL 노트/스프링부트 익힘/5장 요청 처리 메서드의 파라미터 유형",
     "3. KWL 노트/스프링부트 익힘/4장 컨트롤러 구현/4.5 도서 쇼핑몰_도서 목록 표시하기.md",
+    "3. KWL 노트/스프링부트 익힘/4장 컨트롤러 구현/4.5 도서 쇼핑몰_도서 목록 표시하기.canvas",
+    "3. KWL 노트/스프링부트 익힘/4장 컨트롤러 구현/4.3 @RequestMapping을 이용한 요청 매핑 경로 설정.md",
     "3. KWL 노트/스프링부트 익힘/4장 컨트롤러 구현/4.4 요청 처리 메서드와 모델 유형.md",
     "3. KWL 노트/스프링부트 익힘/4장 컨트롤러 구현/4.2 컨트롤러 정의.md",
     "3. KWL 노트/스프링부트 익힘/4장 컨트롤러 구현/4.1 컨트롤러 개요.md",
-    "3. KWL 노트/스프링부트 익힘/4장 컨트롤러 구현/4.3 @RequestMapping을 이용한 요청 매핑 경로 설정.md",
-    "3. KWL 노트/스프링부트 익힘/3장 스프링부트의 구조/3.3 도서 쇼핑몰_계층적 구조 만들기 (25-01-28).md",
     "3. KWL 노트/스프링부트 익힘/4장 컨트롤러 구현",
-    "무제 파일 1.md",
-    "WPJ/공통코드 정상 로직.canvas",
-    "2. 위키하우/intellij/intellij tips.md",
-    "2. 위키하우/보안/SSH-KEY를 통한 공개키 인증의 원리.md",
-    "2. 위키하우/intellij/intellij 디버깅 방법2.md",
-    "2. 위키하우/intellij/intellij 디버깅 방법.md",
-    "2. 위키하우/git/github와 연결 방법.md",
-    "2. 위키하우/독서방법.md",
-    "2. 위키하우/보안",
-    "2. 위키하우/intellij",
-    "2. 위키하우/git",
-    "2. 위키하우",
-    "5. 프로젝트-WPJ/공통코드.canvas",
-    "5. 프로젝트-WPJ/공통코드.md",
-    "5. 프로젝트-WPJ/개발환경.md",
+    "3. KWL 노트/스프링부트 익힘/13장 RESTful 웹 서비스/13.2 RESTful 방식의 애너테이션.md",
+    "3. KWL 노트/스프링부트 익힘/13장 RESTful 웹 서비스/13.4 도서 쇼핑몰_장바구니 페이지 만들기.md",
+    "3. KWL 노트/스프링부트 익힘/13장 RESTful 웹 서비스/13.3 RESTful 웹 서비스의 CRUD.md",
+    "3. KWL 노트/스프링부트 익힘/13장 RESTful 웹 서비스/13.1 RESTful 웹 서비스의 개요.md",
+    "3. KWL 노트/스프링부트 익힘/13장 RESTful 웹 서비스/13 학습 목표.md",
+    "3. KWL 노트/스프링부트 익힘/13장 RESTful 웹 서비스",
+    "1. Wonder 5W1H/도메인, DTO, Entity 차이.md",
+    "3. KWL 노트/스프링부트 익힘/3장 스프링부트의 구조/3.3 도서 쇼핑몰_계층적 구조 만들기 (25-01-28).md",
+    "첨부파일/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/Pasted image 20250112092132.png",
+    "3. KWL 노트/스프링부트 익힘/3장 스프링부트의 구조",
+    "3. KWL 노트/스프링부트 익힘",
+    "첨부파일/3. KWL 노트/자바익힘/자바 입문자를 위한 강의(88中16)/20. 객체지향02",
+    "첨부파일/3. KWL 노트/자바익힘/자바 입문자를 위한 강의(88中16)",
+    "첨부파일/3. KWL 노트/자바익힘",
+    "첨부파일/3. KWL 노트",
+    "1. Wonder 5W1H/Package-lock.json.md",
+    "첨부파일/Pasted image 20250118205220.png",
+    "첨부파일/Pasted image 20250118205121.png",
+    "첨부파일/5. 프로젝트-WPJ/db 데이터 변경 시 unique key 관련 오류/IMG-20250118203248001.png",
     "5. 프로젝트-WPJ/db 데이터 변경 시 unique key 관련 오류.md",
     "5. 프로젝트-WPJ/공통코드 정상 로직.canvas",
-    "5. 프로젝트-WPJ",
-    "4. 독서노트",
-    "3. KWL 노트/스프링부트 익힘/3장 스프링부트의 구조",
-    "WPJ/공통코드.canvas",
-    "검색 요청값(AS-IS).png",
-    "검색 요청값(TO-BE).png",
-    "Pasted image 20250116170814.png",
-    "로컬저장소 recoil-persist commonCodeListState.png",
+    "1. Wonder 5W1H/IntelliJ SpringBoot 자동 빌드 설정.md",
+    "1. Wonder 5W1H/런타임 환경.md",
+    "2. 위키하우/보안/SSH-KEY를 통한 공개키 인증의 원리.md",
+    "2. 위키하우/intellij/intellij tips.md",
+    "2. 위키하우/intellij/intellij 디버깅 방법2.md",
+    "2. 위키하우/intellij/intellij 디버깅 방법.md",
+    "첨부파일/첨부파일/5. 프로젝트-WPJ/공통코드/IMG-20250118203247999.png/IMG-20250118204514766.png",
+    "첨부파일/5. 프로젝트-WPJ/db 데이터 변경 시 unique key 관련 오류",
+    "첨부파일/위키하우/보안/SSH-KEY를 통한 공개키 인증의 원리/IMG-20250118202942794.png",
+    "첨부파일/위키하우/intellij/intellij tips/IMG-20250118202942784.png",
+    "첨부파일/3. KWL 노트/자바익힘/자바 입문자를 위한 강의(88中16)/20. 객체지향02/IMG-20250118212045240.png",
+    "첨부파일/5. 프로젝트-WPJ/공통코드/IMG-20250118204717825.png",
+    "첨부파일/5. 프로젝트-WPJ/공통코드/IMG-20250118204712691.png",
+    "첨부파일/5. 프로젝트-WPJ/공통코드/IMG-20250118203247999.png.md",
+    "5. 프로젝트-WPJ/공통코드.canvas",
     "Untitled.canvas"
   ]
 }
