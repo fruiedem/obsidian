@@ -42,17 +42,14 @@
             "id": "95219f419e569936",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "5. 프로젝트-WPJ/공통코드.canvas",
-                "viewState": {
-                  "x": -558.4857735664096,
-                  "y": 3275.7531521821493,
-                  "zoom": -1.5451604275324409
-                }
+                "file": "1. Wonder 5W1H/(ERROR) EPERM operation not permitted.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "공통코드"
+              "icon": "lucide-file",
+              "title": "(ERROR) EPERM operation not permitted"
             }
           },
           {
@@ -113,18 +110,6 @@
         "dimension": 71.6432865731463,
         "children": [
           {
-            "id": "710010ae01219ce3",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "파일 탐색기"
-            }
-          },
-          {
             "id": "4bb5fc86a87e7a21",
             "type": "leaf",
             "state": {
@@ -138,7 +123,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "검색"
             }
           },
           {
@@ -150,8 +135,21 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "f8127e94f7cd8c37",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "943b7d5709cdf00d",
@@ -172,31 +170,80 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 326.5
   },
   "right": {
     "id": "80e777cda9c60c48",
     "type": "split",
     "children": [
       {
-        "id": "adca12fbff7ef093",
+        "id": "c8008d09e2e401a8",
         "type": "tabs",
         "children": [
           {
-            "id": "d9f1e6ed04f2dbdd",
+            "id": "9ff84e553a3202f7",
             "type": "leaf",
             "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "type": "backlink",
+              "state": {
+                "file": "1. Wonder 5W1H/jrebel 사내망에서 연결 하는 편법.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "jrebel 사내망에서 연결 하는 편법의 백링크"
+            }
+          },
+          {
+            "id": "839f49e04fb6e117",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1. Wonder 5W1H/jrebel 사내망에서 연결 하는 편법.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "jrebel 사내망에서 연결 하는 편법의 나가는 링크"
+            }
+          },
+          {
+            "id": "e9da59d68a0f97f8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e2b12281398f1041",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. Wonder 5W1H/jrebel 사내망에서 연결 하는 편법.md"
+              },
+              "icon": "lucide-list",
+              "title": "jrebel 사내망에서 연결 하는 편법 개요"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,6 +259,24 @@
   },
   "active": "95219f419e569936",
   "lastOpenFiles": [
+    "1. Wonder 5W1H/(25-01-23)환경에 따른 application.properties 라우팅 원리.md",
+    "1. Wonder 5W1H/(ERROR) Cannot find name.md",
+    "1. Wonder 5W1H/(ERROR) EPERM operation not permitted.md",
+    "5. 프로젝트-WPJ/(LOCAL ISSUE) SSO 로그인 상태를 확인할 때 문제가 발생했습니다..md",
+    "첨부파일/Pasted image 20250123132908.png",
+    "첨부파일/Pasted image 20250123132851.png",
+    "5. 프로젝트-WPJ/위플젝 공통코드 테스트 시나리오.md",
+    "5. 프로젝트-WPJ/공통코드(위험성평가최초정기-중대성, 가능성).md",
+    "5. 프로젝트-WPJ/공통코드(위험성평가최초정기-중대성, 가능성).canvas",
+    "5. 프로젝트-WPJ/공통코드(안전교육 생성).canvas",
+    "5. 프로젝트-WPJ/공통코드(안전교육 리스트 조회).canvas",
+    "5. 프로젝트-WPJ/공통코드.md",
+    "5. 프로젝트-WPJ/공통코드.canvas",
+    "2. 위키하우/git/fatal; detected dubious ownership in repository at.md",
+    "1. Wonder 5W1H/java enum.md",
+    "1. Wonder 5W1H/jrebel 사내망에서 연결 하는 편법.md",
+    "5. 프로젝트-WPJ/공통코드 정상 로직.canvas",
+    "5. 프로젝트-WPJ/공통코드(안전교육).md",
     "3. KWL 노트/스프링부트 익힘/5장 요청 처리 메서드의 파라미터 유형/5.2 경로 변수와 @PathVariable.md",
     "3. KWL 노트/스프링부트 익힘/5장 요청 처리 메서드의 파라미터 유형/5.3 매트릭스 변수와 @MatrixVariable.md",
     "3. KWL 노트/스프링부트 익힘/5장 요청 처리 메서드의 파라미터 유형/5.4 도서 쇼핑몰_도서 상세 정보 표시하기.md",
@@ -230,25 +295,12 @@
     "3. KWL 노트/스프링부트 익힘/4장 컨트롤러 구현/4.2 컨트롤러 정의.md",
     "3. KWL 노트/스프링부트 익힘/4장 컨트롤러 구현/4.1 컨트롤러 개요.md",
     "3. KWL 노트/스프링부트 익힘/4장 컨트롤러 구현/4.3 @RequestMapping을 이용한 요청 매핑 경로 설정.md",
-    "3. KWL 노트/스프링부트 익힘/3장 스프링부트의 구조/3.3 도서 쇼핑몰_계층적 구조 만들기 (25-01-28).md",
     "3. KWL 노트/스프링부트 익힘/4장 컨트롤러 구현",
-    "무제 파일 1.md",
     "WPJ/공통코드 정상 로직.canvas",
-    "2. 위키하우/intellij/intellij tips.md",
-    "2. 위키하우/보안/SSH-KEY를 통한 공개키 인증의 원리.md",
-    "2. 위키하우/intellij/intellij 디버깅 방법2.md",
-    "2. 위키하우/intellij/intellij 디버깅 방법.md",
-    "2. 위키하우/git/github와 연결 방법.md",
-    "2. 위키하우/독서방법.md",
     "2. 위키하우/보안",
     "2. 위키하우/intellij",
     "2. 위키하우/git",
     "2. 위키하우",
-    "5. 프로젝트-WPJ/공통코드.canvas",
-    "5. 프로젝트-WPJ/공통코드.md",
-    "5. 프로젝트-WPJ/개발환경.md",
-    "5. 프로젝트-WPJ/db 데이터 변경 시 unique key 관련 오류.md",
-    "5. 프로젝트-WPJ/공통코드 정상 로직.canvas",
     "5. 프로젝트-WPJ",
     "4. 독서노트",
     "3. KWL 노트/스프링부트 익힘/3장 스프링부트의 구조",

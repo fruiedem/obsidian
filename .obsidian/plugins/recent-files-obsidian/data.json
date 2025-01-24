@@ -1,8 +1,64 @@
 {
   "recentFiles": [
     {
+      "basename": "(ERROR) EPERM operation not permitted",
+      "path": "1. Wonder 5W1H/(ERROR) EPERM operation not permitted.md"
+    },
+    {
+      "basename": "(25-01-23)환경에 따른 application.properties 라우팅 원리",
+      "path": "1. Wonder 5W1H/(25-01-23)환경에 따른 application.properties 라우팅 원리.md"
+    },
+    {
+      "basename": "(ERROR) Cannot find name",
+      "path": "1. Wonder 5W1H/(ERROR) Cannot find name.md"
+    },
+    {
+      "basename": "(LOCAL ISSUE) SSO 로그인 상태를 확인할 때 문제가 발생했습니다.",
+      "path": "5. 프로젝트-WPJ/(LOCAL ISSUE) SSO 로그인 상태를 확인할 때 문제가 발생했습니다..md"
+    },
+    {
+      "basename": "위플젝 공통코드 테스트 시나리오",
+      "path": "5. 프로젝트-WPJ/위플젝 공통코드 테스트 시나리오.md"
+    },
+    {
+      "basename": "공통코드(위험성평가최초정기-중대성, 가능성)",
+      "path": "5. 프로젝트-WPJ/공통코드(위험성평가최초정기-중대성, 가능성).md"
+    },
+    {
+      "basename": "공통코드(위험성평가최초정기-중대성, 가능성)",
+      "path": "5. 프로젝트-WPJ/공통코드(위험성평가최초정기-중대성, 가능성).canvas"
+    },
+    {
+      "basename": "공통코드(안전교육 생성)",
+      "path": "5. 프로젝트-WPJ/공통코드(안전교육 생성).canvas"
+    },
+    {
+      "basename": "공통코드(안전교육 리스트 조회)",
+      "path": "5. 프로젝트-WPJ/공통코드(안전교육 리스트 조회).canvas"
+    },
+    {
+      "basename": "공통코드",
+      "path": "5. 프로젝트-WPJ/공통코드.md"
+    },
+    {
       "basename": "공통코드",
       "path": "5. 프로젝트-WPJ/공통코드.canvas"
+    },
+    {
+      "basename": "fatal; detected dubious ownership in repository at",
+      "path": "2. 위키하우/git/fatal; detected dubious ownership in repository at.md"
+    },
+    {
+      "basename": "java enum",
+      "path": "1. Wonder 5W1H/java enum.md"
+    },
+    {
+      "basename": "jrebel 사내망에서 연결 하는 편법",
+      "path": "1. Wonder 5W1H/jrebel 사내망에서 연결 하는 편법.md"
+    },
+    {
+      "basename": "공통코드 정상 로직",
+      "path": "5. 프로젝트-WPJ/공통코드 정상 로직.canvas"
     },
     {
       "basename": "5.2 경로 변수와 @PathVariable",
