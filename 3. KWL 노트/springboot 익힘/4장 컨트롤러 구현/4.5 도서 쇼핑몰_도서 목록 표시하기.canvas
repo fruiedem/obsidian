@@ -6,7 +6,7 @@
 		{"id":"36fa61b67f194b09","type":"text","text":"클래스 수준의 요청 매핑 경로 설정\n메서드 수준의 요청 매핑 경로 설정","x":-464,"y":200,"width":285,"height":60},
 		{"id":"17e944266491145e","type":"text","text":"메서드 수준의 요청 매핑 경로 설정 단순화","x":-464,"y":340,"width":285,"height":60},
 		{"id":"990df0af91e41ff0","type":"text","text":"ModelAndView 클래스로 결과 반환","x":-480,"y":500,"width":317,"height":60},
-		{"id":"f4f58d223ac8b1ea","type":"file","file":"3. KWL 노트/스프링부트 익힘/4장 컨트롤러 구현/4.5 도서 쇼핑몰_도서 목록 표시하기.md","x":-717,"y":-740,"width":791,"height":462}
+		{"id":"f4f58d223ac8b1ea","type":"file","file":"3. KWL 노트/springboot 익힘/4장 컨트롤러 구현/4.5 도서 쇼핑몰_도서 목록 표시하기.md","x":-717,"y":-740,"width":791,"height":462}
 	],
 	"edges":[
 		{"id":"6e93632e936d5764","fromNode":"6527830291b37230","fromSide":"bottom","toNode":"0765549e5ac269e3","toSide":"top"},
