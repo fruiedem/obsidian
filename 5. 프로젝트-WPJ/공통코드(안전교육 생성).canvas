@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"69a4a58afaae88ca","type":"text","text":"드롭다운 리스트\n공통코드로 구성","x":-400,"y":-120,"width":250,"height":60},
+		{"id":"e3d8716786aa824d","type":"text","text":"공통코드의 code 값으로 divisionCode 전달","x":-140,"y":-220,"width":380,"height":60,"color":"3"},
+		{"id":"8dd39092b292c6c1","type":"text","text":"","x":240,"y":-120,"width":250,"height":60},
+		{"id":"5d989a686d6329cf","type":"text","text":"드롭다운 리스트\n생성 방식 확인","x":-760,"y":-120,"width":250,"height":60,"color":"1"}
+	],
+	"edges":[
+		{"id":"789857c5cb0b307e","fromNode":"69a4a58afaae88ca","fromSide":"right","toNode":"8dd39092b292c6c1","toSide":"left"},
+		{"id":"ee0532f31db46404","fromNode":"5d989a686d6329cf","fromSide":"right","toNode":"69a4a58afaae88ca","toSide":"left"}
+	]
+}

@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "6. Naming Convention",
-      "path": "3. KWL 노트/JS 익힘/기본기/6. Naming Convention.md"
+      "basename": "15. Array Methods (배열 메서드)",
+      "path": "3. KWL 노트/JS 익힘/기본기/15. Array Methods (배열 메서드).md"
+    },
+    {
+      "basename": "14. Functions (함수)",
+      "path": "3. KWL 노트/JS 익힘/기본기/14. Functions (함수).md"
+    },
+    {
+      "basename": "16. Objects (객체)",
+      "path": "3. KWL 노트/JS 익힘/기본기/16. Objects (객체).md"
+    },
+    {
+      "basename": "13. Coercion",
+      "path": "3. KWL 노트/JS 익힘/기본기/13. Coercion.md"
+    },
+    {
+      "basename": "7. Data Types (자료형)",
+      "path": "3. KWL 노트/JS 익힘/기본기/7. Data Types (자료형).md"
     },
     {
       "basename": "5. 변수 선언하기",
@@ -13,88 +29,100 @@
       "path": "3. KWL 노트/JS 익힘/기본기/4. Comment(주석).md"
     },
     {
+      "basename": "12. Loops (반복문)",
+      "path": "3. KWL 노트/JS 익힘/기본기/12. Loops (반복문).md"
+    },
+    {
+      "basename": "11. if문과 switch문",
+      "path": "3. KWL 노트/JS 익힘/기본기/11. if문과 switch문.md"
+    },
+    {
+      "basename": "6. Naming Convention",
+      "path": "3. KWL 노트/JS 익힘/기본기/6. Naming Convention.md"
+    },
+    {
+      "basename": "9. Operator (연산자)",
+      "path": "3. KWL 노트/JS 익힘/기본기/9. Operator (연산자).md"
+    },
+    {
+      "basename": "10. Memory",
+      "path": "3. KWL 노트/JS 익힘/기본기/10. Memory.md"
+    },
+    {
       "basename": "1. 세팅하기",
       "path": "3. KWL 노트/JS 익힘/기본기/1. 세팅하기.md"
     },
     {
-      "basename": "(25-01-25) js 엔진 동작 방식",
-      "path": "1. Wonder 5W1H/(25-01-25) js 엔진 동작 방식.md"
+      "basename": "18. 에러 핸들링",
+      "path": "3. KWL 노트/JS 익힘/기본기/18. 에러 핸들링.md"
     },
     {
-      "basename": "3. Hello world",
-      "path": "3. KWL 노트/JS 익힘/기본기/3. Hello world.md"
+      "basename": "17. Copy by value vs Copy by reference",
+      "path": "3. KWL 노트/JS 익힘/기본기/17. Copy by value vs Copy by reference.md"
     },
     {
-      "basename": "2. 실행할때 한글이 깨지면",
-      "path": "3. KWL 노트/JS 익힘/기본기/2. 실행할때 한글이 깨지면.md"
+      "basename": "8. Hoisting",
+      "path": "3. KWL 노트/JS 익힘/기본기/8. Hoisting.md"
     },
     {
-      "basename": "3.3 도서 쇼핑몰_계층적 구조 만들기 (25-01-28)",
-      "path": "3. KWL 노트/springboot 익힘/3장 스프링부트의 구조/3.3 도서 쇼핑몰_계층적 구조 만들기 (25-01-28).md"
+      "basename": "(ERROR) EPERM operation not permitted",
+      "path": "1. Wonder 5W1H/(ERROR) EPERM operation not permitted.md"
     },
     {
-      "basename": "13.2 RESTful 방식의 애너테이션",
-      "path": "3. KWL 노트/springboot 익힘/13장 RESTful 웹 서비스/13.2 RESTful 방식의 애너테이션.md"
+      "basename": "(25-01-23)환경에 따른 application.properties 라우팅 원리",
+      "path": "1. Wonder 5W1H/(25-01-23)환경에 따른 application.properties 라우팅 원리.md"
     },
     {
-      "basename": "13.1 RESTful 웹 서비스의 개요",
-      "path": "3. KWL 노트/springboot 익힘/13장 RESTful 웹 서비스/13.1 RESTful 웹 서비스의 개요.md"
+      "basename": "(ERROR) Cannot find name",
+      "path": "1. Wonder 5W1H/(ERROR) Cannot find name.md"
     },
     {
-      "basename": "13.4 도서 쇼핑몰_장바구니 페이지 만들기",
-      "path": "3. KWL 노트/springboot 익힘/13장 RESTful 웹 서비스/13.4 도서 쇼핑몰_장바구니 페이지 만들기.md"
+      "basename": "(LOCAL ISSUE) SSO 로그인 상태를 확인할 때 문제가 발생했습니다.",
+      "path": "5. 프로젝트-WPJ/(LOCAL ISSUE) SSO 로그인 상태를 확인할 때 문제가 발생했습니다..md"
     },
     {
-      "basename": "13.3 RESTful 웹 서비스의 CRUD",
-      "path": "3. KWL 노트/springboot 익힘/13장 RESTful 웹 서비스/13.3 RESTful 웹 서비스의 CRUD.md"
+      "basename": "위플젝 공통코드 테스트 시나리오",
+      "path": "5. 프로젝트-WPJ/위플젝 공통코드 테스트 시나리오.md"
     },
     {
-      "basename": "13 학습 목표",
-      "path": "3. KWL 노트/springboot 익힘/13장 RESTful 웹 서비스/13 학습 목표.md"
+      "basename": "공통코드(위험성평가최초정기-중대성, 가능성)",
+      "path": "5. 프로젝트-WPJ/공통코드(위험성평가최초정기-중대성, 가능성).md"
     },
     {
-      "basename": "5.3 매트릭스 변수와 @MatrixVariable",
-      "path": "3. KWL 노트/springboot 익힘/5장 요청 처리 메서드의 파라미터 유형/5.3 매트릭스 변수와 @MatrixVariable.md"
+      "basename": "공통코드(위험성평가최초정기-중대성, 가능성)",
+      "path": "5. 프로젝트-WPJ/공통코드(위험성평가최초정기-중대성, 가능성).canvas"
     },
     {
-      "basename": "5.2 경로 변수와 @PathVariable",
-      "path": "3. KWL 노트/springboot 익힘/5장 요청 처리 메서드의 파라미터 유형/5.2 경로 변수와 @PathVariable.md"
+      "basename": "공통코드(안전교육 생성)",
+      "path": "5. 프로젝트-WPJ/공통코드(안전교육 생성).canvas"
     },
     {
-      "basename": "5.1 요청 파라미터와 @RequestParam",
-      "path": "3. KWL 노트/springboot 익힘/5장 요청 처리 메서드의 파라미터 유형/5.1 요청 파라미터와 @RequestParam.md"
+      "basename": "공통코드(안전교육 리스트 조회)",
+      "path": "5. 프로젝트-WPJ/공통코드(안전교육 리스트 조회).canvas"
     },
     {
-      "basename": "5.4 도서 쇼핑몰_도서 상세 정보 표시하기",
-      "path": "3. KWL 노트/springboot 익힘/5장 요청 처리 메서드의 파라미터 유형/5.4 도서 쇼핑몰_도서 상세 정보 표시하기.md"
+      "basename": "공통코드",
+      "path": "5. 프로젝트-WPJ/공통코드.md"
     },
     {
-      "basename": "5 학습 목표",
-      "path": "3. KWL 노트/springboot 익힘/5장 요청 처리 메서드의 파라미터 유형/5 학습 목표.md"
+      "basename": "공통코드",
+      "path": "5. 프로젝트-WPJ/공통코드.canvas"
     },
     {
-      "basename": "4.5 도서 쇼핑몰_도서 목록 표시하기",
-      "path": "3. KWL 노트/springboot 익힘/4장 컨트롤러 구현/4.5 도서 쇼핑몰_도서 목록 표시하기.canvas"
+      "basename": "fatal; detected dubious ownership in repository at",
+      "path": "2. 위키하우/git/fatal; detected dubious ownership in repository at.md"
     },
     {
-      "basename": "4.5 도서 쇼핑몰_도서 목록 표시하기",
-      "path": "3. KWL 노트/springboot 익힘/4장 컨트롤러 구현/4.5 도서 쇼핑몰_도서 목록 표시하기.md"
+      "basename": "java enum",
+      "path": "1. Wonder 5W1H/java enum.md"
     },
     {
-      "basename": "4.4 요청 처리 메서드와 모델 유형",
-      "path": "3. KWL 노트/springboot 익힘/4장 컨트롤러 구현/4.4 요청 처리 메서드와 모델 유형.md"
+      "basename": "jrebel 사내망에서 연결 하는 편법",
+      "path": "1. Wonder 5W1H/jrebel 사내망에서 연결 하는 편법.md"
     },
     {
-      "basename": "4.2 컨트롤러 정의",
-      "path": "3. KWL 노트/springboot 익힘/4장 컨트롤러 구현/4.2 컨트롤러 정의.md"
-    },
-    {
-      "basename": "4.1 컨트롤러 개요",
-      "path": "3. KWL 노트/springboot 익힘/4장 컨트롤러 구현/4.1 컨트롤러 개요.md"
-    },
-    {
-      "basename": "4.3 @RequestMapping을 이용한 요청 매핑 경로 설정",
-      "path": "3. KWL 노트/springboot 익힘/4장 컨트롤러 구현/4.3 @RequestMapping을 이용한 요청 매핑 경로 설정.md"
+      "basename": "공통코드 정상 로직",
+      "path": "5. 프로젝트-WPJ/공통코드 정상 로직.canvas"
     }
   ],
   "omittedPaths": [],
