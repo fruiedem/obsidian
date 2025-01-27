@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "13. Coercion",
+      "path": "3. KWL 노트/JS 익힘/기본기/13. Coercion.md"
+    },
+    {
+      "basename": "7. Data Types (자료형)",
+      "path": "3. KWL 노트/JS 익힘/기본기/7. Data Types (자료형).md"
+    },
+    {
+      "basename": "5. 변수 선언하기",
+      "path": "3. KWL 노트/JS 익힘/기본기/5. 변수 선언하기.md"
+    },
+    {
+      "basename": "4. Comment(주석)",
+      "path": "3. KWL 노트/JS 익힘/기본기/4. Comment(주석).md"
+    },
+    {
+      "basename": "12. Loops (반복문)",
+      "path": "3. KWL 노트/JS 익힘/기본기/12. Loops (반복문).md"
+    },
+    {
       "basename": "11. if문과 switch문",
       "path": "3. KWL 노트/JS 익힘/기본기/11. if문과 switch문.md"
     },
     {
       "basename": "6. Naming Convention",
       "path": "3. KWL 노트/JS 익힘/기본기/6. Naming Convention.md"
-    },
-    {
-      "basename": "7. Data Types (자료형)",
-      "path": "3. KWL 노트/JS 익힘/기본기/7. Data Types (자료형).md"
     },
     {
       "basename": "9. Operator (연산자)",
@@ -43,14 +59,6 @@
     {
       "basename": "14. Functions (함수)",
       "path": "3. KWL 노트/JS 익힘/기본기/14. Functions (함수).md"
-    },
-    {
-      "basename": "13. Coercion",
-      "path": "3. KWL 노트/JS 익힘/기본기/13. Coercion.md"
-    },
-    {
-      "basename": "12. Loops (반복문)",
-      "path": "3. KWL 노트/JS 익힘/기본기/12. Loops (반복문).md"
     },
     {
       "basename": "8. Hoisting",
