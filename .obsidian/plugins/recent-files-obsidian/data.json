@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "11. if문과 switch문",
+      "path": "3. KWL 노트/JS 익힘/기본기/11. if문과 switch문.md"
+    },
+    {
+      "basename": "6. Naming Convention",
+      "path": "3. KWL 노트/JS 익힘/기본기/6. Naming Convention.md"
+    },
+    {
+      "basename": "7. Data Types (자료형)",
+      "path": "3. KWL 노트/JS 익힘/기본기/7. Data Types (자료형).md"
+    },
+    {
+      "basename": "9. Operator (연산자)",
+      "path": "3. KWL 노트/JS 익힘/기본기/9. Operator (연산자).md"
+    },
+    {
+      "basename": "10. Memory",
+      "path": "3. KWL 노트/JS 익힘/기본기/10. Memory.md"
+    },
+    {
       "basename": "1. 세팅하기",
       "path": "3. KWL 노트/JS 익힘/기본기/1. 세팅하기.md"
     },
@@ -33,28 +53,8 @@
       "path": "3. KWL 노트/JS 익힘/기본기/12. Loops (반복문).md"
     },
     {
-      "basename": "11. if문과 switch문",
-      "path": "3. KWL 노트/JS 익힘/기본기/11. if문과 switch문.md"
-    },
-    {
-      "basename": "10. Memory",
-      "path": "3. KWL 노트/JS 익힘/기본기/10. Memory.md"
-    },
-    {
-      "basename": "9. Operator (연산자)",
-      "path": "3. KWL 노트/JS 익힘/기본기/9. Operator (연산자).md"
-    },
-    {
       "basename": "8. Hoisting",
       "path": "3. KWL 노트/JS 익힘/기본기/8. Hoisting.md"
-    },
-    {
-      "basename": "7. Data Types (자료형)",
-      "path": "3. KWL 노트/JS 익힘/기본기/7. Data Types (자료형).md"
-    },
-    {
-      "basename": "6. Naming Convention",
-      "path": "3. KWL 노트/JS 익힘/기본기/6. Naming Convention.md"
     },
     {
       "basename": "(ERROR) EPERM operation not permitted",
