@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "15. Array Methods (배열 메서드)",
+      "path": "3. KWL 노트/JS 익힘/기본기/15. Array Methods (배열 메서드).md"
+    },
+    {
+      "basename": "14. Functions (함수)",
+      "path": "3. KWL 노트/JS 익힘/기본기/14. Functions (함수).md"
+    },
+    {
+      "basename": "16. Objects (객체)",
+      "path": "3. KWL 노트/JS 익힘/기본기/16. Objects (객체).md"
+    },
+    {
       "basename": "13. Coercion",
       "path": "3. KWL 노트/JS 익힘/기본기/13. Coercion.md"
     },
@@ -47,18 +59,6 @@
     {
       "basename": "17. Copy by value vs Copy by reference",
       "path": "3. KWL 노트/JS 익힘/기본기/17. Copy by value vs Copy by reference.md"
-    },
-    {
-      "basename": "16. Objects (객체)",
-      "path": "3. KWL 노트/JS 익힘/기본기/16. Objects (객체).md"
-    },
-    {
-      "basename": "15. Array Methods (배열 메서드)",
-      "path": "3. KWL 노트/JS 익힘/기본기/15. Array Methods (배열 메서드).md"
-    },
-    {
-      "basename": "14. Functions (함수)",
-      "path": "3. KWL 노트/JS 익힘/기본기/14. Functions (함수).md"
     },
     {
       "basename": "8. Hoisting",
