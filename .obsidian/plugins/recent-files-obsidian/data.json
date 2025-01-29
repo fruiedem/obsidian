@@ -1,16 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "19. 클래스",
+      "path": "3. KWL 노트/JS 익힘/OOP/19. 클래스.md"
+    },
+    {
+      "basename": "23. Super Keyword",
+      "path": "3. KWL 노트/JS 익힘/OOP/23. Super Keyword.md"
+    },
+    {
+      "basename": "22. Inheritance (상속)",
+      "path": "3. KWL 노트/JS 익힘/OOP/22. Inheritance (상속).md"
+    },
+    {
+      "basename": "21. Static Keyword",
+      "path": "3. KWL 노트/JS 익힘/OOP/21. Static Keyword.md"
+    },
+    {
+      "basename": "20. Getter and Setter",
+      "path": "3. KWL 노트/JS 익힘/OOP/20. Getter and Setter.md"
+    },
+    {
+      "basename": "18. 에러 핸들링",
+      "path": "3. KWL 노트/JS 익힘/기본기/18. 에러 핸들링.md"
+    },
+    {
+      "basename": "17. Copy by value vs Copy by reference",
+      "path": "3. KWL 노트/JS 익힘/기본기/17. Copy by value vs Copy by reference.md"
+    },
+    {
+      "basename": "16. Objects (객체)",
+      "path": "3. KWL 노트/JS 익힘/기본기/16. Objects (객체).md"
+    },
+    {
       "basename": "15. Array Methods (배열 메서드)",
       "path": "3. KWL 노트/JS 익힘/기본기/15. Array Methods (배열 메서드).md"
     },
     {
       "basename": "14. Functions (함수)",
       "path": "3. KWL 노트/JS 익힘/기본기/14. Functions (함수).md"
-    },
-    {
-      "basename": "16. Objects (객체)",
-      "path": "3. KWL 노트/JS 익힘/기본기/16. Objects (객체).md"
     },
     {
       "basename": "13. Coercion",
@@ -51,14 +79,6 @@
     {
       "basename": "1. 세팅하기",
       "path": "3. KWL 노트/JS 익힘/기본기/1. 세팅하기.md"
-    },
-    {
-      "basename": "18. 에러 핸들링",
-      "path": "3. KWL 노트/JS 익힘/기본기/18. 에러 핸들링.md"
-    },
-    {
-      "basename": "17. Copy by value vs Copy by reference",
-      "path": "3. KWL 노트/JS 익힘/기본기/17. Copy by value vs Copy by reference.md"
     },
     {
       "basename": "8. Hoisting",
