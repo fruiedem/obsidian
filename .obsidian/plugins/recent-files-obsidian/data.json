@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "2. Property Attribute",
+      "path": "3. KWL 노트/JS 익힘/3_객체/2. Property Attribute.md"
+    },
+    {
+      "basename": "17. Copy by value vs Copy by reference",
+      "path": "3. KWL 노트/JS 익힘/1_기본기/17. Copy by value vs Copy by reference.md"
+    },
+    {
+      "basename": "15. Array Methods (배열 메서드)",
+      "path": "3. KWL 노트/JS 익힘/1_기본기/15. Array Methods (배열 메서드).md"
+    },
+    {
       "basename": "1. 소개",
       "path": "3. KWL 노트/JS 익힘/3_객체/1. 소개.md"
     },
@@ -33,16 +45,8 @@
       "path": "3. KWL 노트/JS 익힘/3_객체/3. Immutable Objects-extensible, seal, freeze (불변 객체).md"
     },
     {
-      "basename": "2. Property Attribute",
-      "path": "3. KWL 노트/JS 익힘/3_객체/2. Property Attribute.md"
-    },
-    {
       "basename": "24. 클래스 문제풀기",
       "path": "3. KWL 노트/JS 익힘/2_OOP/24. 클래스 문제풀기.md"
-    },
-    {
-      "basename": "15. Array Methods (배열 메서드)",
-      "path": "3. KWL 노트/JS 익힘/1_기본기/15. Array Methods (배열 메서드).md"
     },
     {
       "basename": "23. Super Keyword",
@@ -75,10 +79,6 @@
     {
       "basename": "18. 에러 핸들링",
       "path": "3. KWL 노트/JS 익힘/1_기본기/18. 에러 핸들링.md"
-    },
-    {
-      "basename": "17. Copy by value vs Copy by reference",
-      "path": "3. KWL 노트/JS 익힘/1_기본기/17. Copy by value vs Copy by reference.md"
     },
     {
       "basename": "16. Objects (객체)",
