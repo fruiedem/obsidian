@@ -1,28 +1,68 @@
 {
   "recentFiles": [
     {
+      "basename": "1. 소개",
+      "path": "3. KWL 노트/JS 익힘/3_객체/1. 소개.md"
+    },
+    {
+      "basename": "9. Closure",
+      "path": "3. KWL 노트/JS 익힘/3_객체/9. Closure.md"
+    },
+    {
+      "basename": "8. Execution Context",
+      "path": "3. KWL 노트/JS 익힘/3_객체/8. Execution Context.md"
+    },
+    {
+      "basename": "7. this",
+      "path": "3. KWL 노트/JS 익힘/3_객체/7. this.md"
+    },
+    {
+      "basename": "6. Scope",
+      "path": "3. KWL 노트/JS 익힘/3_객체/6. Scope.md"
+    },
+    {
+      "basename": "5. Prototype",
+      "path": "3. KWL 노트/JS 익힘/3_객체/5. Prototype.md"
+    },
+    {
+      "basename": "4. Constructor Function (생성자 함수)",
+      "path": "3. KWL 노트/JS 익힘/3_객체/4. Constructor Function (생성자 함수).md"
+    },
+    {
+      "basename": "3. Immutable Objects-extensible, seal, freeze (불변 객체)",
+      "path": "3. KWL 노트/JS 익힘/3_객체/3. Immutable Objects-extensible, seal, freeze (불변 객체).md"
+    },
+    {
+      "basename": "2. Property Attribute",
+      "path": "3. KWL 노트/JS 익힘/3_객체/2. Property Attribute.md"
+    },
+    {
+      "basename": "24. 클래스 문제풀기",
+      "path": "3. KWL 노트/JS 익힘/2_OOP/24. 클래스 문제풀기.md"
+    },
+    {
       "basename": "15. Array Methods (배열 메서드)",
-      "path": "3. KWL 노트/JS 익힘/기본기/15. Array Methods (배열 메서드).md"
+      "path": "3. KWL 노트/JS 익힘/1_기본기/15. Array Methods (배열 메서드).md"
     },
     {
       "basename": "23. Super Keyword",
-      "path": "3. KWL 노트/JS 익힘/OOP/23. Super Keyword.md"
+      "path": "3. KWL 노트/JS 익힘/2_OOP/23. Super Keyword.md"
     },
     {
       "basename": "22. Inheritance (상속)",
-      "path": "3. KWL 노트/JS 익힘/OOP/22. Inheritance (상속).md"
+      "path": "3. KWL 노트/JS 익힘/2_OOP/22. Inheritance (상속).md"
     },
     {
       "basename": "21. Static Keyword",
-      "path": "3. KWL 노트/JS 익힘/OOP/21. Static Keyword.md"
+      "path": "3. KWL 노트/JS 익힘/2_OOP/21. Static Keyword.md"
     },
     {
       "basename": "19. 클래스",
-      "path": "3. KWL 노트/JS 익힘/OOP/19. 클래스.md"
+      "path": "3. KWL 노트/JS 익힘/2_OOP/19. 클래스.md"
     },
     {
       "basename": "20. Getter and Setter",
-      "path": "3. KWL 노트/JS 익힘/OOP/20. Getter and Setter.md"
+      "path": "3. KWL 노트/JS 익힘/2_OOP/20. Getter and Setter.md"
     },
     {
       "basename": "github와 연결 방법",
@@ -34,63 +74,63 @@
     },
     {
       "basename": "18. 에러 핸들링",
-      "path": "3. KWL 노트/JS 익힘/기본기/18. 에러 핸들링.md"
+      "path": "3. KWL 노트/JS 익힘/1_기본기/18. 에러 핸들링.md"
     },
     {
       "basename": "17. Copy by value vs Copy by reference",
-      "path": "3. KWL 노트/JS 익힘/기본기/17. Copy by value vs Copy by reference.md"
+      "path": "3. KWL 노트/JS 익힘/1_기본기/17. Copy by value vs Copy by reference.md"
     },
     {
       "basename": "16. Objects (객체)",
-      "path": "3. KWL 노트/JS 익힘/기본기/16. Objects (객체).md"
+      "path": "3. KWL 노트/JS 익힘/1_기본기/16. Objects (객체).md"
     },
     {
       "basename": "14. Functions (함수)",
-      "path": "3. KWL 노트/JS 익힘/기본기/14. Functions (함수).md"
+      "path": "3. KWL 노트/JS 익힘/1_기본기/14. Functions (함수).md"
     },
     {
       "basename": "13. Coercion",
-      "path": "3. KWL 노트/JS 익힘/기본기/13. Coercion.md"
+      "path": "3. KWL 노트/JS 익힘/1_기본기/13. Coercion.md"
     },
     {
       "basename": "7. Data Types (자료형)",
-      "path": "3. KWL 노트/JS 익힘/기본기/7. Data Types (자료형).md"
+      "path": "3. KWL 노트/JS 익힘/1_기본기/7. Data Types (자료형).md"
     },
     {
       "basename": "5. 변수 선언하기",
-      "path": "3. KWL 노트/JS 익힘/기본기/5. 변수 선언하기.md"
+      "path": "3. KWL 노트/JS 익힘/1_기본기/5. 변수 선언하기.md"
     },
     {
       "basename": "4. Comment(주석)",
-      "path": "3. KWL 노트/JS 익힘/기본기/4. Comment(주석).md"
+      "path": "3. KWL 노트/JS 익힘/1_기본기/4. Comment(주석).md"
     },
     {
       "basename": "12. Loops (반복문)",
-      "path": "3. KWL 노트/JS 익힘/기본기/12. Loops (반복문).md"
+      "path": "3. KWL 노트/JS 익힘/1_기본기/12. Loops (반복문).md"
     },
     {
       "basename": "11. if문과 switch문",
-      "path": "3. KWL 노트/JS 익힘/기본기/11. if문과 switch문.md"
+      "path": "3. KWL 노트/JS 익힘/1_기본기/11. if문과 switch문.md"
     },
     {
       "basename": "6. Naming Convention",
-      "path": "3. KWL 노트/JS 익힘/기본기/6. Naming Convention.md"
+      "path": "3. KWL 노트/JS 익힘/1_기본기/6. Naming Convention.md"
     },
     {
       "basename": "9. Operator (연산자)",
-      "path": "3. KWL 노트/JS 익힘/기본기/9. Operator (연산자).md"
+      "path": "3. KWL 노트/JS 익힘/1_기본기/9. Operator (연산자).md"
     },
     {
       "basename": "10. Memory",
-      "path": "3. KWL 노트/JS 익힘/기본기/10. Memory.md"
+      "path": "3. KWL 노트/JS 익힘/1_기본기/10. Memory.md"
     },
     {
       "basename": "1. 세팅하기",
-      "path": "3. KWL 노트/JS 익힘/기본기/1. 세팅하기.md"
+      "path": "3. KWL 노트/JS 익힘/1_기본기/1. 세팅하기.md"
     },
     {
       "basename": "8. Hoisting",
-      "path": "3. KWL 노트/JS 익힘/기본기/8. Hoisting.md"
+      "path": "3. KWL 노트/JS 익힘/1_기본기/8. Hoisting.md"
     },
     {
       "basename": "(ERROR) EPERM operation not permitted",
