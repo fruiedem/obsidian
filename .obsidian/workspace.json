@@ -1,169 +1,41 @@
 {
   "main": {
-    "id": "bf420c77b998e01e",
+    "id": "6d37010affa95ce8",
     "type": "split",
     "children": [
       {
-        "id": "122077bec471562a",
+        "id": "297c94c1696044d7",
         "type": "tabs",
         "children": [
           {
-            "id": "a72cc4f541afc6ed",
+            "id": "8c42ba0910d603d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KWL 노트/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/20. 객체지향02.md",
+                "file": "3. KWL 노트/JS 익힘/OOP/21. Static Keyword.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20. 객체지향02"
-            }
-          },
-          {
-            "id": "26de85113eef051e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "독서노트/일 잘하는 사람의 시간은 다르게 흘러간다.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "일 잘하는 사람의 시간은 다르게 흘러간다"
-            }
-          },
-          {
-            "id": "35c8b7ce9f4b7de9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. 위키하우/intellij/intellij 디버깅 방법.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "intellij 디버깅 방법"
-            }
-          },
-          {
-            "id": "95e38daf38ba50fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. 프로젝트-WPJ/db 데이터 변경 시 unique key 관련 오류.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "db 데이터 변경 시 unique key 관련 오류"
-            }
-          },
-          {
-            "id": "c0b8e03f8cdb9600",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. 프로젝트-WPJ/db 데이터 변경 시 unique key 관련 오류.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "db 데이터 변경 시 unique key 관련 오류"
-            }
-          },
-          {
-            "id": "29cd21208cff8ba7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. 프로젝트-WPJ/db 데이터 변경 시 unique key 관련 오류.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "db 데이터 변경 시 unique key 관련 오류"
-            }
-          },
-          {
-            "id": "6279b49cfa162ead",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. 프로젝트-WPJ/db 데이터 변경 시 unique key 관련 오류.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "db 데이터 변경 시 unique key 관련 오류"
-            }
-          },
-          {
-            "id": "dff783c9606ebec9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. KWL 노트/JS 익힘/OOP/19. 클래스.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "19. 클래스"
-            }
-          },
-          {
-            "id": "595387dedb4d7748",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "위키하우/보안/SSH-KEY를 통한 공개키 인증의 원리.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SSH-KEY를 통한 공개키 인증의 원리"
-            }
-          },
-          {
-            "id": "e0ef53af78a0ee63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "21. Static Keyword"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "39c943ca2d96a1d1",
+    "id": "338ee0c63d128460",
     "type": "split",
     "children": [
       {
-        "id": "ac6f4e3f16c53798",
+        "id": "9e3c92b6458b2fed",
         "type": "tabs",
-        "dimension": 72.03471552555449,
         "children": [
           {
-            "id": "710010ae01219ce3",
+            "id": "16cde162e193e741",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -171,16 +43,16 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "파일 탐색기"
             }
           },
           {
-            "id": "4bb5fc86a87e7a21",
+            "id": "2c652b6e06d08213",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "IMG-20250118203247999.png",
+                "query": "pat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -188,11 +60,11 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "검색"
             }
           },
           {
-            "id": "92b8215b2c63785b",
+            "id": "24db041f7c61b35c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -202,43 +74,26 @@
             }
           }
         ]
-      },
-      {
-        "id": "943b7d5709cdf00d",
-        "type": "tabs",
-        "dimension": 27.965284474445514,
-        "children": [
-          {
-            "id": "e794316d5e877016",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 213.5
+    "width": 300
   },
   "right": {
-    "id": "80e777cda9c60c48",
+    "id": "fe24dd3177135fe4",
     "type": "split",
     "children": [
       {
-        "id": "16fb979974b19d42",
+        "id": "95cf6de3c4c9aac4",
         "type": "tabs",
         "children": [
           {
-            "id": "b47cc1a11e555534",
+            "id": "513958dfa7d26aff",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "3. KWL 노트/JS 익힘/OOP/21. Static Keyword.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,25 +103,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "21. Static Keyword의 백링크"
             }
           },
           {
-            "id": "3a12b98c7bf5e26d",
+            "id": "b3f804b02c1a5107",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "3. KWL 노트/JS 익힘/OOP/21. Static Keyword.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "21. Static Keyword의 나가는 링크"
             }
           },
           {
-            "id": "294c51355800e14d",
+            "id": "a91a300c11be5e9a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -279,15 +134,15 @@
             }
           },
           {
-            "id": "cd2d00a3db2aae68",
+            "id": "474bf00dd699ff86",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "3. KWL 노트/JS 익힘/OOP/21. Static Keyword.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "21. Static Keyword 개요"
             }
           }
         ]
@@ -299,70 +154,57 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "github-sync:Sync with Remote": false
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "github-sync:Sync with Remote": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dff783c9606ebec9",
+  "active": "8c42ba0910d603d1",
   "lastOpenFiles": [
-    "첨부파일/Pasted image 20250129232809.png",
-    "3. KWL 노트/JS 익힘/OOP/23. Super Keyword.md",
-    "3. KWL 노트/JS 익힘/OOP/22. Inheritance (상속).md",
-    "3. KWL 노트/JS 익힘/OOP/21. Static Keyword.md",
     "3. KWL 노트/JS 익힘/OOP/20. Getter and Setter.md",
+    "2. 위키하우/git/github와 연결 방법.md",
+    "obsidian 동기화 방법.md",
     "3. KWL 노트/JS 익힘/OOP/19. 클래스.md",
-    "3. KWL 노트/JS 익힘/기본기/18. 에러 핸들링.md",
-    "3. KWL 노트/JS 익힘/OOP",
-    "3. KWL 노트/JS 익힘/기본기/17. Copy by value vs Copy by reference.md",
+    "3. KWL 노트/JS 익힘/기본기/15. Array Methods (배열 메서드).md",
+    "첨부파일/Pasted image 20250129232809.png",
     "첨부파일/Pasted image 20250129213910.png",
     "첨부파일/Pasted image 20250129213856.png",
     "첨부파일/Pasted image 20250129213839.png",
-    "3. KWL 노트/JS 익힘/기본기/16. Objects (객체).md",
-    "3. KWL 노트/JS 익힘/기본기/15. Array Methods (배열 메서드).md",
+    "3. KWL 노트/JS 익힘/OOP/23. Super Keyword.md",
+    "3. KWL 노트/JS 익힘/OOP/22. Inheritance (상속).md",
+    "3. KWL 노트/JS 익힘/OOP/21. Static Keyword.md",
+    "3. KWL 노트/JS 익힘/OOP",
     "3. KWL 노트/JS 익힘/기본기/14. Functions (함수).md",
-    "3. KWL 노트/JS 익힘/기본기/6. Naming Convention.md",
-    "첨부파일/Pasted image 20250123132908.png",
-    "첨부파일/Pasted image 20250123132851.png",
-    "무제 파일.md",
-    "5. 프로젝트-WPJ/위플젝 공통코드 테스트 시나리오.md",
-    "5. 프로젝트-WPJ/공통코드(위험성평가최초정기-중대성, 가능성).md",
-    "5. 프로젝트-WPJ/공통코드(위험성평가최초정기-중대성, 가능성).canvas",
-    "5. 프로젝트-WPJ/공통코드(안전교육 생성).canvas",
-    "5. 프로젝트-WPJ/공통코드(안전교육 리스트 조회).canvas",
-    "5. 프로젝트-WPJ/(LOCAL ISSUE) SSO 로그인 상태를 확인할 때 문제가 발생했습니다..md",
-    "3. KWL 노트/JS 익힘/기본기/9. Operator (연산자).md",
-    "3. KWL 노트/JS 익힘/기본기/8. Hoisting.md",
-    "3. KWL 노트/JS 익힘/기본기/7. Data Types (자료형).md",
+    "3. KWL 노트/JS 익힘/기본기/16. Objects (객체).md",
     "3. KWL 노트/JS 익힘/기본기/13. Coercion.md",
+    "3. KWL 노트/JS 익힘/기본기/7. Data Types (자료형).md",
+    "3. KWL 노트/JS 익힘/기본기/5. 변수 선언하기.md",
+    "3. KWL 노트/JS 익힘/기본기/4. Comment(주석).md",
     "3. KWL 노트/JS 익힘/기본기/12. Loops (반복문).md",
     "3. KWL 노트/JS 익힘/기본기/11. if문과 switch문.md",
+    "3. KWL 노트/JS 익힘/기본기/6. Naming Convention.md",
+    "3. KWL 노트/JS 익힘/기본기/9. Operator (연산자).md",
     "3. KWL 노트/JS 익힘/기본기/10. Memory.md",
-    "2. 위키하우/git/fatal; detected dubious ownership in repository at.md",
-    "1. Wonder 5W1H/jrebel 사내망에서 연결 하는 편법.md",
-    "1. Wonder 5W1H/java enum.md",
-    "3. KWL 노트/JS 익힘/기본기",
-    "3. KWL 노트/JS 익힘",
-    "3. KWL 노트/springboot 익힘/5장 요청 처리 메서드의 파라미터 유형",
+    "3. KWL 노트/JS 익힘/기본기/1. 세팅하기.md",
+    "3. KWL 노트/JS 익힘/기본기/18. 에러 핸들링.md",
+    "3. KWL 노트/JS 익힘/기본기/17. Copy by value vs Copy by reference.md",
+    "3. KWL 노트/JS 익힘/기본기/무제 폴더",
+    "3. KWL 노트/JS 익힘/기본기/8. Hoisting.md",
+    "무제 파일.md",
+    "3. KWL 노트/springboot 익힘/4장 컨트롤러 구현/4.3 @RequestMapping을 이용한 요청 매핑 경로 설정.md",
+    "3. KWL 노트/springboot 익힘/5장 요청 처리 메서드의 파라미터 유형/5.4 도서 쇼핑몰_도서 상세 정보 표시하기.md",
     "3. KWL 노트/springboot 익힘/4장 컨트롤러 구현/4.5 도서 쇼핑몰_도서 목록 표시하기.canvas",
+    "3. KWL 노트/springboot 익힘/5장 요청 처리 메서드의 파라미터 유형",
+    "3. KWL 노트/springboot 익힘/3장 스프링부트의 구조",
     "3. KWL 노트/springboot 익힘/4장 컨트롤러 구현",
     "3. KWL 노트/springboot 익힘/13장 RESTful 웹 서비스",
-    "첨부파일/자바익힘(1월)/자바 입문자를 위한 강의(88中16)/Pasted image 20250112092132.png",
-    "3. KWL 노트/springboot 익힘/3장 스프링부트의 구조",
     "3. KWL 노트/springboot 익힘",
-    "첨부파일/3. KWL 노트/자바익힘/자바 입문자를 위한 강의(88中16)/20. 객체지향02",
-    "첨부파일/3. KWL 노트/자바익힘/자바 입문자를 위한 강의(88中16)",
-    "첨부파일/Pasted image 20250118205220.png",
-    "첨부파일/Pasted image 20250118205121.png",
-    "첨부파일/5. 프로젝트-WPJ/db 데이터 변경 시 unique key 관련 오류/IMG-20250118203248001.png",
-    "5. 프로젝트-WPJ/공통코드 정상 로직.canvas",
-    "첨부파일/첨부파일/5. 프로젝트-WPJ/공통코드/IMG-20250118203247999.png/IMG-20250118204514766.png",
-    "5. 프로젝트-WPJ/공통코드.canvas",
-    "Untitled.canvas"
+    "3. KWL 노트/JS 익힘/기본기",
+    "3. KWL 노트/JS 익힘"
   ]
 }
