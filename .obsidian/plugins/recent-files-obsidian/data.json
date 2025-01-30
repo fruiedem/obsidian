@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "23. Super Keyword",
+      "path": "3. KWL 노트/JS 익힘/OOP/23. Super Keyword.md"
+    },
+    {
+      "basename": "22. Inheritance (상속)",
+      "path": "3. KWL 노트/JS 익힘/OOP/22. Inheritance (상속).md"
+    },
+    {
       "basename": "21. Static Keyword",
       "path": "3. KWL 노트/JS 익힘/OOP/21. Static Keyword.md"
     },
@@ -19,14 +27,6 @@
     {
       "basename": "obsidian 동기화 방법",
       "path": "obsidian 동기화 방법.md"
-    },
-    {
-      "basename": "23. Super Keyword",
-      "path": "3. KWL 노트/JS 익힘/OOP/23. Super Keyword.md"
-    },
-    {
-      "basename": "22. Inheritance (상속)",
-      "path": "3. KWL 노트/JS 익힘/OOP/22. Inheritance (상속).md"
     },
     {
       "basename": "18. 에러 핸들링",
