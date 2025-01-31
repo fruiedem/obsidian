@@ -5,16 +5,24 @@
       "path": "3. KWL 노트/JS 익힘/3_객체/2. Property Attribute.md"
     },
     {
+      "basename": "3. Immutable Objects-extensible, seal, freeze (불변 객체)",
+      "path": "3. KWL 노트/JS 익힘/3_객체/3. Immutable Objects-extensible, seal, freeze (불변 객체).md"
+    },
+    {
+      "basename": "4. Constructor Function (생성자 함수)",
+      "path": "3. KWL 노트/JS 익힘/3_객체/4. Constructor Function (생성자 함수).md"
+    },
+    {
+      "basename": "1. 소개",
+      "path": "3. KWL 노트/JS 익힘/3_객체/1. 소개.md"
+    },
+    {
       "basename": "17. Copy by value vs Copy by reference",
       "path": "3. KWL 노트/JS 익힘/1_기본기/17. Copy by value vs Copy by reference.md"
     },
     {
       "basename": "15. Array Methods (배열 메서드)",
       "path": "3. KWL 노트/JS 익힘/1_기본기/15. Array Methods (배열 메서드).md"
-    },
-    {
-      "basename": "1. 소개",
-      "path": "3. KWL 노트/JS 익힘/3_객체/1. 소개.md"
     },
     {
       "basename": "9. Closure",
@@ -35,14 +43,6 @@
     {
       "basename": "5. Prototype",
       "path": "3. KWL 노트/JS 익힘/3_객체/5. Prototype.md"
-    },
-    {
-      "basename": "4. Constructor Function (생성자 함수)",
-      "path": "3. KWL 노트/JS 익힘/3_객체/4. Constructor Function (생성자 함수).md"
-    },
-    {
-      "basename": "3. Immutable Objects-extensible, seal, freeze (불변 객체)",
-      "path": "3. KWL 노트/JS 익힘/3_객체/3. Immutable Objects-extensible, seal, freeze (불변 객체).md"
     },
     {
       "basename": "24. 클래스 문제풀기",
