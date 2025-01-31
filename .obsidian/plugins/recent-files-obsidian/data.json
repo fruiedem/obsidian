@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "2. Property Attribute",
-      "path": "3. KWL 노트/JS 익힘/3_객체/2. Property Attribute.md"
-    },
-    {
       "basename": "3. Immutable Objects-extensible, seal, freeze (불변 객체)",
       "path": "3. KWL 노트/JS 익힘/3_객체/3. Immutable Objects-extensible, seal, freeze (불변 객체).md"
+    },
+    {
+      "basename": "2. Property Attribute",
+      "path": "3. KWL 노트/JS 익힘/3_객체/2. Property Attribute.md"
     },
     {
       "basename": "4. Constructor Function (생성자 함수)",

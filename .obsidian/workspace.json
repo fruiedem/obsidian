@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. KWL 노트/JS 익힘/3_객체/2. Property Attribute.md",
+                "file": "3. KWL 노트/JS 익힘/3_객체/3. Immutable Objects-extensible, seal, freeze (불변 객체).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Property Attribute"
+              "title": "3. Immutable Objects-extensible, seal, freeze (불변 객체)"
             }
           }
         ]
@@ -166,9 +166,9 @@
   },
   "active": "8c42ba0910d603d1",
   "lastOpenFiles": [
+    "3. KWL 노트/JS 익힘/3_객체/2. Property Attribute.md",
     "3. KWL 노트/JS 익힘/3_객체/3. Immutable Objects-extensible, seal, freeze (불변 객체).md",
     "3. KWL 노트/JS 익힘/3_객체/4. Constructor Function (생성자 함수).md",
-    "3. KWL 노트/JS 익힘/3_객체/2. Property Attribute.md",
     "3. KWL 노트/JS 익힘/3_객체/1. 소개.md",
     "3. KWL 노트/JS 익힘/1_기본기/17. Copy by value vs Copy by reference.md",
     "3. KWL 노트/JS 익힘/1_기본기/15. Array Methods (배열 메서드).md",
