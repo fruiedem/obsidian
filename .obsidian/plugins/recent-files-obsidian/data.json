@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "6_useRef",
+      "path": "3. KWL 노트/react 익힘/2_심화/6_useRef.md"
+    },
+    {
+      "basename": "5_useReducer",
+      "path": "3. KWL 노트/react 익힘/2_심화/5_useReducer.md"
+    },
+    {
+      "basename": "4_State 심화",
+      "path": "3. KWL 노트/react 익힘/2_심화/4_State 심화.md"
+    },
+    {
+      "basename": "3_State 기초",
+      "path": "3. KWL 노트/react 익힘/2_심화/3_State 기초.md"
+    },
+    {
       "basename": "16. Objects (객체)",
       "path": "3. KWL 노트/JS 익힘/1_기본기/16. Objects (객체).md"
     },
@@ -29,18 +45,6 @@
       "path": "3. KWL 노트/JS 익힘/3_객체/2. Property Attribute.md"
     },
     {
-      "basename": "4_State 심화",
-      "path": "3. KWL 노트/react 익힘/2_심화/4_State 심화.md"
-    },
-    {
-      "basename": "3_State 기초",
-      "path": "3. KWL 노트/react 익힘/2_심화/3_State 기초.md"
-    },
-    {
-      "basename": "5_useReducer",
-      "path": "3. KWL 노트/react 익힘/2_심화/5_useReducer.md"
-    },
-    {
       "basename": "1_Component의 Props",
       "path": "3. KWL 노트/react 익힘/2_심화/1_Component의 Props.md"
     },
@@ -63,10 +67,6 @@
     {
       "basename": "7_생명주기와 useEffect",
       "path": "3. KWL 노트/react 익힘/2_심화/7_생명주기와 useEffect.md"
-    },
-    {
-      "basename": "6_useRef",
-      "path": "3. KWL 노트/react 익힘/2_심화/6_useRef.md"
     },
     {
       "basename": "2_이벤트 핸들링",
