@@ -1,16 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "1_Component의 Props",
+      "path": "3. KWL 노트/react 익힘/2_심화/1_Component의 Props.md"
+    },
+    {
+      "basename": "11_라우팅",
+      "path": "3. KWL 노트/react 익힘/2_심화/11_라우팅.md"
+    },
+    {
+      "basename": "10_Context",
+      "path": "3. KWL 노트/react 익힘/2_심화/10_Context.md"
+    },
+    {
+      "basename": "9_최적화",
+      "path": "3. KWL 노트/react 익힘/2_심화/9_최적화.md"
+    },
+    {
+      "basename": "8_커스텀 훅",
+      "path": "3. KWL 노트/react 익힘/2_심화/8_커스텀 훅.md"
+    },
+    {
+      "basename": "7_생명주기와 useEffect",
+      "path": "3. KWL 노트/react 익힘/2_심화/7_생명주기와 useEffect.md"
+    },
+    {
+      "basename": "6_useRef",
+      "path": "3. KWL 노트/react 익힘/2_심화/6_useRef.md"
+    },
+    {
+      "basename": "5_useReducer",
+      "path": "3. KWL 노트/react 익힘/2_심화/5_useReducer.md"
+    },
+    {
+      "basename": "4_State 심화",
+      "path": "3. KWL 노트/react 익힘/2_심화/4_State 심화.md"
+    },
+    {
       "basename": "3_State 기초",
-      "path": "3. KWL 노트/react 익힘/3_FINAL_PROJECT/3_State 기초.md"
+      "path": "3. KWL 노트/react 익힘/2_심화/3_State 기초.md"
     },
     {
       "basename": "2_이벤트 핸들링",
-      "path": "3. KWL 노트/react 익힘/3_FINAL_PROJECT/2_이벤트 핸들링.md"
-    },
-    {
-      "basename": "1_Component의 Props",
-      "path": "3. KWL 노트/react 익힘/3_FINAL_PROJECT/1_Component의 Props.md"
+      "path": "3. KWL 노트/react 익힘/2_심화/2_이벤트 핸들링.md"
     },
     {
       "basename": "3. Immutable Objects-extensible, seal, freeze (불변 객체)",
@@ -167,38 +199,6 @@
     {
       "basename": "공통코드(위험성평가최초정기-중대성, 가능성)",
       "path": "5. 프로젝트-WPJ/공통코드(위험성평가최초정기-중대성, 가능성).md"
-    },
-    {
-      "basename": "공통코드(위험성평가최초정기-중대성, 가능성)",
-      "path": "5. 프로젝트-WPJ/공통코드(위험성평가최초정기-중대성, 가능성).canvas"
-    },
-    {
-      "basename": "공통코드(안전교육 생성)",
-      "path": "5. 프로젝트-WPJ/공통코드(안전교육 생성).canvas"
-    },
-    {
-      "basename": "공통코드(안전교육 리스트 조회)",
-      "path": "5. 프로젝트-WPJ/공통코드(안전교육 리스트 조회).canvas"
-    },
-    {
-      "basename": "공통코드",
-      "path": "5. 프로젝트-WPJ/공통코드.md"
-    },
-    {
-      "basename": "공통코드",
-      "path": "5. 프로젝트-WPJ/공통코드.canvas"
-    },
-    {
-      "basename": "fatal; detected dubious ownership in repository at",
-      "path": "2. 위키하우/git/fatal; detected dubious ownership in repository at.md"
-    },
-    {
-      "basename": "java enum",
-      "path": "1. Wonder 5W1H/java enum.md"
-    },
-    {
-      "basename": "jrebel 사내망에서 연결 하는 편법",
-      "path": "1. Wonder 5W1H/jrebel 사내망에서 연결 하는 편법.md"
     }
   ],
   "omittedPaths": [],
