@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "7_생명주기와 useEffect",
+      "path": "3. KWL 노트/react 익힘/2_심화/7_생명주기와 useEffect.md"
+    },
+    {
       "basename": "6_useRef",
       "path": "3. KWL 노트/react 익힘/2_심화/6_useRef.md"
     },
@@ -63,10 +67,6 @@
     {
       "basename": "8_커스텀 훅",
       "path": "3. KWL 노트/react 익힘/2_심화/8_커스텀 훅.md"
-    },
-    {
-      "basename": "7_생명주기와 useEffect",
-      "path": "3. KWL 노트/react 익힘/2_심화/7_생명주기와 useEffect.md"
     },
     {
       "basename": "2_이벤트 핸들링",
