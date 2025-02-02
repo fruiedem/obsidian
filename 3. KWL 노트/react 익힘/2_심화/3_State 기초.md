@@ -8,8 +8,8 @@ arrow 함수 컴포넌트 정의 방식
 state에는 숫자뿐 아니라 불리언, 문자열, 객체, 배열 등 어떤 값이든 사용 가능
 Practice. 새로고침없이 버튼의 모습이 동적으로 변경(Count 예제)
 Practice. boolean use - 좋아요, 핀
-
-
+Practice.  투두리스트 작성
+![[Pasted image 20250202115307.png]]
 
 [state]
 
@@ -59,3 +59,11 @@ boolean state 적용
 새로고침없이 버튼의 모습이 동적으로 변경
 이를 위해 리액트에서는 state 개념 사용
 ![[Pasted image 20250201230057.png]]
+
+[Practice.  투두리스트 작성]
+Todo List 제목 표시
+투두리스트 세로 노출
+리스트 옆에 삭제 기능
+입력창 컴포넌트에 입력하고 버튼 클릭 시 리스트에 추가
+todos.splice(), todos.push 배열 자체를 변경하는 것으로는 리렌더링이 되지 않음
+**Issue. 리스트가 안 뿌려짐**

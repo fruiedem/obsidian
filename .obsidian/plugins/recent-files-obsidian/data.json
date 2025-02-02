@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "16. Objects (객체)",
+      "path": "3. KWL 노트/JS 익힘/1_기본기/16. Objects (객체).md"
+    },
+    {
+      "basename": "19. 클래스",
+      "path": "3. KWL 노트/JS 익힘/2_OOP/19. 클래스.md"
+    },
+    {
+      "basename": "20. Getter and Setter",
+      "path": "3. KWL 노트/JS 익힘/2_OOP/20. Getter and Setter.md"
+    },
+    {
+      "basename": "21. Static Keyword",
+      "path": "3. KWL 노트/JS 익힘/2_OOP/21. Static Keyword.md"
+    },
+    {
+      "basename": "4. Constructor Function (생성자 함수)",
+      "path": "3. KWL 노트/JS 익힘/3_객체/4. Constructor Function (생성자 함수).md"
+    },
+    {
+      "basename": "3. Immutable Objects-extensible, seal, freeze (불변 객체)",
+      "path": "3. KWL 노트/JS 익힘/3_객체/3. Immutable Objects-extensible, seal, freeze (불변 객체).md"
+    },
+    {
+      "basename": "2. Property Attribute",
+      "path": "3. KWL 노트/JS 익힘/3_객체/2. Property Attribute.md"
+    },
+    {
+      "basename": "4_State 심화",
+      "path": "3. KWL 노트/react 익힘/2_심화/4_State 심화.md"
+    },
+    {
+      "basename": "3_State 기초",
+      "path": "3. KWL 노트/react 익힘/2_심화/3_State 기초.md"
+    },
+    {
+      "basename": "5_useReducer",
+      "path": "3. KWL 노트/react 익힘/2_심화/5_useReducer.md"
+    },
+    {
       "basename": "1_Component의 Props",
       "path": "3. KWL 노트/react 익힘/2_심화/1_Component의 Props.md"
     },
@@ -29,32 +69,8 @@
       "path": "3. KWL 노트/react 익힘/2_심화/6_useRef.md"
     },
     {
-      "basename": "5_useReducer",
-      "path": "3. KWL 노트/react 익힘/2_심화/5_useReducer.md"
-    },
-    {
-      "basename": "4_State 심화",
-      "path": "3. KWL 노트/react 익힘/2_심화/4_State 심화.md"
-    },
-    {
-      "basename": "3_State 기초",
-      "path": "3. KWL 노트/react 익힘/2_심화/3_State 기초.md"
-    },
-    {
       "basename": "2_이벤트 핸들링",
       "path": "3. KWL 노트/react 익힘/2_심화/2_이벤트 핸들링.md"
-    },
-    {
-      "basename": "3. Immutable Objects-extensible, seal, freeze (불변 객체)",
-      "path": "3. KWL 노트/JS 익힘/3_객체/3. Immutable Objects-extensible, seal, freeze (불변 객체).md"
-    },
-    {
-      "basename": "2. Property Attribute",
-      "path": "3. KWL 노트/JS 익힘/3_객체/2. Property Attribute.md"
-    },
-    {
-      "basename": "4. Constructor Function (생성자 함수)",
-      "path": "3. KWL 노트/JS 익힘/3_객체/4. Constructor Function (생성자 함수).md"
     },
     {
       "basename": "1. 소개",
@@ -101,18 +117,6 @@
       "path": "3. KWL 노트/JS 익힘/2_OOP/22. Inheritance (상속).md"
     },
     {
-      "basename": "21. Static Keyword",
-      "path": "3. KWL 노트/JS 익힘/2_OOP/21. Static Keyword.md"
-    },
-    {
-      "basename": "19. 클래스",
-      "path": "3. KWL 노트/JS 익힘/2_OOP/19. 클래스.md"
-    },
-    {
-      "basename": "20. Getter and Setter",
-      "path": "3. KWL 노트/JS 익힘/2_OOP/20. Getter and Setter.md"
-    },
-    {
       "basename": "github와 연결 방법",
       "path": "2. 위키하우/git/github와 연결 방법.md"
     },
@@ -123,10 +127,6 @@
     {
       "basename": "18. 에러 핸들링",
       "path": "3. KWL 노트/JS 익힘/1_기본기/18. 에러 핸들링.md"
-    },
-    {
-      "basename": "16. Objects (객체)",
-      "path": "3. KWL 노트/JS 익힘/1_기본기/16. Objects (객체).md"
     },
     {
       "basename": "14. Functions (함수)",
