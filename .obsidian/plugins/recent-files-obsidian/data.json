@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "프로젝트 매출 및 손익 상세정보 확인 방법",
+      "path": "6. LIT/프로젝트 매출 및 손익 상세정보 확인 방법.md"
+    },
+    {
+      "basename": "5_useReducer",
+      "path": "3. KWL 노트/react 익힘/2_심화/5_useReducer.md"
+    },
+    {
+      "basename": "isLdcc 체크 관련 이슈",
+      "path": "5. 프로젝트-WPJ/isLdcc 체크 관련 이슈.md"
+    },
+    {
       "basename": "8_커스텀 훅",
       "path": "3. KWL 노트/react 익힘/2_심화/8_커스텀 훅.md"
     },
@@ -11,10 +23,6 @@
     {
       "basename": "6_useRef",
       "path": "3. KWL 노트/react 익힘/2_심화/6_useRef.md"
-    },
-    {
-      "basename": "5_useReducer",
-      "path": "3. KWL 노트/react 익힘/2_심화/5_useReducer.md"
     },
     {
       "basename": "4_State 심화",
@@ -191,14 +199,6 @@
     {
       "basename": "(LOCAL ISSUE) SSO 로그인 상태를 확인할 때 문제가 발생했습니다.",
       "path": "5. 프로젝트-WPJ/(LOCAL ISSUE) SSO 로그인 상태를 확인할 때 문제가 발생했습니다..md"
-    },
-    {
-      "basename": "위플젝 공통코드 테스트 시나리오",
-      "path": "5. 프로젝트-WPJ/위플젝 공통코드 테스트 시나리오.md"
-    },
-    {
-      "basename": "공통코드(위험성평가최초정기-중대성, 가능성)",
-      "path": "5. 프로젝트-WPJ/공통코드(위험성평가최초정기-중대성, 가능성).md"
     }
   ],
   "omittedPaths": [],
