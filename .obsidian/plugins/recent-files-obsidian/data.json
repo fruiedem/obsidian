@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "(System) 검증계 WAS 로그 추출 방법",
+      "path": "5. 프로젝트-WPJ/(System) 검증계 WAS 로그 추출 방법.md"
+    },
+    {
+      "basename": "(산출물) IS팀 인수인계 리스트",
+      "path": "5. 프로젝트-WPJ/(산출물) IS팀 인수인계 리스트.md"
+    },
+    {
+      "basename": "(산출물) SWA팀 위플젝 개발가이드",
+      "path": "5. 프로젝트-WPJ/(산출물) SWA팀 위플젝 개발가이드.md"
+    },
+    {
       "basename": "(Local Issue) SSO 로그인 상태를 확인할 때 문제가 발생했습니다.",
       "path": "5. 프로젝트-WPJ/(Local Issue) SSO 로그인 상태를 확인할 때 문제가 발생했습니다..md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "10. Memory",
       "path": "3. KWL 노트/JS 익힘/1_기본기/10. Memory.md"
-    },
-    {
-      "basename": "1. 세팅하기",
-      "path": "3. KWL 노트/JS 익힘/1_기본기/1. 세팅하기.md"
-    },
-    {
-      "basename": "8. Hoisting",
-      "path": "3. KWL 노트/JS 익힘/1_기본기/8. Hoisting.md"
-    },
-    {
-      "basename": "(ERROR) EPERM operation not permitted",
-      "path": "1. Wonder 5W1H/(ERROR) EPERM operation not permitted.md"
     }
   ],
   "omittedPaths": [],

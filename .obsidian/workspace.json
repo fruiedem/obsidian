@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. 프로젝트-WPJ/(Local Issue) SSO 로그인 상태를 확인할 때 문제가 발생했습니다..md",
+                "file": "5. 프로젝트-WPJ/(System) 검증계 WAS 로그 추출 방법.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(Local Issue) SSO 로그인 상태를 확인할 때 문제가 발생했습니다."
+              "title": "(System) 검증계 WAS 로그 추출 방법"
             }
           }
         ],
@@ -182,6 +182,11 @@
   },
   "active": "62876c131443edba",
   "lastOpenFiles": [
+    "5. 프로젝트-WPJ/(산출물) IS팀 인수인계 리스트.md",
+    "5. 프로젝트-WPJ/(System) 검증계 WAS 로그 추출 방법.md",
+    "5. 프로젝트-WPJ/(산출물) SWA팀 위플젝 개발가이드.md",
+    "첨부파일/개발가이드 2.2.docx",
+    "5. 프로젝트-WPJ/(Local Issue) SSO 로그인 상태를 확인할 때 문제가 발생했습니다..md",
     "5. 프로젝트-WPJ/(Local)개발계 DB 환경 구성.md",
     "5. 프로젝트-WPJ/(DB-SCRIPT) 공통코드 마이그레이션.md",
     "3. KWL 노트/react 익힘/2_심화/4_State 심화.md",
@@ -219,15 +224,10 @@
     "3. KWL 노트/react 익힘/2_심화",
     "3. KWL 노트/react 익힘/1_기초",
     "3. KWL 노트/react 익힘",
-    "3. KWL 노트/JS 익힘/3_객체/1. 소개.md",
-    "3. KWL 노트/JS 익힘/1_기본기/17. Copy by value vs Copy by reference.md",
-    "3. KWL 노트/JS 익힘/1_기본기/15. Array Methods (배열 메서드).md",
-    "3. KWL 노트/JS 익힘/3_객체/9. Closure.md",
     "3. KWL 노트/JS 익힘/3_객체/4. Constructor Function (생성자 함수)",
     "3. KWL 노트/JS 익힘/3_객체",
     "3. KWL 노트/무제 폴더",
     "3. KWL 노트/JS 익힘/2_OOP",
-    "3. KWL 노트/JS 익힘/기본기/무제 폴더",
     "3. KWL 노트/springboot 익힘/4장 컨트롤러 구현/4.5 도서 쇼핑몰_도서 목록 표시하기.canvas"
   ]
 }
