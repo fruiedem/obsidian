@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. LIT/프로젝트 매출 및 손익 상세정보 확인 방법.md",
+                "file": "5. 프로젝트-WPJ/(Local Issue) SSO 로그인 상태를 확인할 때 문제가 발생했습니다..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "프로젝트 매출 및 손익 상세정보 확인 방법"
+              "title": "(Local Issue) SSO 로그인 상태를 확인할 때 문제가 발생했습니다."
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "spread operator",
+                "query": "NOT_RE",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,15 +182,19 @@
   },
   "active": "62876c131443edba",
   "lastOpenFiles": [
-    "3. KWL 노트/react 익힘/2_심화/5_useReducer.md",
+    "5. 프로젝트-WPJ/(Local)개발계 DB 환경 구성.md",
+    "5. 프로젝트-WPJ/(DB-SCRIPT) 공통코드 마이그레이션.md",
+    "3. KWL 노트/react 익힘/2_심화/4_State 심화.md",
+    "3. KWL 노트/react 익힘/2_심화/3_State 기초.md",
+    "3. KWL 노트/react 익힘/2_심화/2_이벤트 핸들링.md",
+    "3. KWL 노트/react 익힘/2_심화/1_Component의 Props.md",
     "6. LIT/프로젝트 매출 및 손익 상세정보 확인 방법.md",
+    "3. KWL 노트/react 익힘/2_심화/5_useReducer.md",
     "6. LIT",
     "5. 프로젝트-WPJ/isLdcc 체크 관련 이슈.md",
     "3. KWL 노트/react 익힘/2_심화/8_커스텀 훅.md",
     "3. KWL 노트/react 익힘/2_심화/7_생명주기와 useEffect.md",
     "3. KWL 노트/react 익힘/2_심화/6_useRef.md",
-    "3. KWL 노트/react 익힘/2_심화/4_State 심화.md",
-    "3. KWL 노트/react 익힘/2_심화/3_State 기초.md",
     "첨부파일/Pasted image 20250202152810.png",
     "첨부파일/Pasted image 20250202152050.png",
     "첨부파일/Pasted image 20250202152028.png",
@@ -208,11 +212,9 @@
     "3. KWL 노트/JS 익힘/3_객체/4. Constructor Function (생성자 함수).md",
     "3. KWL 노트/JS 익힘/3_객체/3. Immutable Objects-extensible, seal, freeze (불변 객체).md",
     "3. KWL 노트/JS 익힘/3_객체/2. Property Attribute.md",
-    "3. KWL 노트/react 익힘/2_심화/1_Component의 Props.md",
     "3. KWL 노트/react 익힘/2_심화/11_라우팅.md",
     "3. KWL 노트/react 익힘/2_심화/10_Context.md",
     "3. KWL 노트/react 익힘/2_심화/9_최적화.md",
-    "3. KWL 노트/react 익힘/2_심화/2_이벤트 핸들링.md",
     "3. KWL 노트/react 익힘/3_FINAL_PROJECT",
     "3. KWL 노트/react 익힘/2_심화",
     "3. KWL 노트/react 익힘/1_기초",
@@ -221,8 +223,6 @@
     "3. KWL 노트/JS 익힘/1_기본기/17. Copy by value vs Copy by reference.md",
     "3. KWL 노트/JS 익힘/1_기본기/15. Array Methods (배열 메서드).md",
     "3. KWL 노트/JS 익힘/3_객체/9. Closure.md",
-    "3. KWL 노트/JS 익힘/3_객체/8. Execution Context.md",
-    "3. KWL 노트/JS 익힘/3_객체/7. this.md",
     "3. KWL 노트/JS 익힘/3_객체/4. Constructor Function (생성자 함수)",
     "3. KWL 노트/JS 익힘/3_객체",
     "3. KWL 노트/무제 폴더",
