@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "wsl 접속 디폴트 계정 변경 방법",
+      "path": "2. 위키하우/windows/wsl 접속 디폴트 계정 변경 방법.md"
+    },
+    {
+      "basename": "2. Tailwind CSS 설정",
+      "path": "3. KWL 노트/프로젝트 실습/코드로 배우는 React with 스프링부트 API서버/2. Tailwind CSS 설정.md"
+    },
+    {
       "basename": "1. 리액트 프로젝트 생성",
       "path": "3. KWL 노트/프로젝트 실습/코드로 배우는 React with 스프링부트 API서버/1. 리액트 프로젝트 생성.md"
     },
     {
       "basename": "3. MariaDB와 부트 프로젝트 생성",
       "path": "3. KWL 노트/프로젝트 실습/코드로 배우는 React with 스프링부트 API서버/3. MariaDB와 부트 프로젝트 생성.md"
-    },
-    {
-      "basename": "2. Tailwind CSS 설정",
-      "path": "3. KWL 노트/프로젝트 실습/코드로 배우는 React with 스프링부트 API서버/2. Tailwind CSS 설정.md"
     },
     {
       "basename": "(System) 검증계 WAS 로그 추출 방법",
@@ -195,10 +199,6 @@
     {
       "basename": "12. Loops (반복문)",
       "path": "3. KWL 노트/JS 익힘/1_기본기/12. Loops (반복문).md"
-    },
-    {
-      "basename": "11. if문과 switch문",
-      "path": "3. KWL 노트/JS 익힘/1_기본기/11. if문과 switch문.md"
     }
   ],
   "omittedPaths": [],

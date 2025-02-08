@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. KWL 노트/프로젝트 실습/코드로 배우는 React with 스프링부트 API서버/1. 리액트 프로젝트 생성.md",
+                "file": "2. 위키하우/windows/wsl 접속 디폴트 계정 변경 방법.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. 리액트 프로젝트 생성"
+              "title": "wsl 접속 디폴트 계정 변경 방법"
             }
           }
         ],
@@ -182,9 +182,11 @@
   },
   "active": "62876c131443edba",
   "lastOpenFiles": [
-    "3. KWL 노트/프로젝트 실습/코드로 배우는 React with 스프링부트 API서버/3. MariaDB와 부트 프로젝트 생성.md",
     "3. KWL 노트/프로젝트 실습/코드로 배우는 React with 스프링부트 API서버/2. Tailwind CSS 설정.md",
+    "2. 위키하우/windows/wsl 접속 디폴트 계정 변경 방법.md",
+    "2. 위키하우/windows",
     "3. KWL 노트/프로젝트 실습/코드로 배우는 React with 스프링부트 API서버/1. 리액트 프로젝트 생성.md",
+    "3. KWL 노트/프로젝트 실습/코드로 배우는 React with 스프링부트 API서버/3. MariaDB와 부트 프로젝트 생성.md",
     "3. KWL 노트/프로젝트 실습/코드로 배우는 React with 스프링부트 API서버",
     "5. 프로젝트-WPJ/(System) 검증계 WAS 로그 추출 방법.md",
     "3. KWL 노트/프로젝트 실습",
@@ -221,13 +223,11 @@
     "3. KWL 노트/JS 익힘/2_OOP/21. Static Keyword.md",
     "3. KWL 노트/JS 익힘/3_객체/4. Constructor Function (생성자 함수).md",
     "3. KWL 노트/JS 익힘/3_객체/3. Immutable Objects-extensible, seal, freeze (불변 객체).md",
-    "3. KWL 노트/JS 익힘/3_객체/2. Property Attribute.md",
     "3. KWL 노트/react 익힘/3_FINAL_PROJECT",
     "3. KWL 노트/react 익힘/2_심화",
     "3. KWL 노트/react 익힘/1_기초",
     "3. KWL 노트/react 익힘",
     "3. KWL 노트/JS 익힘/3_객체/4. Constructor Function (생성자 함수)",
-    "3. KWL 노트/JS 익힘/3_객체",
     "3. KWL 노트/springboot 익힘/4장 컨트롤러 구현/4.5 도서 쇼핑몰_도서 목록 표시하기.canvas"
   ]
 }
