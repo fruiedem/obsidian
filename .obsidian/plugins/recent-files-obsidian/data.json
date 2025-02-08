@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "1_Component의 Props",
+      "path": "3. KWL 노트/react 익힘/2_심화/1_Component의 Props.md"
+    },
+    {
+      "basename": "1. 리액트 프로젝트 생성",
+      "path": "3. KWL 노트/프로젝트 실습/코드로 배우는 React with 스프링부트 API서버/개발환경 설정/1. 리액트 프로젝트 생성.md"
+    },
+    {
       "basename": "wsl 접속 디폴트 계정 변경 방법",
       "path": "2. 위키하우/windows/wsl 접속 디폴트 계정 변경 방법.md"
     },
     {
       "basename": "2. Tailwind CSS 설정",
-      "path": "3. KWL 노트/프로젝트 실습/코드로 배우는 React with 스프링부트 API서버/2. Tailwind CSS 설정.md"
-    },
-    {
-      "basename": "1. 리액트 프로젝트 생성",
-      "path": "3. KWL 노트/프로젝트 실습/코드로 배우는 React with 스프링부트 API서버/1. 리액트 프로젝트 생성.md"
+      "path": "3. KWL 노트/프로젝트 실습/코드로 배우는 React with 스프링부트 API서버/개발환경 설정/2. Tailwind CSS 설정.md"
     },
     {
       "basename": "3. MariaDB와 부트 프로젝트 생성",
-      "path": "3. KWL 노트/프로젝트 실습/코드로 배우는 React with 스프링부트 API서버/3. MariaDB와 부트 프로젝트 생성.md"
+      "path": "3. KWL 노트/프로젝트 실습/코드로 배우는 React with 스프링부트 API서버/개발환경 설정/3. MariaDB와 부트 프로젝트 생성.md"
     },
     {
       "basename": "(System) 검증계 WAS 로그 추출 방법",
@@ -51,10 +55,6 @@
     {
       "basename": "2_이벤트 핸들링",
       "path": "3. KWL 노트/react 익힘/2_심화/2_이벤트 핸들링.md"
-    },
-    {
-      "basename": "1_Component의 Props",
-      "path": "3. KWL 노트/react 익힘/2_심화/1_Component의 Props.md"
     },
     {
       "basename": "프로젝트 매출 및 손익 상세정보 확인 방법",
