@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "1. 리액트 프로젝트 생성",
+      "path": "3. KWL 노트/프로젝트 실습/코드로 배우는 React with 스프링부트 API서버/1. 리액트 프로젝트 생성.md"
+    },
+    {
+      "basename": "3. MariaDB와 부트 프로젝트 생성",
+      "path": "3. KWL 노트/프로젝트 실습/코드로 배우는 React with 스프링부트 API서버/3. MariaDB와 부트 프로젝트 생성.md"
+    },
+    {
+      "basename": "2. Tailwind CSS 설정",
+      "path": "3. KWL 노트/프로젝트 실습/코드로 배우는 React with 스프링부트 API서버/2. Tailwind CSS 설정.md"
+    },
+    {
       "basename": "(System) 검증계 WAS 로그 추출 방법",
       "path": "5. 프로젝트-WPJ/(System) 검증계 WAS 로그 추출 방법.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "11. if문과 switch문",
       "path": "3. KWL 노트/JS 익힘/1_기본기/11. if문과 switch문.md"
-    },
-    {
-      "basename": "6. Naming Convention",
-      "path": "3. KWL 노트/JS 익힘/1_기본기/6. Naming Convention.md"
-    },
-    {
-      "basename": "9. Operator (연산자)",
-      "path": "3. KWL 노트/JS 익힘/1_기본기/9. Operator (연산자).md"
-    },
-    {
-      "basename": "10. Memory",
-      "path": "3. KWL 노트/JS 익힘/1_기본기/10. Memory.md"
     }
   ],
   "omittedPaths": [],
