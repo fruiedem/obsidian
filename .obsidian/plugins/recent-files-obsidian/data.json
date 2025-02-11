@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "(25-02-07)Optional.ofNullable",
+      "path": "1. Wonder 5W1H/(25-02-07)Optional.ofNullable.md"
+    },
+    {
       "basename": "(System) 검증계 WAS 로그 추출 방법",
       "path": "5. 프로젝트-WPJ/(System) 검증계 WAS 로그 추출 방법.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "9. Operator (연산자)",
       "path": "3. KWL 노트/JS 익힘/1_기본기/9. Operator (연산자).md"
-    },
-    {
-      "basename": "10. Memory",
-      "path": "3. KWL 노트/JS 익힘/1_기본기/10. Memory.md"
     }
   ],
   "omittedPaths": [],
