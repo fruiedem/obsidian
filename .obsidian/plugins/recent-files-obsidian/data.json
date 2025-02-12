@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "25-02-11 설치형 위플젝 공통코드 추가 작업",
+      "path": "5. 프로젝트-WPJ/25-02-11 설치형 위플젝 공통코드 추가 작업.md"
+    },
+    {
+      "basename": "무제",
+      "path": "무제.md"
+    },
+    {
       "basename": "(25-02-07)Optional.ofNullable",
       "path": "1. Wonder 5W1H/(25-02-07)Optional.ofNullable.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "11. if문과 switch문",
       "path": "3. KWL 노트/JS 익힘/1_기본기/11. if문과 switch문.md"
-    },
-    {
-      "basename": "6. Naming Convention",
-      "path": "3. KWL 노트/JS 익힘/1_기본기/6. Naming Convention.md"
-    },
-    {
-      "basename": "9. Operator (연산자)",
-      "path": "3. KWL 노트/JS 익힘/1_기본기/9. Operator (연산자).md"
     }
   ],
   "omittedPaths": [],
