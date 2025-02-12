@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. 프로젝트-WPJ/25-02-11 설치형 위플젝 공통코드 추가 작업.md",
+                "file": "2. 위키하우/debugging/javascript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "25-02-11 설치형 위플젝 공통코드 추가 작업"
+              "title": "javascript"
             }
           }
         ],
@@ -196,8 +196,10 @@
   },
   "active": "590b68f527dcf3c3",
   "lastOpenFiles": [
-    "무제.md",
     "5. 프로젝트-WPJ/25-02-11 설치형 위플젝 공통코드 추가 작업.md",
+    "2. 위키하우/debugging/javascript.md",
+    "2. 위키하우/debugging",
+    "무제.md",
     "1. Wonder 5W1H/(25-02-07)Optional.ofNullable.md",
     "3. KWL 노트/프로젝트 실습/코드로 배우는 React with 스프링부트 API서버/개발환경 설정/3. MariaDB와 부트 프로젝트 생성.md",
     "3. KWL 노트/프로젝트 실습/코드로 배우는 React with 스프링부트 API서버/개발환경 설정/1. 리액트 프로젝트 생성.md",
@@ -237,11 +239,9 @@
     "첨부파일/Pasted image 20250202145504.png",
     "3. KWL 노트/JS 익힘/1_기본기/16. Objects (객체).md",
     "3. KWL 노트/JS 익힘/2_OOP/19. 클래스.md",
-    "3. KWL 노트/JS 익힘/2_OOP/20. Getter and Setter.md",
     "3. KWL 노트/react 익힘/3_FINAL_PROJECT",
     "3. KWL 노트/react 익힘/2_심화",
     "3. KWL 노트/react 익힘/1_기초",
-    "3. KWL 노트/react 익힘",
     "3. KWL 노트/springboot 익힘/4장 컨트롤러 구현/4.5 도서 쇼핑몰_도서 목록 표시하기.canvas"
   ]
 }

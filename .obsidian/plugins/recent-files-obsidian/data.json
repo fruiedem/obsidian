@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "javascript",
+      "path": "2. 위키하우/debugging/javascript.md"
+    },
+    {
       "basename": "25-02-11 설치형 위플젝 공통코드 추가 작업",
       "path": "5. 프로젝트-WPJ/25-02-11 설치형 위플젝 공통코드 추가 작업.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "12. Loops (반복문)",
       "path": "3. KWL 노트/JS 익힘/1_기본기/12. Loops (반복문).md"
-    },
-    {
-      "basename": "11. if문과 switch문",
-      "path": "3. KWL 노트/JS 익힘/1_기본기/11. if문과 switch문.md"
     }
   ],
   "omittedPaths": [],
