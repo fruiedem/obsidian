@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "3. KWL 노트/springboot 익힘/스프링부트 기초 강의/Untitled.md"
+    },
+    {
+      "basename": "스프링 부트 기본기 한시간에 끝내기!",
+      "path": "스프링 부트 기본기 한시간에 끝내기!.md"
+    },
+    {
       "basename": "javascript",
       "path": "2. 위키하우/debugging/javascript.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "5. 변수 선언하기",
       "path": "3. KWL 노트/JS 익힘/1_기본기/5. 변수 선언하기.md"
-    },
-    {
-      "basename": "4. Comment(주석)",
-      "path": "3. KWL 노트/JS 익힘/1_기본기/4. Comment(주석).md"
-    },
-    {
-      "basename": "12. Loops (반복문)",
-      "path": "3. KWL 노트/JS 익힘/1_기본기/12. Loops (반복문).md"
     }
   ],
   "omittedPaths": [],
