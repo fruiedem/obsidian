@@ -1,6 +1,0 @@
-{
-	"nodes":[
-		{"id":"81fa775bf3b5d077","x":-200,"y":840,"width":440,"height":255,"type":"text","text":"package net.ldcc.localpms.common.enums.code;\n**RequirementAcceptanceCode**\n\nACCEPTED(\"SC0201\", \"수용\"),  \nNOT_ACCEPTED(\"SC0202\", \"미수용\"),  \nTRANSFER(\"SC0203\", \"이관\"),  \nDELETED(\"SC0204\", \"삭제\"),  \nCONFIRMED(\"\", \"확정\"),  \nNOT_CONFIRMED(\"\", \"미확정\");"}
-	],
-	"edges":[]
-}

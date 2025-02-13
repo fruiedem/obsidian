@@ -1,8 +1,60 @@
 {
   "recentFiles": [
     {
+      "basename": "(산출물) IS팀 인수인계 리스트",
+      "path": "5. 프로젝트-WPJ/WPJ/(산출물) IS팀 인수인계 리스트.md"
+    },
+    {
+      "basename": "(System) 검증계 WAS 로그 추출 방법",
+      "path": "5. 프로젝트-WPJ/WPJ/(System) 검증계 WAS 로그 추출 방법.md"
+    },
+    {
+      "basename": "(System) 위플젝 서버 접속 정보",
+      "path": "5. 프로젝트-WPJ/WPJ/(System) 위플젝 서버 접속 정보.md"
+    },
+    {
+      "basename": "(DB-Script)  공통코드 마이그레이션 (0220 운영 배포)",
+      "path": "5. 프로젝트-WPJ/WPJ/(DB-Script)  공통코드 마이그레이션 (0220 운영 배포).md"
+    },
+    {
+      "basename": "(산출물) SWA팀 위플젝 개발가이드",
+      "path": "5. 프로젝트-WPJ/WPJ/(산출물) SWA팀 위플젝 개발가이드.md"
+    },
+    {
+      "basename": "(Issue) 권한관리-QRS 권한-사용자그룹 노출 이슈",
+      "path": "5. 프로젝트-WPJ/WPJ/(Issue) 권한관리-QRS 권한-사용자그룹 노출 이슈.md"
+    },
+    {
+      "basename": "(Issue) db 데이터 변경 시 unique key 관련 오류",
+      "path": "5. 프로젝트-WPJ/WPJ/(Issue) db 데이터 변경 시 unique key 관련 오류.md"
+    },
+    {
+      "basename": "(Local Issue) isLdcc 체크 관련 이슈",
+      "path": "5. 프로젝트-WPJ/WPJ/(Local Issue) isLdcc 체크 관련 이슈.md"
+    },
+    {
+      "basename": "(Local Issue) SSO 로그인 상태를 확인할 때 문제가 발생했습니다.",
+      "path": "5. 프로젝트-WPJ/WPJ/(Local Issue) SSO 로그인 상태를 확인할 때 문제가 발생했습니다..md"
+    },
+    {
+      "basename": "7_생명주기와 useEffect",
+      "path": "3. KWL 노트/react 익힘/2_심화/7_생명주기와 useEffect.md"
+    },
+    {
+      "basename": "(System)개발계 DB 환경 구성",
+      "path": "5. 프로젝트-WPJ/WPJ/(System)개발계 DB 환경 구성.md"
+    },
+    {
+      "basename": "obsidian 동기화 방법",
+      "path": "obsidian 동기화 방법.md"
+    },
+    {
+      "basename": "파이프(오프쇼어 세션)",
+      "path": "파이프(오프쇼어 세션).md"
+    },
+    {
       "basename": "25-02-11 설치형 위플젝 공통코드 추가 작업",
-      "path": "5. 프로젝트-WPJ/25-02-11 설치형 위플젝 공통코드 추가 작업.md"
+      "path": "5. 프로젝트-WPJ/WPJ/25-02-11 설치형 위플젝 공통코드 추가 작업.md"
     },
     {
       "basename": "무제",
@@ -11,30 +63,6 @@
     {
       "basename": "(25-02-07)Optional.ofNullable",
       "path": "1. Wonder 5W1H/(25-02-07)Optional.ofNullable.md"
-    },
-    {
-      "basename": "(System) 검증계 WAS 로그 추출 방법",
-      "path": "5. 프로젝트-WPJ/(System) 검증계 WAS 로그 추출 방법.md"
-    },
-    {
-      "basename": "(산출물) IS팀 인수인계 리스트",
-      "path": "5. 프로젝트-WPJ/(산출물) IS팀 인수인계 리스트.md"
-    },
-    {
-      "basename": "(산출물) SWA팀 위플젝 개발가이드",
-      "path": "5. 프로젝트-WPJ/(산출물) SWA팀 위플젝 개발가이드.md"
-    },
-    {
-      "basename": "(Local Issue) SSO 로그인 상태를 확인할 때 문제가 발생했습니다.",
-      "path": "5. 프로젝트-WPJ/(Local Issue) SSO 로그인 상태를 확인할 때 문제가 발생했습니다..md"
-    },
-    {
-      "basename": "(Local)개발계 DB 환경 구성",
-      "path": "5. 프로젝트-WPJ/(Local)개발계 DB 환경 구성.md"
-    },
-    {
-      "basename": "(DB-SCRIPT) 공통코드 마이그레이션",
-      "path": "5. 프로젝트-WPJ/(DB-SCRIPT) 공통코드 마이그레이션.md"
     },
     {
       "basename": "4_State 심화",
@@ -61,16 +89,8 @@
       "path": "3. KWL 노트/react 익힘/2_심화/5_useReducer.md"
     },
     {
-      "basename": "isLdcc 체크 관련 이슈",
-      "path": "5. 프로젝트-WPJ/isLdcc 체크 관련 이슈.md"
-    },
-    {
       "basename": "8_커스텀 훅",
       "path": "3. KWL 노트/react 익힘/2_심화/8_커스텀 훅.md"
-    },
-    {
-      "basename": "7_생명주기와 useEffect",
-      "path": "3. KWL 노트/react 익힘/2_심화/7_생명주기와 useEffect.md"
     },
     {
       "basename": "6_useRef",
@@ -165,10 +185,6 @@
       "path": "2. 위키하우/git/github와 연결 방법.md"
     },
     {
-      "basename": "obsidian 동기화 방법",
-      "path": "obsidian 동기화 방법.md"
-    },
-    {
       "basename": "18. 에러 핸들링",
       "path": "3. KWL 노트/JS 익힘/1_기본기/18. 에러 핸들링.md"
     },
@@ -179,26 +195,6 @@
     {
       "basename": "13. Coercion",
       "path": "3. KWL 노트/JS 익힘/1_기본기/13. Coercion.md"
-    },
-    {
-      "basename": "7. Data Types (자료형)",
-      "path": "3. KWL 노트/JS 익힘/1_기본기/7. Data Types (자료형).md"
-    },
-    {
-      "basename": "5. 변수 선언하기",
-      "path": "3. KWL 노트/JS 익힘/1_기본기/5. 변수 선언하기.md"
-    },
-    {
-      "basename": "4. Comment(주석)",
-      "path": "3. KWL 노트/JS 익힘/1_기본기/4. Comment(주석).md"
-    },
-    {
-      "basename": "12. Loops (반복문)",
-      "path": "3. KWL 노트/JS 익힘/1_기본기/12. Loops (반복문).md"
-    },
-    {
-      "basename": "11. if문과 switch문",
-      "path": "3. KWL 노트/JS 익힘/1_기본기/11. if문과 switch문.md"
     }
   ],
   "omittedPaths": [],
