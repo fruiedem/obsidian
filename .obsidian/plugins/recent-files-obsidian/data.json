@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "무제 2",
+      "path": "무제 2.md"
+    },
+    {
       "basename": "자료 조사",
       "path": "5. 프로젝트-WPJ/서비스나우/자료 조사.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "18. 에러 핸들링",
       "path": "3. KWL 노트/JS 익힘/1_기본기/18. 에러 핸들링.md"
-    },
-    {
-      "basename": "14. Functions (함수)",
-      "path": "3. KWL 노트/JS 익힘/1_기본기/14. Functions (함수).md"
     }
   ],
   "omittedPaths": [],
