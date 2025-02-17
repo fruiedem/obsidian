@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. 프로젝트-WPJ/WPJ/(산출물) IS팀 인수인계 리스트.md",
+                "file": "5. 프로젝트-WPJ/서비스나우/자료 조사.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(산출물) IS팀 인수인계 리스트"
+              "title": "자료 조사"
             }
           }
         ],
@@ -121,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "fe24dd3177135fe4",
@@ -210,8 +211,8 @@
   },
   "active": "b33e3084cdbe1c6e",
   "lastOpenFiles": [
-    "무제 1.md",
     "5. 프로젝트-WPJ/WPJ/(산출물) IS팀 인수인계 리스트.md",
+    "무제 1.md",
     "스프링 부트 기본기 한시간에 끝내기!.md",
     "3. KWL 노트/springboot 익힘/스프링부트 기초 강의/Untitled.md",
     "3. KWL 노트/springboot 익힘/스프링부트 기초 강의",
