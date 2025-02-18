@@ -1,5 +1,5 @@
 ```sql
-select * from pms_user;
+-- pms_work_plan 테이블. 대분류 컬럼 마이그레이션
 update pms_work_plan set major_category='CONSTRUCTION' where major_category='건설공통';
 update pms_work_plan set major_category='CIVIL_ENGINEERING' where major_category='토목';
 update pms_work_plan set major_category='ARCHITECTURE' where major_category='건축';
@@ -9,6 +9,7 @@ update pms_work_plan set major_category='ELECTRIC_WORK' where major_category='�
 update pms_work_plan set major_category='RENEWABLE_ENERGY' where major_category='신재생에너지';
 update pms_work_plan set major_category='ETC' where major_category='기타';
 
+-- pms_risk_assessment_the_first_routine_item 테이블. 대분류 컬럼 마이그레이션
 update pms_risk_assessment_the_first_routine_item set major_categories='CONSTRUCTION' where major_categories='건설공통';
 update pms_risk_assessment_the_first_routine_item set major_categories='CIVIL_ENGINEERING' where major_categories='토목';
 update pms_risk_assessment_the_first_routine_item set major_categories='ARCHITECTURE' where major_categories='건축';
@@ -18,6 +19,7 @@ update pms_risk_assessment_the_first_routine_item set major_categories='ELECTRIC
 update pms_risk_assessment_the_first_routine_item set major_categories='RENEWABLE_ENERGY' where major_categories='신재생에너지';
 update pms_risk_assessment_the_first_routine_item set major_categories='ETC' where major_categories='기타';
 
+-- pms_work_plan 테이블. 중분류 컬럼 마이그레이션
 update pms_work_plan set medium_category='TEMPORARY_WORK' where medium_category='가설공사';
 update pms_work_plan set medium_category='EARTH_WORK' where medium_category='토공사';
 update pms_work_plan set medium_category='LANDSCAPE_WORK' where medium_category='조경공사';
@@ -90,7 +92,7 @@ update pms_work_plan set medium_category='BUILDING_AUTOMATION_SYSTEM_CONSTRUCTIO
 update pms_work_plan set medium_category='EV_CHARGING_INFRASTRUCTURE_CONSTRUCTION' where medium_category='전기차 충전설비 공사';
 update pms_work_plan set medium_category='ETC_WORK' where medium_category='기타공사';
 
-
+-- pms_risk_assessment_the_first_routine_item 테이블. 중분류 컬럼 마이그레이션
 update pms_risk_assessment_the_first_routine_item set medium_category='TEMPORARY_WORK' where medium_category='가설공사';
 update pms_risk_assessment_the_first_routine_item set medium_category='EARTH_WORK' where medium_category='토공사';
 update pms_risk_assessment_the_first_routine_item set medium_category='LANDSCAPE_WORK' where medium_category='조경공사';
@@ -163,6 +165,7 @@ update pms_risk_assessment_the_first_routine_item set medium_category='BUILDING_
 update pms_risk_assessment_the_first_routine_item set medium_category='EV_CHARGING_INFRASTRUCTURE_CONSTRUCTION' where medium_category='전기차 충전설비 공사';
 update pms_risk_assessment_the_first_routine_item set medium_category='ETC_WORK' where medium_category='기타공사';
 
+-- pms_risk_assessment_progress 테이블. 위험성평가상태 컬럼 마이그레이션
 update pms_risk_assessment_progress set code='CREATE_REQUEST' where code='Create Request';
 update pms_risk_assessment_progress set code='CREATING' where code='Creating';
 update pms_risk_assessment_progress set code='REVIEW_REQUEST' where code='Review Request';
@@ -176,16 +179,15 @@ update pms_risk_assessment_progress set code='MEETING_OBJECT' where code='Meetin
 update pms_risk_assessment_progress set code='MEETING_IN_PROGRESS' where code='Meeting (In-Progress)';
 update pms_risk_assessment_progress set code='MEETING_REVIEW' where code='Meeting (Review)';
 update pms_risk_assessment_progress set code='WORK_APPROVAL' where code='Work Approval';
-Assessment (Review) -> ASSESSMENT_REVIEW
-Assessment (Complete) -> ASSESSMENT_COMPLETE
-Approval Completed -> 동일한 상태
 
+-- pms_risk_assessment_item 테이블. 중요성 컬럼 마이그레이션
 ALTER TABLE pms_risk_assessment_item MODIFY risk_important varchar(100);
 update pms_risk_assessment_item set risk_important='ONE' where risk_important='1';
 update pms_risk_assessment_item set risk_important='TWO' where risk_important='2';
 update pms_risk_assessment_item set risk_important='THREE' where risk_important='3';
 update pms_risk_assessment_item set risk_important='FOUR' where risk_important='4';
 
+-- pms_risk_assessment_item 테이블. 가능성 컬럼 마이그레이션
 ALTER TABLE pms_risk_assessment_item MODIFY risk_possibility  varchar(100);
 update pms_risk_assessment_item set risk_possibility='ONE' where risk_possibility='1';
 update pms_risk_assessment_item set risk_possibility='TWO' where risk_possibility='2';
@@ -193,18 +195,21 @@ update pms_risk_assessment_item set risk_possibility='THREE' where risk_possibil
 update pms_risk_assessment_item set risk_possibility='FOUR' where risk_possibility='4';
 update pms_risk_assessment_item set risk_possibility='FIVE' where risk_possibility='5'; -- NEW
 
+-- pms_risk_assessment_meeting_priority 테이블. 개선후 중요성 컬럼 마이그레이션
 ALTER TABLE pms_risk_assessment_meeting_priority MODIFY after_improvement_importance  varchar(100);
 update pms_risk_assessment_meeting_priority set after_improvement_importance='ONE' where after_improvement_importance='1';
 update pms_risk_assessment_meeting_priority set after_improvement_importance='TWO' where after_improvement_importance='2';
 update pms_risk_assessment_meeting_priority set after_improvement_importance='THREE' where after_improvement_importance='3';
 update pms_risk_assessment_meeting_priority set after_improvement_importance='FOUR' where after_improvement_importance='4';
 
+-- pms_risk_assessment_the_first_routine_item 테이블. 중요성 컬럼 마이그레이션
 ALTER TABLE pms_risk_assessment_the_first_routine_item MODIFY risk_important  varchar(100);
 update pms_risk_assessment_the_first_routine_item set risk_important='ONE' where risk_important='1';
 update pms_risk_assessment_the_first_routine_item set risk_important='TWO' where risk_important='2';
 update pms_risk_assessment_the_first_routine_item set risk_important='THREE' where risk_important='3';
 update pms_risk_assessment_the_first_routine_item set risk_important='FOUR' where risk_important='4';
 
+-- pms_risk_assessment_meeting_priority 테이블. 개선후 가능성 컬럼 마이그레이션
 ALTER TABLE pms_risk_assessment_meeting_priority MODIFY after_improvement_possibility  varchar(100);
 update pms_risk_assessment_meeting_priority set after_improvement_possibility='ONE' where after_improvement_possibility='1';
 update pms_risk_assessment_meeting_priority set after_improvement_possibility='TWO' where after_improvement_possibility='2';
@@ -212,6 +217,7 @@ update pms_risk_assessment_meeting_priority set after_improvement_possibility='T
 update pms_risk_assessment_meeting_priority set after_improvement_possibility='FOUR' where after_improvement_possibility='4';
 update pms_risk_assessment_meeting_priority set after_improvement_possibility='FIVE' where after_improvement_possibility='5'; -- NEW
 
+-- pms_risk_assessment_the_first_routine_item 테이블. 가능성 컬럼 마이그레이션
 ALTER TABLE pms_risk_assessment_the_first_routine_item MODIFY risk_possibility  varchar(100);
 update pms_risk_assessment_the_first_routine_item set risk_possibility='ONE' where risk_possibility='1';
 update pms_risk_assessment_the_first_routine_item set risk_possibility='TWO' where risk_possibility='2';
@@ -219,13 +225,14 @@ update pms_risk_assessment_the_first_routine_item set risk_possibility='THREE' w
 update pms_risk_assessment_the_first_routine_item set risk_possibility='FOUR' where risk_possibility='4';
 update pms_risk_assessment_the_first_routine_item set risk_possibility='FIVE' where risk_possibility='5'; -- NEW
 
-
-ALTER TABLE pms_safety_education MODIFY division  varchar(255); -- 변경 이전 타입 확인 필요
+-- pms_safety_education 테이블. 교육구분 컬럼 마이그레이션
+ALTER TABLE pms_safety_education MODIFY division  varchar(255); 
 update pms_safety_education set division='REGULAR_TRAINING' where division='정기교육';
 update pms_safety_education set division='HIRING_TRAINING' where division='채용시 교육';
 update pms_safety_education set division='SPECIAL_TRAINING' where division='특별교육';
 update pms_safety_education set division='WORK_CONTENTS_CHANGING_TRAINING' where division='작업내용 변경 시 교육';
 
+-- pms_occupational_safety_health 테이블. 산업안전보건관리비 항목 컬럼 마이그레이션
 ALTER TABLE pms_occupational_safety_health MODIFY ITEM  varchar(100);
 update pms_occupational_safety_health set ITEM='SAFETY_WAGES' where ITEM='0';
 update pms_occupational_safety_health set ITEM='SAFETY_FACILITIES' where ITEM='1';
@@ -237,11 +244,13 @@ update pms_occupational_safety_health set ITEM='CONSTRUCTION_DISASTER_PREVENTION
 update pms_occupational_safety_health set ITEM='EMPLOYEE_WAGES' where ITEM='7';
 update pms_occupational_safety_health set ITEM='REQUIRED_COST_RISK_ASSESSMENT' where ITEM='8';
 
+-- pms_meeting_minute_division 테이블. 협의체회의록 구분 컬럼 마이그레이션
 ALTER TABLE pms_meeting_minute_division MODIFY CODE  varchar(255); -- 변경 이전 타입 확인 필요
 update pms_meeting_minute_division set CODE='SF1901' where CODE='sd00001';
 update pms_meeting_minute_division set CODE='SF1902' where CODE='sd00002';
 update pms_meeting_minute_division set CODE='SF1903' where CODE='sd00003';
 
+-- pms_risk_assessment_the_first_routine_item 테이블. 위험유형 컬럼 마이그레이션
 ALTER TABLE pms_risk_assessment_the_first_routine_item MODIFY risk_type varchar(100); 
 update pms_risk_assessment_the_first_routine_item set risk_type='ELECTRIC_SHOCK' where risk_type='0';
 update pms_risk_assessment_the_first_routine_item set risk_type='FIRE' where risk_type='1';
@@ -251,8 +260,8 @@ update pms_risk_assessment_the_first_routine_item set risk_type='SUFFOCATION' wh
 update pms_risk_assessment_the_first_routine_item set risk_type='SLIP' where risk_type='5';
 update pms_risk_assessment_the_first_routine_item set risk_type='DROP' where risk_type='6';
 update pms_risk_assessment_the_first_routine_item set risk_type='CATCH' where risk_type='7';
-select * from pms_risk_assessment_the_first_routine_item;
 
+-- pms_role_safety 테이블. Project안전관리 역할 컬럼 마이그레이션
 update pms_role_safety set role_id='SAFETY_GENERAL_MANAGER' where role_id='ROLE_SAFETY_01';
 update pms_role_safety set role_id='SAFETY_HEALTH_MANAGEMENT_MANAGER' where role_id='ROLE_SAFETY_02';
 update pms_role_safety set role_id='SAFETY_MANAGER' where role_id='ROLE_SAFETY_03';
@@ -260,11 +269,11 @@ update pms_role_safety set role_id='SAFETY_HEALTH_MANAGER' where role_id='ROLE_S
 update pms_role_safety set role_id='SAFETY_MANAGEMENT_SUPERVISOR' where role_id='ROLE_SAFETY_05';
 update pms_role_safety set role_id='HEADQUARTER_SAFETY_MANAGER' where role_id='ROLE_SAFETY_06';
 
-select * from pms_role_safety prs ;
+-- pms_headquarter_safety_inspect 테이블. 본사안전점검 제목 컬럼 마이그레이션
 update pms_headquarter_safety_inspect set title='SF2703' where title='본사 안전점검';
-select * from pms_headquarter_safety_inspect;
 
-ALTER TABLE pms_risk_assessment_the_first_routine_item MODIFY risk_type varchar(100); 
+-- pms_risk_assessment_the_first_routine_item 테이블. 위험유형 컬럼 마이그레이션
+ALTER TABLE pms_risk_assessment_item MODIFY risk_type varchar(100); 
 update pms_risk_assessment_item set risk_type='ELECTRIC_SHOCK' where risk_type='0';
 update pms_risk_assessment_item set risk_type='FIRE' where risk_type='1';
 update pms_risk_assessment_item set risk_type='CRASH' where risk_type='2';

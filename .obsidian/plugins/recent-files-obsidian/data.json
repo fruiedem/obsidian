@@ -1,16 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "무제 2",
-      "path": "무제 2.md"
+      "basename": "javascript",
+      "path": "2. 위키하우/debugging/javascript.md"
+    },
+    {
+      "basename": "IKC",
+      "path": "5. 프로젝트-WPJ/서비스나우/IKC.md"
     },
     {
       "basename": "자료 조사",
       "path": "5. 프로젝트-WPJ/서비스나우/자료 조사.md"
     },
     {
+      "basename": "(DB-Script)  공통코드 마이그레이션 (0220 운영 배포)",
+      "path": "5. 프로젝트-WPJ/WPJ/(DB-Script)  공통코드 마이그레이션 (0220 운영 배포).md"
+    },
+    {
+      "basename": "(산출물) SWA팀 위플젝 개발가이드",
+      "path": "5. 프로젝트-WPJ/WPJ/(산출물) SWA팀 위플젝 개발가이드.md"
+    },
+    {
       "basename": "(산출물) IS팀 인수인계 리스트",
       "path": "5. 프로젝트-WPJ/WPJ/(산출물) IS팀 인수인계 리스트.md"
+    },
+    {
+      "basename": "7_생명주기와 useEffect",
+      "path": "3. KWL 노트/react 익힘/2_심화/7_생명주기와 useEffect.md"
+    },
+    {
+      "basename": "9_최적화",
+      "path": "3. KWL 노트/react 익힘/2_심화/9_최적화.md"
+    },
+    {
+      "basename": "8_커스텀 훅",
+      "path": "3. KWL 노트/react 익힘/2_심화/8_커스텀 훅.md"
+    },
+    {
+      "basename": "5_useReducer",
+      "path": "3. KWL 노트/react 익힘/2_심화/5_useReducer.md"
+    },
+    {
+      "basename": "무제 2",
+      "path": "무제 2.md"
     },
     {
       "basename": "무제 1",
@@ -23,14 +55,6 @@
     {
       "basename": "(System) 위플젝 서버 접속 정보",
       "path": "5. 프로젝트-WPJ/WPJ/(System) 위플젝 서버 접속 정보.md"
-    },
-    {
-      "basename": "(DB-Script)  공통코드 마이그레이션 (0220 운영 배포)",
-      "path": "5. 프로젝트-WPJ/WPJ/(DB-Script)  공통코드 마이그레이션 (0220 운영 배포).md"
-    },
-    {
-      "basename": "(산출물) SWA팀 위플젝 개발가이드",
-      "path": "5. 프로젝트-WPJ/WPJ/(산출물) SWA팀 위플젝 개발가이드.md"
     },
     {
       "basename": "(Issue) 권한관리-QRS 권한-사용자그룹 노출 이슈",
@@ -47,10 +71,6 @@
     {
       "basename": "(Local Issue) SSO 로그인 상태를 확인할 때 문제가 발생했습니다.",
       "path": "5. 프로젝트-WPJ/WPJ/(Local Issue) SSO 로그인 상태를 확인할 때 문제가 발생했습니다..md"
-    },
-    {
-      "basename": "7_생명주기와 useEffect",
-      "path": "3. KWL 노트/react 익힘/2_심화/7_생명주기와 useEffect.md"
     },
     {
       "basename": "(System)개발계 DB 환경 구성",
@@ -97,14 +117,6 @@
       "path": "6. LIT/프로젝트 매출 및 손익 상세정보 확인 방법.md"
     },
     {
-      "basename": "5_useReducer",
-      "path": "3. KWL 노트/react 익힘/2_심화/5_useReducer.md"
-    },
-    {
-      "basename": "8_커스텀 훅",
-      "path": "3. KWL 노트/react 익힘/2_심화/8_커스텀 훅.md"
-    },
-    {
       "basename": "6_useRef",
       "path": "3. KWL 노트/react 익힘/2_심화/6_useRef.md"
     },
@@ -143,10 +155,6 @@
     {
       "basename": "10_Context",
       "path": "3. KWL 노트/react 익힘/2_심화/10_Context.md"
-    },
-    {
-      "basename": "9_최적화",
-      "path": "3. KWL 노트/react 익힘/2_심화/9_최적화.md"
     },
     {
       "basename": "1. 소개",
@@ -191,14 +199,6 @@
     {
       "basename": "22. Inheritance (상속)",
       "path": "3. KWL 노트/JS 익힘/2_OOP/22. Inheritance (상속).md"
-    },
-    {
-      "basename": "github와 연결 방법",
-      "path": "2. 위키하우/git/github와 연결 방법.md"
-    },
-    {
-      "basename": "18. 에러 핸들링",
-      "path": "3. KWL 노트/JS 익힘/1_기본기/18. 에러 핸들링.md"
     }
   ],
   "omittedPaths": [],
