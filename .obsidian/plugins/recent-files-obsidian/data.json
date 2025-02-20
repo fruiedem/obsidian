@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "(Issue)(2502배포)(25-02-18) 보안점검결과 엑셀파일",
+      "path": "5. 프로젝트-WPJ/WPJ/(Issue)(2502배포)(25-02-18) 보안점검결과 엑셀파일.md"
+    },
+    {
+      "basename": "(Issue)(2502배포)(25-02-18)",
+      "path": "5. 프로젝트-WPJ/WPJ/(Issue)(2502배포)(25-02-18).md"
+    },
+    {
+      "basename": "(Issue)(2502배포)(25-02-18)(Defect-1328) 보안점검결과 엑셀 비율값 미일치",
+      "path": "5. 프로젝트-WPJ/WPJ/(Issue)(2502배포)(25-02-18)(Defect-1328) 보안점검결과 엑셀 비율값 미일치.md"
+    },
+    {
+      "basename": "(System) 위플젝 서버 접속 정보",
+      "path": "5. 프로젝트-WPJ/WPJ/(System) 위플젝 서버 접속 정보.md"
+    },
+    {
+      "basename": "(System) 검증계 WAS 로그 추출 방법",
+      "path": "5. 프로젝트-WPJ/WPJ/(System) 검증계 WAS 로그 추출 방법.md"
+    },
+    {
       "basename": "javascript",
       "path": "2. 위키하우/debugging/javascript.md"
     },
@@ -47,14 +67,6 @@
     {
       "basename": "무제 1",
       "path": "무제 1.md"
-    },
-    {
-      "basename": "(System) 검증계 WAS 로그 추출 방법",
-      "path": "5. 프로젝트-WPJ/WPJ/(System) 검증계 WAS 로그 추출 방법.md"
-    },
-    {
-      "basename": "(System) 위플젝 서버 접속 정보",
-      "path": "5. 프로젝트-WPJ/WPJ/(System) 위플젝 서버 접속 정보.md"
     },
     {
       "basename": "(Issue) 권한관리-QRS 권한-사용자그룹 노출 이슈",
@@ -187,18 +199,6 @@
     {
       "basename": "5. Prototype",
       "path": "3. KWL 노트/JS 익힘/3_객체/5. Prototype.md"
-    },
-    {
-      "basename": "24. 클래스 문제풀기",
-      "path": "3. KWL 노트/JS 익힘/2_OOP/24. 클래스 문제풀기.md"
-    },
-    {
-      "basename": "23. Super Keyword",
-      "path": "3. KWL 노트/JS 익힘/2_OOP/23. Super Keyword.md"
-    },
-    {
-      "basename": "22. Inheritance (상속)",
-      "path": "3. KWL 노트/JS 익힘/2_OOP/22. Inheritance (상속).md"
     }
   ],
   "omittedPaths": [],
