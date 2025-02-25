@@ -3,7 +3,12 @@
 3) API 테스트 가능한 postman 에서 추출된 json 파일
 4) 기능(안전관리, QRS 등)별 전반적인 흐름 설명 (인수인계 때 한번 쭉 설명해주시고 설명해주신 내용이 인수인계 문서에 남아있으면 좋습니다)
 
-
+⭕ 1. ERD
+1. Additional KR Field in table 
+2. UML for electronic approval
+⭕4. image, attachment menu list and relavant screen 
+⭕ 5. Chart api - What kind of library do you use, where, what component did you use, What it's helpful to know when modifying a chart
+3. Share any self-implemented parts other than common Excel uploads/downloads, How did you implement it diffrently
 
 
 요건

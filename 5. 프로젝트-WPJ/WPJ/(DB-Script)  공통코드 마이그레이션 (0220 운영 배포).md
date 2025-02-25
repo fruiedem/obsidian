@@ -180,6 +180,14 @@ update pms_risk_assessment_progress set code='MEETING_IN_PROGRESS' where code='M
 update pms_risk_assessment_progress set code='MEETING_REVIEW' where code='Meeting (Review)';
 update pms_risk_assessment_progress set code='WORK_APPROVAL' where code='Work Approval';
 
+---추가
+update pms_risk_assessment_progress set code='ASSESSMENT_COMPLETE' where code='Assessment (Complete)';
+update pms_risk_assessment_progress set code='ASSESSMENT_REVIEW' where code='Assessment (Review)';
+
+
+
+
+
 -- pms_risk_assessment_item 테이블. 중요성 컬럼 마이그레이션
 ALTER TABLE pms_risk_assessment_item MODIFY risk_important varchar(100);
 update pms_risk_assessment_item set risk_important='ONE' where risk_important='1';

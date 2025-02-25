@@ -1,28 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "(Issue)(2502배포)(25-02-18) 보안점검결과 엑셀파일",
-      "path": "5. 프로젝트-WPJ/WPJ/(Issue)(2502배포)(25-02-18) 보안점검결과 엑셀파일.md"
+      "basename": "(DB-Script)  공통코드 마이그레이션 (0220 운영 배포)",
+      "path": "5. 프로젝트-WPJ/WPJ/(DB-Script)  공통코드 마이그레이션 (0220 운영 배포).md"
     },
     {
-      "basename": "(Issue)(2502배포)(25-02-18)",
-      "path": "5. 프로젝트-WPJ/WPJ/(Issue)(2502배포)(25-02-18).md"
-    },
-    {
-      "basename": "(Issue)(2502배포)(25-02-18)(Defect-1328) 보안점검결과 엑셀 비율값 미일치",
-      "path": "5. 프로젝트-WPJ/WPJ/(Issue)(2502배포)(25-02-18)(Defect-1328) 보안점검결과 엑셀 비율값 미일치.md"
-    },
-    {
-      "basename": "(System) 위플젝 서버 접속 정보",
-      "path": "5. 프로젝트-WPJ/WPJ/(System) 위플젝 서버 접속 정보.md"
-    },
-    {
-      "basename": "(System) 검증계 WAS 로그 추출 방법",
-      "path": "5. 프로젝트-WPJ/WPJ/(System) 검증계 WAS 로그 추출 방법.md"
-    },
-    {
-      "basename": "javascript",
-      "path": "2. 위키하우/debugging/javascript.md"
+      "basename": "안전관리 화면별 권한",
+      "path": "5. 프로젝트-WPJ/WPJ/비즈니스로직/안전관리 화면별 권한.md"
     },
     {
       "basename": "IKC",
@@ -33,16 +17,40 @@
       "path": "5. 프로젝트-WPJ/서비스나우/자료 조사.md"
     },
     {
-      "basename": "(DB-Script)  공통코드 마이그레이션 (0220 운영 배포)",
-      "path": "5. 프로젝트-WPJ/WPJ/(DB-Script)  공통코드 마이그레이션 (0220 운영 배포).md"
+      "basename": "(System) 검증계 WAS 로그 추출 방법",
+      "path": "5. 프로젝트-WPJ/WPJ/System/(System) 검증계 WAS 로그 추출 방법.md"
+    },
+    {
+      "basename": "(Issue) 권한관리-QRS 권한-사용자그룹 노출 이슈",
+      "path": "5. 프로젝트-WPJ/WPJ/Issue/(Issue) 권한관리-QRS 권한-사용자그룹 노출 이슈.md"
+    },
+    {
+      "basename": "(산출물) IS팀 인수인계 리스트",
+      "path": "5. 프로젝트-WPJ/WPJ/산출물/(산출물) IS팀 인수인계 리스트.md"
+    },
+    {
+      "basename": "(Issue)(2502배포)(25-02-18) 보안점검결과 엑셀파일",
+      "path": "5. 프로젝트-WPJ/WPJ/Issue/(Issue)(2502배포)(25-02-18) 보안점검결과 엑셀파일.md"
+    },
+    {
+      "basename": "(Issue)(2502배포)(25-02-18)",
+      "path": "5. 프로젝트-WPJ/WPJ/Issue/(Issue)(2502배포)(25-02-18).md"
+    },
+    {
+      "basename": "(Issue)(2502배포)(25-02-18)(Defect-1328) 보안점검결과 엑셀 비율값 미일치",
+      "path": "5. 프로젝트-WPJ/WPJ/Issue/(Issue)(2502배포)(25-02-18)(Defect-1328) 보안점검결과 엑셀 비율값 미일치.md"
+    },
+    {
+      "basename": "(System) 위플젝 서버 접속 정보",
+      "path": "5. 프로젝트-WPJ/WPJ/System/(System) 위플젝 서버 접속 정보.md"
+    },
+    {
+      "basename": "javascript",
+      "path": "2. 위키하우/debugging/javascript.md"
     },
     {
       "basename": "(산출물) SWA팀 위플젝 개발가이드",
       "path": "5. 프로젝트-WPJ/WPJ/(산출물) SWA팀 위플젝 개발가이드.md"
-    },
-    {
-      "basename": "(산출물) IS팀 인수인계 리스트",
-      "path": "5. 프로젝트-WPJ/WPJ/(산출물) IS팀 인수인계 리스트.md"
     },
     {
       "basename": "7_생명주기와 useEffect",
@@ -69,12 +77,8 @@
       "path": "무제 1.md"
     },
     {
-      "basename": "(Issue) 권한관리-QRS 권한-사용자그룹 노출 이슈",
-      "path": "5. 프로젝트-WPJ/WPJ/(Issue) 권한관리-QRS 권한-사용자그룹 노출 이슈.md"
-    },
-    {
       "basename": "(Issue) db 데이터 변경 시 unique key 관련 오류",
-      "path": "5. 프로젝트-WPJ/WPJ/(Issue) db 데이터 변경 시 unique key 관련 오류.md"
+      "path": "5. 프로젝트-WPJ/WPJ/Issue/(Issue) db 데이터 변경 시 unique key 관련 오류.md"
     },
     {
       "basename": "(Local Issue) isLdcc 체크 관련 이슈",
@@ -86,7 +90,7 @@
     },
     {
       "basename": "(System)개발계 DB 환경 구성",
-      "path": "5. 프로젝트-WPJ/WPJ/(System)개발계 DB 환경 구성.md"
+      "path": "5. 프로젝트-WPJ/WPJ/System/(System)개발계 DB 환경 구성.md"
     },
     {
       "basename": "obsidian 동기화 방법",
@@ -195,10 +199,6 @@
     {
       "basename": "6. Scope",
       "path": "3. KWL 노트/JS 익힘/3_객체/6. Scope.md"
-    },
-    {
-      "basename": "5. Prototype",
-      "path": "3. KWL 노트/JS 익힘/3_객체/5. Prototype.md"
     }
   ],
   "omittedPaths": [],
