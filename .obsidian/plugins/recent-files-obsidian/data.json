@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "정리자료2",
+      "path": "5. 프로젝트-WPJ/서비스나우/정리자료2.md"
+    },
+    {
+      "basename": "정리 자료1",
+      "path": "5. 프로젝트-WPJ/서비스나우/정리 자료1.md"
+    },
+    {
+      "basename": "프로젝트 매출 및 손익 상세정보 확인 방법",
+      "path": "6. LIT/프로젝트 매출 및 손익 상세정보 확인 방법.md"
+    },
+    {
+      "basename": "참고자료",
+      "path": "5. 프로젝트-WPJ/서비스나우/참고자료.md"
+    },
+    {
+      "basename": "문서중앙화",
+      "path": "6. LIT/문서중앙화.md"
+    },
+    {
       "basename": "(DB-Script)  공통코드 마이그레이션 (0220 운영 배포)",
       "path": "5. 프로젝트-WPJ/WPJ/(DB-Script)  공통코드 마이그레이션 (0220 운영 배포).md"
     },
@@ -11,10 +31,6 @@
     {
       "basename": "IKC",
       "path": "5. 프로젝트-WPJ/서비스나우/IKC.md"
-    },
-    {
-      "basename": "자료 조사",
-      "path": "5. 프로젝트-WPJ/서비스나우/자료 조사.md"
     },
     {
       "basename": "(System) 검증계 WAS 로그 추출 방법",
@@ -129,10 +145,6 @@
       "path": "3. KWL 노트/react 익힘/2_심화/1_Component의 Props.md"
     },
     {
-      "basename": "프로젝트 매출 및 손익 상세정보 확인 방법",
-      "path": "6. LIT/프로젝트 매출 및 손익 상세정보 확인 방법.md"
-    },
-    {
       "basename": "6_useRef",
       "path": "3. KWL 노트/react 익힘/2_심화/6_useRef.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "9. Closure",
       "path": "3. KWL 노트/JS 익힘/3_객체/9. Closure.md"
-    },
-    {
-      "basename": "8. Execution Context",
-      "path": "3. KWL 노트/JS 익힘/3_객체/8. Execution Context.md"
-    },
-    {
-      "basename": "7. this",
-      "path": "3. KWL 노트/JS 익힘/3_객체/7. this.md"
-    },
-    {
-      "basename": "6. Scope",
-      "path": "3. KWL 노트/JS 익힘/3_객체/6. Scope.md"
     }
   ],
   "omittedPaths": [],
