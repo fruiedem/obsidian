@@ -67,12 +67,14 @@
             "id": "e74eeacf4d6f74b9",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.7"
+                "file": "5. 프로젝트-WPJ/WPJ/Issue/(Issue)(2503배포)(25-03-04) 주간작업계획 중분류 저장 오류.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
+              "icon": "lucide-file",
+              "title": "(Issue)(2503배포)(25-03-04) 주간작업계획 중분류 저장 오류"
             }
           }
         ],
@@ -108,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "손익",
+                "query": "OBJECT.KEY",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -222,6 +224,14 @@
   },
   "active": "e74eeacf4d6f74b9",
   "lastOpenFiles": [
+    "5. 프로젝트-WPJ/WPJ/Issue/(Issue)(2503배포)(defect-1333)(25-03-04) Project 안전관리 담당자 첨부파일 저장 이슈.md",
+    "3. KWL 노트/JS 익힘/3_객체/2. Property Attribute.md",
+    "3. KWL 노트/JS 익힘/1_기본기/16. Objects (객체).md",
+    "3. KWL 노트/JS 익힘/1_기본기/15. Array Methods (배열 메서드).md",
+    "5. 프로젝트-WPJ/WPJ/Issue/(Issue)(2503배포)(25-03-04) 주간작업계획 중분류 저장 오류.md",
+    "5. 프로젝트-WPJ/WPJ/비즈니스로직/Project 안전관리 menuId.md",
+    "3. KWL 노트/JS 익힘/3_객체/4. Constructor Function (생성자 함수).md",
+    "3. KWL 노트/JS 익힘/3_객체/3. Immutable Objects-extensible, seal, freeze (불변 객체).md",
     "5. 프로젝트-WPJ/서비스나우/정리 자료1.md",
     "5. 프로젝트-WPJ/서비스나우/정리자료2.md",
     "6. LIT/프로젝트 매출 및 손익 상세정보 확인 방법.md",
@@ -245,18 +255,10 @@
     "2. 위키하우/debugging/javascript.md",
     "5. 프로젝트-WPJ/WPJ/(산출물) SWA팀 위플젝 개발가이드.md",
     "3. KWL 노트/react 익힘/2_심화/7_생명주기와 useEffect.md",
-    "3. KWL 노트/react 익힘/2_심화/9_최적화.md",
-    "3. KWL 노트/react 익힘/2_심화/8_커스텀 훅.md",
-    "3. KWL 노트/react 익힘/2_심화/5_useReducer.md",
-    "무제 2.md",
-    "무제 1.md",
-    "스프링 부트 기본기 한시간에 끝내기!.md",
-    "3. KWL 노트/springboot 익힘/스프링부트 기초 강의/Untitled.md",
     "3. KWL 노트/springboot 익힘/스프링부트 기초 강의",
     "2. 위키하우/debugging",
     "5. 프로젝트-WPJ/서비스나우",
     "5. 프로젝트-WPJ/WPJ",
-    "5. 프로젝트-WPJ/WPJ/Issue/(Issue) db 데이터 변경 시 unique key 관련 오류.md",
     "5. 프로젝트-WPJ/공통코드(안전교육 리스트 조회).canvas",
     "5. 프로젝트-WPJ/공통코드.canvas",
     "3. KWL 노트/프로젝트 실습/코드로 배우는 React with 스프링부트 API서버/개발환경 설정",

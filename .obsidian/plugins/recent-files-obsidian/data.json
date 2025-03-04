@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "(Issue)(2503배포)(25-03-04) 주간작업계획 중분류 저장 오류",
+      "path": "5. 프로젝트-WPJ/WPJ/Issue/(Issue)(2503배포)(25-03-04) 주간작업계획 중분류 저장 오류.md"
+    },
+    {
+      "basename": "(Issue)(2503배포)(defect-1333)(25-03-04) Project 안전관리 담당자 첨부파일 저장 이슈",
+      "path": "5. 프로젝트-WPJ/WPJ/Issue/(Issue)(2503배포)(defect-1333)(25-03-04) Project 안전관리 담당자 첨부파일 저장 이슈.md"
+    },
+    {
+      "basename": "2. Property Attribute",
+      "path": "3. KWL 노트/JS 익힘/3_객체/2. Property Attribute.md"
+    },
+    {
+      "basename": "16. Objects (객체)",
+      "path": "3. KWL 노트/JS 익힘/1_기본기/16. Objects (객체).md"
+    },
+    {
+      "basename": "15. Array Methods (배열 메서드)",
+      "path": "3. KWL 노트/JS 익힘/1_기본기/15. Array Methods (배열 메서드).md"
+    },
+    {
+      "basename": "4. Constructor Function (생성자 함수)",
+      "path": "3. KWL 노트/JS 익힘/3_객체/4. Constructor Function (생성자 함수).md"
+    },
+    {
+      "basename": "3. Immutable Objects-extensible, seal, freeze (불변 객체)",
+      "path": "3. KWL 노트/JS 익힘/3_객체/3. Immutable Objects-extensible, seal, freeze (불변 객체).md"
+    },
+    {
       "basename": "정리자료2",
       "path": "5. 프로젝트-WPJ/서비스나우/정리자료2.md"
     },
@@ -149,10 +177,6 @@
       "path": "3. KWL 노트/react 익힘/2_심화/6_useRef.md"
     },
     {
-      "basename": "16. Objects (객체)",
-      "path": "3. KWL 노트/JS 익힘/1_기본기/16. Objects (객체).md"
-    },
-    {
       "basename": "19. 클래스",
       "path": "3. KWL 노트/JS 익힘/2_OOP/19. 클래스.md"
     },
@@ -165,18 +189,6 @@
       "path": "3. KWL 노트/JS 익힘/2_OOP/21. Static Keyword.md"
     },
     {
-      "basename": "4. Constructor Function (생성자 함수)",
-      "path": "3. KWL 노트/JS 익힘/3_객체/4. Constructor Function (생성자 함수).md"
-    },
-    {
-      "basename": "3. Immutable Objects-extensible, seal, freeze (불변 객체)",
-      "path": "3. KWL 노트/JS 익힘/3_객체/3. Immutable Objects-extensible, seal, freeze (불변 객체).md"
-    },
-    {
-      "basename": "2. Property Attribute",
-      "path": "3. KWL 노트/JS 익힘/3_객체/2. Property Attribute.md"
-    },
-    {
       "basename": "11_라우팅",
       "path": "3. KWL 노트/react 익힘/2_심화/11_라우팅.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "1. 소개",
       "path": "3. KWL 노트/JS 익힘/3_객체/1. 소개.md"
-    },
-    {
-      "basename": "17. Copy by value vs Copy by reference",
-      "path": "3. KWL 노트/JS 익힘/1_기본기/17. Copy by value vs Copy by reference.md"
-    },
-    {
-      "basename": "15. Array Methods (배열 메서드)",
-      "path": "3. KWL 노트/JS 익힘/1_기본기/15. Array Methods (배열 메서드).md"
-    },
-    {
-      "basename": "9. Closure",
-      "path": "3. KWL 노트/JS 익힘/3_객체/9. Closure.md"
     }
   ],
   "omittedPaths": [],
