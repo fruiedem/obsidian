@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "(산출물) IS팀 인수인계 리스트",
+      "path": "5. 프로젝트-WPJ/WPJ/산출물/(산출물) IS팀 인수인계 리스트.md"
+    },
+    {
+      "basename": "안전관리 화면별 권한",
+      "path": "5. 프로젝트-WPJ/WPJ/비즈니스로직/안전관리 화면별 권한.md"
+    },
+    {
+      "basename": "(System) 위플젝 서버 접속 정보",
+      "path": "5. 프로젝트-WPJ/WPJ/System/(System) 위플젝 서버 접속 정보.md"
+    },
+    {
+      "basename": "(System) 검증계 WAS 로그 추출 방법",
+      "path": "5. 프로젝트-WPJ/WPJ/System/(System) 검증계 WAS 로그 추출 방법.md"
+    },
+    {
       "basename": "(Issue)(2503배포)(25-03-05)(defect)(defect-1335) 작업현황 통계수치 클릭 시 데이터 미일치",
       "path": "5. 프로젝트-WPJ/WPJ/Issue/(Issue)(2503배포)(25-03-05)(defect)(defect-1335) 작업현황 통계수치 클릭 시 데이터 미일치.md"
     },
@@ -19,10 +35,6 @@
     {
       "basename": "(Issue)(2502배포)(25-02-18)(defect-1328) 보안점검결과 엑셀 비율값 미일치",
       "path": "5. 프로젝트-WPJ/WPJ/Issue/(Issue)(2502배포)(25-02-18)(defect-1328) 보안점검결과 엑셀 비율값 미일치.md"
-    },
-    {
-      "basename": "(산출물) IS팀 인수인계 리스트",
-      "path": "5. 프로젝트-WPJ/WPJ/산출물/(산출물) IS팀 인수인계 리스트.md"
     },
     {
       "basename": "(Local Issue) isLdcc 체크 관련 이슈",
@@ -77,16 +89,8 @@
       "path": "5. 프로젝트-WPJ/WPJ/(DB-Script)  공통코드 마이그레이션 (0220 운영 배포).md"
     },
     {
-      "basename": "안전관리 화면별 권한",
-      "path": "5. 프로젝트-WPJ/WPJ/비즈니스로직/안전관리 화면별 권한.md"
-    },
-    {
       "basename": "IKC",
       "path": "5. 프로젝트-WPJ/서비스나우/IKC.md"
-    },
-    {
-      "basename": "(System) 검증계 WAS 로그 추출 방법",
-      "path": "5. 프로젝트-WPJ/WPJ/System/(System) 검증계 WAS 로그 추출 방법.md"
     },
     {
       "basename": "(Issue) 권한관리-QRS 권한-사용자그룹 노출 이슈",
@@ -99,10 +103,6 @@
     {
       "basename": "(Issue)(2502배포)(25-02-18)",
       "path": "5. 프로젝트-WPJ/WPJ/Issue/(Issue)(2502배포)(25-02-18).md"
-    },
-    {
-      "basename": "(System) 위플젝 서버 접속 정보",
-      "path": "5. 프로젝트-WPJ/WPJ/System/(System) 위플젝 서버 접속 정보.md"
     },
     {
       "basename": "javascript",
