@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "정리자료4",
+      "path": "5. 프로젝트-WPJ/서비스나우/정리자료4.md"
+    },
+    {
+      "basename": "정리자료3",
+      "path": "5. 프로젝트-WPJ/서비스나우/정리자료3.md"
+    },
+    {
+      "basename": "()",
+      "path": "().md"
+    },
+    {
+      "basename": "(System) 인스턴스 정보",
+      "path": "5. 프로젝트-WPJ/서비스나우/(System) 인스턴스 정보.md"
+    },
+    {
+      "basename": "정리자료2",
+      "path": "5. 프로젝트-WPJ/서비스나우/정리자료2.md"
+    },
+    {
+      "basename": "정리 자료1",
+      "path": "5. 프로젝트-WPJ/서비스나우/정리 자료1.md"
+    },
+    {
       "basename": "(산출물) IS팀 인수인계 리스트",
       "path": "5. 프로젝트-WPJ/WPJ/산출물/(산출물) IS팀 인수인계 리스트.md"
     },
@@ -63,14 +87,6 @@
     {
       "basename": "3. Immutable Objects-extensible, seal, freeze (불변 객체)",
       "path": "3. KWL 노트/JS 익힘/3_객체/3. Immutable Objects-extensible, seal, freeze (불변 객체).md"
-    },
-    {
-      "basename": "정리자료2",
-      "path": "5. 프로젝트-WPJ/서비스나우/정리자료2.md"
-    },
-    {
-      "basename": "정리 자료1",
-      "path": "5. 프로젝트-WPJ/서비스나우/정리 자료1.md"
     },
     {
       "basename": "프로젝트 매출 및 손익 상세정보 확인 방법",
@@ -183,22 +199,6 @@
     {
       "basename": "6_useRef",
       "path": "3. KWL 노트/react 익힘/2_심화/6_useRef.md"
-    },
-    {
-      "basename": "19. 클래스",
-      "path": "3. KWL 노트/JS 익힘/2_OOP/19. 클래스.md"
-    },
-    {
-      "basename": "20. Getter and Setter",
-      "path": "3. KWL 노트/JS 익힘/2_OOP/20. Getter and Setter.md"
-    },
-    {
-      "basename": "21. Static Keyword",
-      "path": "3. KWL 노트/JS 익힘/2_OOP/21. Static Keyword.md"
-    },
-    {
-      "basename": "11_라우팅",
-      "path": "3. KWL 노트/react 익힘/2_심화/11_라우팅.md"
     }
   ],
   "omittedPaths": [],
