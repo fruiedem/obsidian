@@ -4,123 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "297c94c1696044d7",
+        "id": "89dd860e7f51794a",
         "type": "tabs",
         "children": [
-          {
-            "id": "8c42ba0910d603d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. KWL 노트/JS 익힘/3_객체/3. Immutable Objects-extensible, seal, freeze (불변 객체).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3. Immutable Objects-extensible, seal, freeze (불변 객체)"
-            }
-          },
-          {
-            "id": "590b68f527dcf3c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. 프로젝트-WPJ/WPJ/(산출물) IS팀 인수인계 리스트.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "(산출물) IS팀 인수인계 리스트"
-            }
-          },
-          {
-            "id": "b33e3084cdbe1c6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. 프로젝트-WPJ/서비스나우/자료 조사.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "자료 조사"
-            }
-          },
-          {
-            "id": "afd9e26c1ea9d7c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. 프로젝트-WPJ/서비스나우/정리자료2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "정리자료2"
-            }
-          },
-          {
-            "id": "e74eeacf4d6f74b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. 프로젝트-WPJ/WPJ/산출물/(산출물) IS팀 인수인계 리스트.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "(산출물) IS팀 인수인계 리스트"
-            }
-          },
-          {
-            "id": "a7d02ecc2fb33876",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. 프로젝트-WPJ/서비스나우/정리자료4.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "정리자료4"
-            }
-          },
-          {
-            "id": "2d6b70c7ff08a29e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. 프로젝트-WPJ/서비스나우/정리자료4.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "정리자료4"
-            }
-          },
           {
             "id": "450ed16163025fb2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. 프로젝트-WPJ/서비스나우/정리자료4.md",
+                "file": "5. 프로젝트-WPJ/WPJ/Issue/0311 테스트 추가결함.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "정리자료4"
+              "title": "0311 테스트 추가결함"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "공통코드",
+                "query": "10.131.11",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -266,8 +167,18 @@
   },
   "active": "450ed16163025fb2",
   "lastOpenFiles": [
-    "5. 프로젝트-WPJ/서비스나우/정리자료3.md",
+    "5. 프로젝트-WPJ/WPJ/비즈니스로직/사업현황-진행 프로젝트 집계 기준.md",
+    "첨부파일/Pasted image 20250312155951.png",
+    "첨부파일/Pasted image 20250312144941.png",
+    "5. 프로젝트-WPJ/WPJ/비즈니스로직/사업현황-작업개소 노출 조건.md",
+    "5. 프로젝트-WPJ/WPJ/비즈니스로직/안전관리 화면별 권한.md",
+    "5. 프로젝트-WPJ/WPJ/Issue/0311 테스트 추가결함.md",
+    "사내 wifi.md",
+    "5. 프로젝트-WPJ/WPJ/Issue/(Issue)(2503배포)(25-03-11)(Defect-1350) 작업현황 검토결재 리스트에 위험성평가 항목 미노출.md",
+    "5. 프로젝트-WPJ/WPJ/Issue/(Issue)(2503배포)(25-03-11) 작업현황 최초평가 집계 데이터 오류.md",
+    "5. 프로젝트-WPJ/WPJ/Issue/(Issue)(2503배포)(25-03-05)(defect)(defect-1335) 작업현황 통계수치 클릭 시 데이터 미일치.md",
     "5. 프로젝트-WPJ/서비스나우/정리자료4.md",
+    "5. 프로젝트-WPJ/서비스나우/정리자료3.md",
     "().md",
     "첨부파일/Pasted image 20250310153559.png",
     "첨부파일/Pasted image 20250310153352.png",
@@ -278,31 +189,20 @@
     "첨부파일/Pasted image 20250310104154.png",
     "5. 프로젝트-WPJ/서비스나우/정리자료2.md",
     "5. 프로젝트-WPJ/서비스나우/정리 자료1.md",
-    "5. 프로젝트-WPJ/WPJ/비즈니스로직/안전관리 화면별 권한.md",
     "5. 프로젝트-WPJ/WPJ/System/(System) 위플젝 서버 접속 정보.md",
     "5. 프로젝트-WPJ/WPJ/산출물/(산출물) IS팀 인수인계 리스트.md",
     "5. 프로젝트-WPJ/WPJ/System/(System) 검증계 WAS 로그 추출 방법.md",
-    "5. 프로젝트-WPJ/WPJ/Issue/(Issue)(2503배포)(25-03-05)(defect)(defect-1335) 작업현황 통계수치 클릭 시 데이터 미일치.md",
     "5. 프로젝트-WPJ/WPJ/Issue/(Issue)(2503배포)(25-03-05)(defect)(defect-1329) 안전현황 내 사업현황, 작업현황, 안전관리 메뉴에 대해 사용자 그룹 권한 제어가 적용되어 있지 않은 문제.md",
     "첨부파일/Pasted image 20250305161416.png",
     "5. 프로젝트-WPJ/WPJ/Issue/(Issue)(2503배포)(25-03-04)(defect)(defect-1334) 주간작업계획 중분류 저장 오류.md",
     "5. 프로젝트-WPJ/WPJ/Issue/(Issue)(2503배포)(25-03-04)(defect)(defect-1333) Project 안전관리 담당자 첨부파일 저장 이슈.md",
     "5. 프로젝트-WPJ/WPJ/Issue/(Issue)(2502배포)(25-02-18)(defect-1328) 보안점검결과 엑셀 비율값 미일치.md",
     "첨부파일/Pasted image 20250305160924.png",
-    "첨부파일/Pasted image 20250305160919.png",
-    "첨부파일/Pasted image 20250305160905.png",
     "5. 프로젝트-WPJ/WPJ/Local Issue/(Local Issue) isLdcc 체크 관련 이슈.md",
     "5. 프로젝트-WPJ/WPJ/Local Issue/(Local Issue) SSO 로그인 상태를 확인할 때 문제가 발생했습니다..md",
     "5. 프로젝트-WPJ/WPJ/Local Issue",
     "3. KWL 노트/JS 익힘/3_객체/2. Property Attribute.md",
     "3. KWL 노트/JS 익힘/1_기본기/16. Objects (객체).md",
-    "3. KWL 노트/JS 익힘/1_기본기/15. Array Methods (배열 메서드).md",
-    "5. 프로젝트-WPJ/WPJ/비즈니스로직/Project 안전관리 menuId.md",
-    "3. KWL 노트/JS 익힘/3_객체/4. Constructor Function (생성자 함수).md",
-    "3. KWL 노트/JS 익힘/3_객체/3. Immutable Objects-extensible, seal, freeze (불변 객체).md",
-    "6. LIT/프로젝트 매출 및 손익 상세정보 확인 방법.md",
-    "5. 프로젝트-WPJ/서비스나우/참고자료.md",
-    "6. LIT/문서중앙화.md",
     "5. 프로젝트-WPJ/WPJ/비즈니스로직",
     "5. 프로젝트-WPJ/WPJ/System",
     "5. 프로젝트-WPJ/WPJ/Issue",

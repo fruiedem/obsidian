@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "0311 테스트 추가결함",
+      "path": "5. 프로젝트-WPJ/WPJ/Issue/0311 테스트 추가결함.md"
+    },
+    {
+      "basename": "사업현황-진행 프로젝트 집계 기준",
+      "path": "5. 프로젝트-WPJ/WPJ/비즈니스로직/사업현황-진행 프로젝트 집계 기준.md"
+    },
+    {
+      "basename": "사업현황-작업개소 노출 조건",
+      "path": "5. 프로젝트-WPJ/WPJ/비즈니스로직/사업현황-작업개소 노출 조건.md"
+    },
+    {
+      "basename": "안전관리 화면별 권한",
+      "path": "5. 프로젝트-WPJ/WPJ/비즈니스로직/안전관리 화면별 권한.md"
+    },
+    {
+      "basename": "사내 wifi",
+      "path": "사내 wifi.md"
+    },
+    {
+      "basename": "(Issue)(2503배포)(25-03-11)(Defect-1350) 작업현황 검토결재 리스트에 위험성평가 항목 미노출",
+      "path": "5. 프로젝트-WPJ/WPJ/Issue/(Issue)(2503배포)(25-03-11)(Defect-1350) 작업현황 검토결재 리스트에 위험성평가 항목 미노출.md"
+    },
+    {
+      "basename": "(Issue)(2503배포)(25-03-11) 작업현황 최초평가 집계 데이터 오류",
+      "path": "5. 프로젝트-WPJ/WPJ/Issue/(Issue)(2503배포)(25-03-11) 작업현황 최초평가 집계 데이터 오류.md"
+    },
+    {
+      "basename": "(Issue)(2503배포)(25-03-05)(defect)(defect-1335) 작업현황 통계수치 클릭 시 데이터 미일치",
+      "path": "5. 프로젝트-WPJ/WPJ/Issue/(Issue)(2503배포)(25-03-05)(defect)(defect-1335) 작업현황 통계수치 클릭 시 데이터 미일치.md"
+    },
+    {
       "basename": "정리자료4",
       "path": "5. 프로젝트-WPJ/서비스나우/정리자료4.md"
     },
@@ -29,20 +61,12 @@
       "path": "5. 프로젝트-WPJ/WPJ/산출물/(산출물) IS팀 인수인계 리스트.md"
     },
     {
-      "basename": "안전관리 화면별 권한",
-      "path": "5. 프로젝트-WPJ/WPJ/비즈니스로직/안전관리 화면별 권한.md"
-    },
-    {
       "basename": "(System) 위플젝 서버 접속 정보",
       "path": "5. 프로젝트-WPJ/WPJ/System/(System) 위플젝 서버 접속 정보.md"
     },
     {
       "basename": "(System) 검증계 WAS 로그 추출 방법",
       "path": "5. 프로젝트-WPJ/WPJ/System/(System) 검증계 WAS 로그 추출 방법.md"
-    },
-    {
-      "basename": "(Issue)(2503배포)(25-03-05)(defect)(defect-1335) 작업현황 통계수치 클릭 시 데이터 미일치",
-      "path": "5. 프로젝트-WPJ/WPJ/Issue/(Issue)(2503배포)(25-03-05)(defect)(defect-1335) 작업현황 통계수치 클릭 시 데이터 미일치.md"
     },
     {
       "basename": "(Issue)(2503배포)(25-03-05)(defect)(defect-1329) 안전현황 내 사업현황, 작업현황, 안전관리 메뉴에 대해 사용자 그룹 권한 제어가 적용되어 있지 않은 문제",
@@ -173,32 +197,8 @@
       "path": "5. 프로젝트-WPJ/WPJ/25-02-11 설치형 위플젝 공통코드 추가 작업.md"
     },
     {
-      "basename": "무제",
-      "path": "무제.md"
-    },
-    {
       "basename": "(25-02-07)Optional.ofNullable",
       "path": "1. Wonder 5W1H/(25-02-07)Optional.ofNullable.md"
-    },
-    {
-      "basename": "4_State 심화",
-      "path": "3. KWL 노트/react 익힘/2_심화/4_State 심화.md"
-    },
-    {
-      "basename": "3_State 기초",
-      "path": "3. KWL 노트/react 익힘/2_심화/3_State 기초.md"
-    },
-    {
-      "basename": "2_이벤트 핸들링",
-      "path": "3. KWL 노트/react 익힘/2_심화/2_이벤트 핸들링.md"
-    },
-    {
-      "basename": "1_Component의 Props",
-      "path": "3. KWL 노트/react 익힘/2_심화/1_Component의 Props.md"
-    },
-    {
-      "basename": "6_useRef",
-      "path": "3. KWL 노트/react 익힘/2_심화/6_useRef.md"
     }
   ],
   "omittedPaths": [],
