@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "acroedit 을 통한 파일 내 문자열 찾기",
+      "path": "5. 프로젝트/온라인채널/acroedit 을 통한 파일 내 문자열 찾기.md"
+    },
+    {
+      "basename": "무제",
+      "path": "5. 프로젝트/무제.md"
+    },
+    {
       "basename": "(System) 검증계 sso 계정",
       "path": "5. 프로젝트/WPJ/System/(System) 검증계 sso 계정.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "obsidian 동기화 방법",
       "path": "obsidian 동기화 방법.md"
-    },
-    {
-      "basename": "파이프(오프쇼어 세션)",
-      "path": "파이프(오프쇼어 세션).md"
-    },
-    {
-      "basename": "25-02-11 설치형 위플젝 공통코드 추가 작업",
-      "path": "5. 프로젝트/WPJ/25-02-11 설치형 위플젝 공통코드 추가 작업.md"
     }
   ],
   "omittedPaths": [],
