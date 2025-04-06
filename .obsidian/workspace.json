@@ -62,9 +62,21 @@
               "icon": "lucide-file",
               "title": "Untitled"
             }
+          },
+          {
+            "id": "3dcb9bf548b6f2a6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -121,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "fe24dd3177135fe4",
@@ -209,7 +220,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cbef8d74a3dd3f14",
+  "active": "3dcb9bf548b6f2a6",
   "lastOpenFiles": [
     "파이프(오프쇼어 세션).md",
     "무제 1.md",
