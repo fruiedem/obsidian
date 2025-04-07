@@ -145,13 +145,23 @@
               "icon": "lucide-list",
               "title": "2. Property Attribute 개요"
             }
+          },
+          {
+            "id": "9b0b5d2b0303be10",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
