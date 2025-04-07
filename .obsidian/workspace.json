@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. KWL 노트/PM/구체화 필요 대상.md",
+                "file": "5. 프로젝트/온라인채널/Task/웰푸드.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "구체화 필요 대상"
+              "title": "웰푸드"
             }
           }
         ]
@@ -167,14 +167,22 @@
   },
   "active": "450ed16163025fb2",
   "lastOpenFiles": [
-    "3. KWL 노트/PM/PM 기본.md",
-    "3. KWL 노트/PM/구체화 필요 대상.md",
-    "3. KWL 노트/PM/관련 자료.md",
+    "3. 커리큘럼(KWL)/springboot 익힘/스프링부트 기초 강의/Untitled.md",
+    "3. 커리큘럼(KWL)/springboot 익힘/INTEG",
+    "3. 커리큘럼(KWL)/springboot 익힘/점프투스프링부트",
+    "2. 위키하우/PM/PM 기본.md",
+    "0. 목표 관리/(직업) PM.md",
+    "0. 목표 관리/(직업) 개발자.md",
+    "2. 위키하우/PM/구체화 필요 대상.md",
+    "2. 위키하우/PM/관련 자료.md",
+    "0. 목표 관리/whole lifecycle.md",
+    "0. 목표 관리/(자산) 부동산.md",
+    "0. 목표 관리/(자산) 주식.md",
+    "0. 목표 관리",
     "5. 프로젝트/WPJ/산출물/레슨런(private).md",
-    "3. KWL 노트/springboot 익힘/스프링부트 기초 강의/Untitled.md",
-    "3. KWL 노트/PM",
+    "2. 위키하우/PM",
     "2. 위키하우/windows/wsl 접속 디폴트 계정 변경 방법.md",
-    "3. KWL 노트/프로젝트 실습/코드로 배우는 React with 스프링부트 API서버/개발환경 설정/3. MariaDB와 부트 프로젝트 생성.md",
+    "3. 커리큘럼(KWL)/프로젝트 실습/코드로 배우는 React with 스프링부트 API서버/개발환경 설정/3. MariaDB와 부트 프로젝트 생성.md",
     "5. 프로젝트/온라인채널/System/칠성 개발환경.md",
     "5. 프로젝트/온라인채널/System/웰푸드 개발환경.md",
     "5. 프로젝트/서비스나우/참고자료.md",
@@ -191,18 +199,12 @@
     "5. 프로젝트/WPJ/회의록",
     "5. 프로젝트/온라인채널/NAS 작업.md",
     "5. 프로젝트/온라인채널/Task",
-    "5. 프로젝트/위수탁 SaaS/회의록/(25-03-13).md",
     "5. 프로젝트/온라인채널/System",
     "5. 프로젝트/위수탁 SaaS/회의록",
     "5. 프로젝트/위수탁 SaaS",
     "5. 프로젝트/온라인채널",
-    "5. 프로젝트/WPJ/Issue/0311 테스트 추가결함.md",
-    "5. 프로젝트/WPJ/비즈니스로직/사업현황-진행 프로젝트 집계 기준.md",
     "첨부파일/Pasted image 20250312155951.png",
     "첨부파일/Pasted image 20250312144941.png",
-    "5. 프로젝트/WPJ/비즈니스로직/사업현황-작업개소 노출 조건.md",
-    "5. 프로젝트/WPJ/비즈니스로직/안전관리 화면별 권한.md",
-    "사내 wifi.md",
     "첨부파일/Pasted image 20250310153559.png",
     "첨부파일/Pasted image 20250310153352.png",
     "첨부파일/Pasted image 20250310153257.png",
@@ -210,11 +212,8 @@
     "첨부파일/Pasted image 20250310104329.png",
     "첨부파일/Pasted image 20250310104154.png",
     "첨부파일/Pasted image 20250305161416.png",
-    "5. 프로젝트/WPJ/Local Issue",
-    "5. 프로젝트/WPJ/비즈니스로직",
-    "5. 프로젝트/WPJ/System",
     "5. 프로젝트-WPJ/공통코드(안전교육 리스트 조회).canvas",
     "5. 프로젝트-WPJ/공통코드.canvas",
-    "3. KWL 노트/springboot 익힘/4장 컨트롤러 구현/4.5 도서 쇼핑몰_도서 목록 표시하기.canvas"
+    "3. 커리큘럼(KWL)/springboot 익힘/4장 컨트롤러 구현/4.5 도서 쇼핑몰_도서 목록 표시하기.canvas"
   ]
 }
