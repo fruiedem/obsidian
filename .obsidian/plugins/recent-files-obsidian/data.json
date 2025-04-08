@@ -1,48 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "쇼핑 IR 개발환경",
-      "path": "5. 프로젝트/온라인채널/System/쇼핑 IR 개발환경.md"
-    },
-    {
-      "basename": "_온라인채널 공통 개발계",
-      "path": "5. 프로젝트/온라인채널/System/_온라인채널 공통 개발계.md"
-    },
-    {
-      "basename": "칠성",
-      "path": "5. 프로젝트/온라인채널/Task/칠성.md"
-    },
-    {
-      "basename": "칠성 개발환경",
-      "path": "5. 프로젝트/온라인채널/System/칠성 개발환경.md"
-    },
-    {
-      "basename": "고정IP 관련",
-      "path": "6. LIT/고정IP 관련.md"
+      "basename": "프론트 개발",
+      "path": "0. 목표 관리/(직업) 개발자/프론트 개발.md"
     },
     {
       "basename": "PM",
       "path": "0. 목표 관리/(직업) 개발자/PM.md"
     },
     {
-      "basename": "주식",
-      "path": "0. 목표 관리/(자산) 재테크/주식.md"
+      "basename": "whole lifecycle",
+      "path": "0. 목표 관리/whole lifecycle.md"
     },
     {
       "basename": "부동산",
       "path": "0. 목표 관리/(자산) 재테크/부동산.md"
     },
     {
-      "basename": "프론트 개발",
-      "path": "0. 목표 관리/(직업) 개발자/프론트 개발.md"
+      "basename": "주식",
+      "path": "0. 목표 관리/(자산) 재테크/주식.md"
     },
     {
       "basename": "백엔드 개발",
       "path": "0. 목표 관리/(직업) 개발자/백엔드 개발.md"
     },
     {
+      "basename": "쇼핑 IR 개발환경",
+      "path": "5. LIT/프로젝트/온라인채널/System/쇼핑 IR 개발환경.md"
+    },
+    {
+      "basename": "_온라인채널 공통 개발계",
+      "path": "5. LIT/프로젝트/온라인채널/System/_온라인채널 공통 개발계.md"
+    },
+    {
+      "basename": "칠성",
+      "path": "5. LIT/프로젝트/온라인채널/Task/칠성.md"
+    },
+    {
+      "basename": "칠성 개발환경",
+      "path": "5. LIT/프로젝트/온라인채널/System/칠성 개발환경.md"
+    },
+    {
+      "basename": "고정IP 관련",
+      "path": "5. LIT/사내 시스템/고정IP 관련.md"
+    },
+    {
       "basename": "웰푸드",
-      "path": "5. 프로젝트/온라인채널/Task/웰푸드.md"
+      "path": "5. LIT/프로젝트/온라인채널/Task/웰푸드.md"
     },
     {
       "basename": "Untitled",
@@ -61,12 +65,8 @@
       "path": "2. 위키하우/PM/관련 자료.md"
     },
     {
-      "basename": "whole lifecycle",
-      "path": "0. 목표 관리/whole lifecycle.md"
-    },
-    {
       "basename": "레슨런(private)",
-      "path": "5. 프로젝트/WPJ/산출물/레슨런(private).md"
+      "path": "5. LIT/프로젝트/WPJ/산출물/레슨런(private).md"
     },
     {
       "basename": "wsl 접속 디폴트 계정 변경 방법",
@@ -78,67 +78,67 @@
     },
     {
       "basename": "웰푸드 개발환경",
-      "path": "5. 프로젝트/온라인채널/System/웰푸드 개발환경.md"
+      "path": "5. LIT/프로젝트/온라인채널/System/웰푸드 개발환경.md"
     },
     {
       "basename": "참고자료",
-      "path": "5. 프로젝트/서비스나우/참고자료.md"
+      "path": "5. LIT/프로젝트/서비스나우/참고자료.md"
     },
     {
       "basename": "25-02-11 설치형 위플젝 공통코드 추가 작업",
-      "path": "5. 프로젝트/WPJ/25-02-11 설치형 위플젝 공통코드 추가 작업.md"
+      "path": "5. LIT/프로젝트/WPJ/25-02-11 설치형 위플젝 공통코드 추가 작업.md"
     },
     {
       "basename": "문서중앙화",
-      "path": "5. 프로젝트/WPJ/산출물/문서중앙화.md"
+      "path": "5. LIT/프로젝트/WPJ/산출물/문서중앙화.md"
     },
     {
       "basename": "(산출물) IS팀 인수인계 리스트",
-      "path": "5. 프로젝트/WPJ/산출물/(산출물) IS팀 인수인계 리스트.md"
+      "path": "5. LIT/프로젝트/WPJ/산출물/(산출물) IS팀 인수인계 리스트.md"
     },
     {
       "basename": "25-03-20 결함 조치요청 프로세스",
-      "path": "5. 프로젝트/WPJ/회의록/25-03-20 결함 조치요청 프로세스.md"
+      "path": "5. LIT/프로젝트/WPJ/회의록/25-03-20 결함 조치요청 프로세스.md"
     },
     {
       "basename": "(Issue) VPN 통한 내부 시스템 접속 오류",
-      "path": "6. LIT/(Issue) VPN 통한 내부 시스템 접속 오류.md"
+      "path": "5. LIT/사내 시스템/(Issue) VPN 통한 내부 시스템 접속 오류.md"
     },
     {
       "basename": "(System) 검증계 sso 계정",
-      "path": "5. 프로젝트/WPJ/System/(System) 검증계 sso 계정.md"
+      "path": "5. LIT/프로젝트/WPJ/System/(System) 검증계 sso 계정.md"
     },
     {
       "basename": "2025-03-18 웨벡스",
-      "path": "5. 프로젝트/위수탁 SaaS/회의록/2025-03-18 웨벡스.md"
+      "path": "5. LIT/프로젝트/위수탁 SaaS/회의록/2025-03-18 웨벡스.md"
     },
     {
       "basename": "25-03-17",
-      "path": "5. 프로젝트/WPJ/회의록/25-03-17.md"
+      "path": "5. LIT/프로젝트/WPJ/회의록/25-03-17.md"
     },
     {
       "basename": "NAS 작업",
-      "path": "5. 프로젝트/온라인채널/NAS 작업.md"
+      "path": "5. LIT/프로젝트/온라인채널/NAS 작업.md"
     },
     {
       "basename": "(25-03-13)",
-      "path": "5. 프로젝트/위수탁 SaaS/회의록/(25-03-13).md"
+      "path": "5. LIT/프로젝트/위수탁 SaaS/회의록/(25-03-13).md"
     },
     {
       "basename": "0311 테스트 추가결함",
-      "path": "5. 프로젝트/WPJ/Issue/0311 테스트 추가결함.md"
+      "path": "5. LIT/프로젝트/WPJ/Issue/0311 테스트 추가결함.md"
     },
     {
       "basename": "사업현황-진행 프로젝트 집계 기준",
-      "path": "5. 프로젝트/WPJ/비즈니스로직/사업현황-진행 프로젝트 집계 기준.md"
+      "path": "5. LIT/프로젝트/WPJ/비즈니스로직/사업현황-진행 프로젝트 집계 기준.md"
     },
     {
       "basename": "사업현황-작업개소 노출 조건",
-      "path": "5. 프로젝트/WPJ/비즈니스로직/사업현황-작업개소 노출 조건.md"
+      "path": "5. LIT/프로젝트/WPJ/비즈니스로직/사업현황-작업개소 노출 조건.md"
     },
     {
       "basename": "안전관리 화면별 권한",
-      "path": "5. 프로젝트/WPJ/비즈니스로직/안전관리 화면별 권한.md"
+      "path": "5. LIT/프로젝트/WPJ/비즈니스로직/안전관리 화면별 권한.md"
     },
     {
       "basename": "사내 wifi",
@@ -146,23 +146,23 @@
     },
     {
       "basename": "(Issue)(2503배포)(25-03-11)(Defect-1350) 작업현황 검토결재 리스트에 위험성평가 항목 미노출",
-      "path": "5. 프로젝트/WPJ/Issue/(Issue)(2503배포)(25-03-11)(Defect-1350) 작업현황 검토결재 리스트에 위험성평가 항목 미노출.md"
+      "path": "5. LIT/프로젝트/WPJ/Issue/(Issue)(2503배포)(25-03-11)(Defect-1350) 작업현황 검토결재 리스트에 위험성평가 항목 미노출.md"
     },
     {
       "basename": "(Issue)(2503배포)(25-03-11) 작업현황 최초평가 집계 데이터 오류",
-      "path": "5. 프로젝트/WPJ/Issue/(Issue)(2503배포)(25-03-11) 작업현황 최초평가 집계 데이터 오류.md"
+      "path": "5. LIT/프로젝트/WPJ/Issue/(Issue)(2503배포)(25-03-11) 작업현황 최초평가 집계 데이터 오류.md"
     },
     {
       "basename": "(Issue)(2503배포)(25-03-05)(defect)(defect-1335) 작업현황 통계수치 클릭 시 데이터 미일치",
-      "path": "5. 프로젝트/WPJ/Issue/(Issue)(2503배포)(25-03-05)(defect)(defect-1335) 작업현황 통계수치 클릭 시 데이터 미일치.md"
+      "path": "5. LIT/프로젝트/WPJ/Issue/(Issue)(2503배포)(25-03-05)(defect)(defect-1335) 작업현황 통계수치 클릭 시 데이터 미일치.md"
     },
     {
       "basename": "정리자료4",
-      "path": "5. 프로젝트/서비스나우/정리자료4.md"
+      "path": "5. LIT/프로젝트/서비스나우/정리자료4.md"
     },
     {
       "basename": "정리자료3",
-      "path": "5. 프로젝트/서비스나우/정리자료3.md"
+      "path": "5. LIT/프로젝트/서비스나우/정리자료3.md"
     },
     {
       "basename": "()",
@@ -170,35 +170,35 @@
     },
     {
       "basename": "(System) 인스턴스 정보",
-      "path": "5. 프로젝트/서비스나우/(System) 인스턴스 정보.md"
+      "path": "5. LIT/프로젝트/서비스나우/(System) 인스턴스 정보.md"
     },
     {
       "basename": "정리자료2",
-      "path": "5. 프로젝트/서비스나우/정리자료2.md"
+      "path": "5. LIT/프로젝트/서비스나우/정리자료2.md"
     },
     {
       "basename": "정리 자료1",
-      "path": "5. 프로젝트/서비스나우/정리 자료1.md"
+      "path": "5. LIT/프로젝트/서비스나우/정리 자료1.md"
     },
     {
       "basename": "(System) 위플젝 서버 접속 정보",
-      "path": "5. 프로젝트/WPJ/System/(System) 위플젝 서버 접속 정보.md"
+      "path": "5. LIT/프로젝트/WPJ/System/(System) 위플젝 서버 접속 정보.md"
     },
     {
       "basename": "(System) 검증계 WAS 로그 추출 방법",
-      "path": "5. 프로젝트/WPJ/System/(System) 검증계 WAS 로그 추출 방법.md"
+      "path": "5. LIT/프로젝트/WPJ/System/(System) 검증계 WAS 로그 추출 방법.md"
     },
     {
       "basename": "(Issue)(2503배포)(25-03-05)(defect)(defect-1329) 안전현황 내 사업현황, 작업현황, 안전관리 메뉴에 대해 사용자 그룹 권한 제어가 적용되어 있지 않은 문제",
-      "path": "5. 프로젝트/WPJ/Issue/(Issue)(2503배포)(25-03-05)(defect)(defect-1329) 안전현황 내 사업현황, 작업현황, 안전관리 메뉴에 대해 사용자 그룹 권한 제어가 적용되어 있지 않은 문제.md"
+      "path": "5. LIT/프로젝트/WPJ/Issue/(Issue)(2503배포)(25-03-05)(defect)(defect-1329) 안전현황 내 사업현황, 작업현황, 안전관리 메뉴에 대해 사용자 그룹 권한 제어가 적용되어 있지 않은 문제.md"
     },
     {
       "basename": "(Issue)(2503배포)(25-03-04)(defect)(defect-1334) 주간작업계획 중분류 저장 오류",
-      "path": "5. 프로젝트/WPJ/Issue/(Issue)(2503배포)(25-03-04)(defect)(defect-1334) 주간작업계획 중분류 저장 오류.md"
+      "path": "5. LIT/프로젝트/WPJ/Issue/(Issue)(2503배포)(25-03-04)(defect)(defect-1334) 주간작업계획 중분류 저장 오류.md"
     },
     {
       "basename": "(Issue)(2503배포)(25-03-04)(defect)(defect-1333) Project 안전관리 담당자 첨부파일 저장 이슈",
-      "path": "5. 프로젝트/WPJ/Issue/(Issue)(2503배포)(25-03-04)(defect)(defect-1333) Project 안전관리 담당자 첨부파일 저장 이슈.md"
+      "path": "5. LIT/프로젝트/WPJ/Issue/(Issue)(2503배포)(25-03-04)(defect)(defect-1333) Project 안전관리 담당자 첨부파일 저장 이슈.md"
     }
   ],
   "omittedPaths": [],
