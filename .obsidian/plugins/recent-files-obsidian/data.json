@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "프론트 개발",
-      "path": "0. 목표 관리/(직업) 개발자/프론트 개발.md"
+      "basename": "쇼핑IR",
+      "path": "5. LIT/프로젝트/온라인채널/Task/정적파일 정리작업(3.11~)/쇼핑IR.md"
+    },
+    {
+      "basename": "칠성",
+      "path": "5. LIT/프로젝트/온라인채널/Task/정적파일 정리작업(3.11~)/칠성.md"
+    },
+    {
+      "basename": "웰푸드",
+      "path": "5. LIT/프로젝트/온라인채널/Task/정적파일 정리작업(3.11~)/웰푸드.md"
+    },
+    {
+      "basename": "_작업 개요",
+      "path": "5. LIT/프로젝트/온라인채널/Task/정적파일 정리작업(3.11~)/_작업 개요.md"
     },
     {
       "basename": "PM",
       "path": "0. 목표 관리/(직업) 개발자/PM.md"
+    },
+    {
+      "basename": "프론트 개발",
+      "path": "0. 목표 관리/(직업) 개발자/프론트 개발.md"
     },
     {
       "basename": "whole lifecycle",
@@ -25,28 +41,12 @@
       "path": "0. 목표 관리/(직업) 개발자/백엔드 개발.md"
     },
     {
-      "basename": "쇼핑 IR 개발환경",
-      "path": "5. LIT/프로젝트/온라인채널/System/쇼핑 IR 개발환경.md"
-    },
-    {
       "basename": "_온라인채널 공통 개발계",
-      "path": "5. LIT/프로젝트/온라인채널/System/_온라인채널 공통 개발계.md"
-    },
-    {
-      "basename": "칠성",
-      "path": "5. LIT/프로젝트/온라인채널/Task/칠성.md"
-    },
-    {
-      "basename": "칠성 개발환경",
-      "path": "5. LIT/프로젝트/온라인채널/System/칠성 개발환경.md"
+      "path": "5. LIT/프로젝트/온라인채널/Task/정적파일 정리작업(3.11~)/_온라인채널 공통 개발계.md"
     },
     {
       "basename": "고정IP 관련",
       "path": "5. LIT/사내 시스템/고정IP 관련.md"
-    },
-    {
-      "basename": "웰푸드",
-      "path": "5. LIT/프로젝트/온라인채널/Task/웰푸드.md"
     },
     {
       "basename": "Untitled",
@@ -75,10 +75,6 @@
     {
       "basename": "3. MariaDB와 부트 프로젝트 생성",
       "path": "3. 커리큘럼(KWL)/프로젝트 실습/코드로 배우는 React with 스프링부트 API서버/개발환경 설정/3. MariaDB와 부트 프로젝트 생성.md"
-    },
-    {
-      "basename": "웰푸드 개발환경",
-      "path": "5. LIT/프로젝트/온라인채널/System/웰푸드 개발환경.md"
     },
     {
       "basename": "참고자료",
@@ -115,10 +111,6 @@
     {
       "basename": "25-03-17",
       "path": "5. LIT/프로젝트/WPJ/회의록/25-03-17.md"
-    },
-    {
-      "basename": "NAS 작업",
-      "path": "5. LIT/프로젝트/온라인채널/NAS 작업.md"
     },
     {
       "basename": "(25-03-13)",
