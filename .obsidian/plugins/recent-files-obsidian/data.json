@@ -9,8 +9,24 @@
       "path": "5. LIT/프로젝트/온라인채널/Task/정적파일 정리작업(3.11~)/칠성.md"
     },
     {
+      "basename": "25-03-20 결함 조치요청 프로세스",
+      "path": "5. LIT/프로젝트/WPJ/회의록/25-03-20 결함 조치요청 프로세스.md"
+    },
+    {
+      "basename": "(Issue) VPN 통한 내부 시스템 접속 오류",
+      "path": "5. LIT/사내 시스템/(Issue) VPN 통한 내부 시스템 접속 오류.md"
+    },
+    {
+      "basename": "(System) 위플젝 서버 접속 정보",
+      "path": "5. LIT/프로젝트/WPJ/System/(System) 위플젝 서버 접속 정보.md"
+    },
+    {
       "basename": "웰푸드",
       "path": "5. LIT/프로젝트/온라인채널/Task/정적파일 정리작업(3.11~)/웰푸드.md"
+    },
+    {
+      "basename": "_온라인채널 공통 개발계",
+      "path": "5. LIT/프로젝트/온라인채널/Task/정적파일 정리작업(3.11~)/_온라인채널 공통 개발계.md"
     },
     {
       "basename": "_작업 개요",
@@ -39,10 +55,6 @@
     {
       "basename": "백엔드 개발",
       "path": "0. 목표 관리/(직업) 개발자/백엔드 개발.md"
-    },
-    {
-      "basename": "_온라인채널 공통 개발계",
-      "path": "5. LIT/프로젝트/온라인채널/Task/정적파일 정리작업(3.11~)/_온라인채널 공통 개발계.md"
     },
     {
       "basename": "고정IP 관련",
@@ -91,14 +103,6 @@
     {
       "basename": "(산출물) IS팀 인수인계 리스트",
       "path": "5. LIT/프로젝트/WPJ/산출물/(산출물) IS팀 인수인계 리스트.md"
-    },
-    {
-      "basename": "25-03-20 결함 조치요청 프로세스",
-      "path": "5. LIT/프로젝트/WPJ/회의록/25-03-20 결함 조치요청 프로세스.md"
-    },
-    {
-      "basename": "(Issue) VPN 통한 내부 시스템 접속 오류",
-      "path": "5. LIT/사내 시스템/(Issue) VPN 통한 내부 시스템 접속 오류.md"
     },
     {
       "basename": "(System) 검증계 sso 계정",
@@ -171,10 +175,6 @@
     {
       "basename": "정리 자료1",
       "path": "5. LIT/프로젝트/서비스나우/정리 자료1.md"
-    },
-    {
-      "basename": "(System) 위플젝 서버 접속 정보",
-      "path": "5. LIT/프로젝트/WPJ/System/(System) 위플젝 서버 접속 정보.md"
     },
     {
       "basename": "(System) 검증계 WAS 로그 추출 방법",
