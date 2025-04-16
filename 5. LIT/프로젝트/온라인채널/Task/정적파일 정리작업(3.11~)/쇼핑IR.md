@@ -37,21 +37,31 @@ Fragment "/jpn/include/top.jsp" was not found at expected path /depart_ir-main/d
 
 
 
+
+
+##### This project cannot be used with servers(Project > Properties > Project facets)
+[조치 방법]
+Dynamic Web Module, Java, JavaScript 3개 적용
+
 ##### Compile Error : java compiler level does not match the version of the installed java project facet
+[조치 방법]
 project > properties > project facets > java 버전 확인(build.xml 의 javac 컴파일러 버전과 비교)
 
 
 ##### Compile Error : Access restriction: The constructor 'BASE64Decoder()' is not API (restriction on required library 'C:\Users\LDCC\openjdk-1.8.0\jre\lib\rt.jar')
+[조치 방법]
 project > properties > java build path > labraries 탭
 JRE System library 클릭 > remove
 Add library 클릭 > JRE System Library 다시 추가 
 
 #### 톰캣 서버 실행 관련 오류
 ##### server(톰캣) 를 추가할 수 없는 현상
-java ee 버전 필요 (4.4 루나 버전 java ee)
+[조치 방법]
+java ee 버전 필요 (4.6 neon java ee)
 [Luna R | Eclipse Packages](https://www.eclipse.org/downloads/packages/release/luna/r)
 
 ##### eclipse에 원하는 톰캣 버전이 없는 경우
+[조치 방법]
 eclipse 에 톰캣 런타임 환경 설정을 아예 할 수 없는 경우가 아니라 몇개의 버전들만 존재하는 상태이고 원하는 톰캣 버전을 설정할 수 없다면 이클립스 버전 문제이므로 이클립스 버전을 변경하여 설치하거나 아니면 리스트에 존재하는 톰캣을 다운로드하여 설정하는 것이 빠르다.
 
 
