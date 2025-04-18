@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "무제",
+      "path": "0. 목표 관리/(직업) IT/FE/Vue3/무제.md"
+    },
+    {
       "basename": "개발 환경",
       "path": "5. LIT/프로젝트/대화형 AI(4.14~5.30)/Task/개발 환경.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "정리자료4",
       "path": "5. LIT/프로젝트/서비스나우/정리자료4.md"
-    },
-    {
-      "basename": "정리자료3",
-      "path": "5. LIT/프로젝트/서비스나우/정리자료3.md"
     }
   ],
   "omittedPaths": [],
