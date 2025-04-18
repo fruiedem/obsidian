@@ -1,16 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "프론트 개발",
-      "path": "0. 목표 관리/(직업) 개발자/프론트 개발.md"
+      "basename": "개발 환경",
+      "path": "5. LIT/프로젝트/대화형 AI(4.14~5.30)/Task/개발 환경.md"
     },
     {
-      "basename": "(25-04-15) 회의록",
-      "path": "5. LIT/프로젝트/대화형 AI/(25-04-15) 회의록.md"
+      "basename": "기본 정보",
+      "path": "5. LIT/프로젝트/대화형 AI(4.14~5.30)/Task/기본 정보.md"
+    },
+    {
+      "basename": "(25-04-17) 회의록",
+      "path": "5. LIT/프로젝트/대화형 AI(4.14~5.30)/회의록/(25-04-17) 회의록.md"
     },
     {
       "basename": "(25-04-14) 회의록",
-      "path": "5. LIT/프로젝트/대화형 AI/(25-04-14) 회의록.md"
+      "path": "5. LIT/프로젝트/대화형 AI(4.14~5.30)/회의록/(25-04-14) 회의록.md"
+    },
+    {
+      "basename": "01. 핵심 가이드",
+      "path": "0. 목표 관리/(직업) IT/FE/Vue3/01. 핵심 가이드.md"
+    },
+    {
+      "basename": "00. vue 핵심스킬",
+      "path": "0. 목표 관리/(직업) IT/FE/Vue3/00. vue 핵심스킬.md"
+    },
+    {
+      "basename": "01. 설치 방법",
+      "path": "0. 목표 관리/(직업) IT/FE/Vue3/01. 설치 방법.md"
+    },
+    {
+      "basename": "PM",
+      "path": "0. 목표 관리/(직업) IT/PM/PM.md"
+    },
+    {
+      "basename": "Spring 핵심스킬",
+      "path": "0. 목표 관리/(직업) IT/BE/Spring 핵심스킬.md"
+    },
+    {
+      "basename": "(25-04-15) 회의록",
+      "path": "5. LIT/프로젝트/대화형 AI(4.14~5.30)/회의록/(25-04-15) 회의록.md"
     },
     {
       "basename": "스페인 여행",
@@ -57,10 +85,6 @@
       "path": "5. LIT/프로젝트/온라인채널/Task/정적파일 정리작업(3.11~)/_작업 개요.md"
     },
     {
-      "basename": "PM",
-      "path": "0. 목표 관리/(직업) 개발자/PM.md"
-    },
-    {
       "basename": "whole lifecycle",
       "path": "0. 목표 관리/whole lifecycle.md"
     },
@@ -71,10 +95,6 @@
     {
       "basename": "주식",
       "path": "0. 목표 관리/(자산) 재테크/주식.md"
-    },
-    {
-      "basename": "백엔드 개발",
-      "path": "0. 목표 관리/(직업) 개발자/백엔드 개발.md"
     },
     {
       "basename": "고정IP 관련",
@@ -179,26 +199,6 @@
     {
       "basename": "정리자료3",
       "path": "5. LIT/프로젝트/서비스나우/정리자료3.md"
-    },
-    {
-      "basename": "()",
-      "path": "().md"
-    },
-    {
-      "basename": "(System) 인스턴스 정보",
-      "path": "5. LIT/프로젝트/서비스나우/(System) 인스턴스 정보.md"
-    },
-    {
-      "basename": "정리자료2",
-      "path": "5. LIT/프로젝트/서비스나우/정리자료2.md"
-    },
-    {
-      "basename": "정리 자료1",
-      "path": "5. LIT/프로젝트/서비스나우/정리 자료1.md"
-    },
-    {
-      "basename": "(System) 검증계 WAS 로그 추출 방법",
-      "path": "5. LIT/프로젝트/WPJ/System/(System) 검증계 WAS 로그 추출 방법.md"
     }
   ],
   "omittedPaths": [],
