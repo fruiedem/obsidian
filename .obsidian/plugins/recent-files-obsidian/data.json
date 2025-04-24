@@ -1,16 +1,84 @@
 {
   "recentFiles": [
     {
+      "basename": "FE 대표 구현 기능",
+      "path": "0. 목표 관리/(직업) IT/FE/FE 대표 구현 기능.md"
+    },
+    {
+      "basename": "(Issue) 이미지 불러오기 오류(이미지 import 오류 X)",
+      "path": "5. LIT/프로젝트/대화형 AI(4.14~5.30)/Task/0424-AI레포트/+이미지 넣기/(Issue) 이미지 불러오기 오류(이미지 import 오류 X).md"
+    },
+    {
+      "basename": "(Issue) 박스 hover 시 글씨체 깨지는 현상",
+      "path": "5. LIT/프로젝트/대화형 AI(4.14~5.30)/Task/0424-AI레포트/Transition 적용/(Issue) 박스 hover 시 글씨체 깨지는 현상.md"
+    },
+    {
+      "basename": "(Issue) 최상위 레이아웃으로 기능 이동",
+      "path": "5. LIT/프로젝트/대화형 AI(4.14~5.30)/Task/0422-챗봇/챗봇창 기능 호출/(Issue) 최상위 레이아웃으로 기능 이동.md"
+    },
+    {
       "basename": "무제",
       "path": "0. 목표 관리/(직업) IT/FE/Vue3/무제.md"
+    },
+    {
+      "basename": "FE 프로젝트 주제",
+      "path": "0. 목표 관리/(직업) IT/FE/Vue3/FE 프로젝트 주제.md"
+    },
+    {
+      "basename": "(Issue) 챗봇창 부가기능 호출 오류",
+      "path": "5. LIT/프로젝트/대화형 AI(4.14~5.30)/Task/0422-챗봇/챗봇창 기능 호출/(Issue) 챗봇창 부가기능 호출 오류.md"
+    },
+    {
+      "basename": "(Issue) 클릭 시 채팅창 안 열림",
+      "path": "5. LIT/프로젝트/대화형 AI(4.14~5.30)/Task/0422-챗봇/아이콘 클릭 이벤트-채팅창열기/(Issue) 클릭 시 채팅창 안 열림.md"
+    },
+    {
+      "basename": "(Issue) 드래그 이동 후 클릭 이벤트 동시 발생",
+      "path": "5. LIT/프로젝트/대화형 AI(4.14~5.30)/Task/0422-챗봇/아이콘 드래그 이벤트-이동/(Issue) 드래그 이동 후 클릭 이벤트 동시 발생.md"
+    },
+    {
+      "basename": "(Issue) 드래그 시 멈춤 현상",
+      "path": "5. LIT/프로젝트/대화형 AI(4.14~5.30)/Task/0422-챗봇/아이콘 드래그 이벤트-이동/(Issue) 드래그 시 멈춤 현상.md"
+    },
+    {
+      "basename": "기본 정보",
+      "path": "5. LIT/프로젝트/대화형 AI(4.14~5.30)/Task/기본 정보.md"
     },
     {
       "basename": "개발 환경",
       "path": "5. LIT/프로젝트/대화형 AI(4.14~5.30)/Task/개발 환경.md"
     },
     {
-      "basename": "기본 정보",
-      "path": "5. LIT/프로젝트/대화형 AI(4.14~5.30)/Task/기본 정보.md"
+      "basename": "(Issue) VPN 통한 내부 시스템 접속 오류",
+      "path": "5. LIT/사내 시스템/(Issue) VPN 통한 내부 시스템 접속 오류.md"
+    },
+    {
+      "basename": "(25-04-22) DB 구조 설명",
+      "path": "5. LIT/프로젝트/대화형 AI(4.14~5.30)/회의록/(25-04-22) DB 구조 설명.md"
+    },
+    {
+      "basename": "gitlab.lotte.vn",
+      "path": "5. LIT/사내 시스템/gitlab.lotte.vn.md"
+    },
+    {
+      "basename": "dbsafer 계정",
+      "path": "5. LIT/사내 시스템/dbsafer 계정.md"
+    },
+    {
+      "basename": "(25-04-21) 회의록",
+      "path": "5. LIT/프로젝트/대화형 AI(4.14~5.30)/회의록/(25-04-21) 회의록.md"
+    },
+    {
+      "basename": "Vue 3 강좌 한방에 몰아보기",
+      "path": "0. 목표 관리/(직업) IT/FE/Vue3/Vue 3 강좌 한방에 몰아보기.md"
+    },
+    {
+      "basename": "00. vue 핵심스킬",
+      "path": "0. 목표 관리/(직업) IT/FE/Vue3/00. vue 핵심스킬.md"
+    },
+    {
+      "basename": "01. 설치 방법",
+      "path": "0. 목표 관리/(직업) IT/FE/Vue3/01. 설치 방법.md"
     },
     {
       "basename": "(25-04-17) 회의록",
@@ -23,14 +91,6 @@
     {
       "basename": "01. 핵심 가이드",
       "path": "0. 목표 관리/(직업) IT/FE/Vue3/01. 핵심 가이드.md"
-    },
-    {
-      "basename": "00. vue 핵심스킬",
-      "path": "0. 목표 관리/(직업) IT/FE/Vue3/00. vue 핵심스킬.md"
-    },
-    {
-      "basename": "01. 설치 방법",
-      "path": "0. 목표 관리/(직업) IT/FE/Vue3/01. 설치 방법.md"
     },
     {
       "basename": "PM",
@@ -71,10 +131,6 @@
     {
       "basename": "25-03-20 결함 조치요청 프로세스",
       "path": "5. LIT/프로젝트/WPJ/회의록/25-03-20 결함 조치요청 프로세스.md"
-    },
-    {
-      "basename": "(Issue) VPN 통한 내부 시스템 접속 오류",
-      "path": "5. LIT/사내 시스템/(Issue) VPN 통한 내부 시스템 접속 오류.md"
     },
     {
       "basename": "(System) 위플젝 서버 접속 정보",
@@ -143,62 +199,6 @@
     {
       "basename": "문서중앙화",
       "path": "5. LIT/프로젝트/WPJ/산출물/문서중앙화.md"
-    },
-    {
-      "basename": "(산출물) IS팀 인수인계 리스트",
-      "path": "5. LIT/프로젝트/WPJ/산출물/(산출물) IS팀 인수인계 리스트.md"
-    },
-    {
-      "basename": "(System) 검증계 sso 계정",
-      "path": "5. LIT/프로젝트/WPJ/System/(System) 검증계 sso 계정.md"
-    },
-    {
-      "basename": "2025-03-18 웨벡스",
-      "path": "5. LIT/프로젝트/위수탁 SaaS/회의록/2025-03-18 웨벡스.md"
-    },
-    {
-      "basename": "25-03-17",
-      "path": "5. LIT/프로젝트/WPJ/회의록/25-03-17.md"
-    },
-    {
-      "basename": "(25-03-13)",
-      "path": "5. LIT/프로젝트/위수탁 SaaS/회의록/(25-03-13).md"
-    },
-    {
-      "basename": "0311 테스트 추가결함",
-      "path": "5. LIT/프로젝트/WPJ/Issue/0311 테스트 추가결함.md"
-    },
-    {
-      "basename": "사업현황-진행 프로젝트 집계 기준",
-      "path": "5. LIT/프로젝트/WPJ/비즈니스로직/사업현황-진행 프로젝트 집계 기준.md"
-    },
-    {
-      "basename": "사업현황-작업개소 노출 조건",
-      "path": "5. LIT/프로젝트/WPJ/비즈니스로직/사업현황-작업개소 노출 조건.md"
-    },
-    {
-      "basename": "안전관리 화면별 권한",
-      "path": "5. LIT/프로젝트/WPJ/비즈니스로직/안전관리 화면별 권한.md"
-    },
-    {
-      "basename": "사내 wifi",
-      "path": "사내 wifi.md"
-    },
-    {
-      "basename": "(Issue)(2503배포)(25-03-11)(Defect-1350) 작업현황 검토결재 리스트에 위험성평가 항목 미노출",
-      "path": "5. LIT/프로젝트/WPJ/Issue/(Issue)(2503배포)(25-03-11)(Defect-1350) 작업현황 검토결재 리스트에 위험성평가 항목 미노출.md"
-    },
-    {
-      "basename": "(Issue)(2503배포)(25-03-11) 작업현황 최초평가 집계 데이터 오류",
-      "path": "5. LIT/프로젝트/WPJ/Issue/(Issue)(2503배포)(25-03-11) 작업현황 최초평가 집계 데이터 오류.md"
-    },
-    {
-      "basename": "(Issue)(2503배포)(25-03-05)(defect)(defect-1335) 작업현황 통계수치 클릭 시 데이터 미일치",
-      "path": "5. LIT/프로젝트/WPJ/Issue/(Issue)(2503배포)(25-03-05)(defect)(defect-1335) 작업현황 통계수치 클릭 시 데이터 미일치.md"
-    },
-    {
-      "basename": "정리자료4",
-      "path": "5. LIT/프로젝트/서비스나우/정리자료4.md"
     }
   ],
   "omittedPaths": [],
