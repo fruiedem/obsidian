@@ -74,9 +74,21 @@
               "icon": "lucide-book-up",
               "title": "Release Notes 1.8.7"
             }
+          },
+          {
+            "id": "06feb3d73ed12ee4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -220,7 +232,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3dcb9bf548b6f2a6",
+  "active": "06feb3d73ed12ee4",
   "lastOpenFiles": [
     "파이프(오프쇼어 세션).md",
     "무제 1.md",
