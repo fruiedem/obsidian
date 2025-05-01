@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "8. 이벤트",
+      "path": "3. KWL 노트/VUE/8. 이벤트.md"
+    },
+    {
+      "basename": "7. bootstrap link",
+      "path": "3. KWL 노트/VUE/7. bootstrap link.md"
+    },
+    {
+      "basename": "6. 함수 사용하기",
+      "path": "3. KWL 노트/VUE/6. 함수 사용하기.md"
+    },
+    {
+      "basename": "5. Fragment",
+      "path": "3. KWL 노트/VUE/5. Fragment.md"
+    },
+    {
+      "basename": "4. Vue 컴포넌트",
+      "path": "3. KWL 노트/VUE/4. Vue 컴포넌트.md"
+    },
+    {
+      "basename": "3. 폴더 구조",
+      "path": "3. KWL 노트/VUE/3. 폴더 구조.md"
+    },
+    {
+      "basename": "2. Vue 프로젝트 설치",
+      "path": "3. KWL 노트/VUE/2. Vue 프로젝트 설치.md"
+    },
+    {
+      "basename": "1. Untitled",
+      "path": "3. KWL 노트/VUE/1. Untitled.md"
+    },
+    {
       "basename": "Untitled",
       "path": "3. KWL 노트/springboot 익힘/스프링부트 기초 강의/Untitled.md"
     },
@@ -167,38 +199,6 @@
     {
       "basename": "7. this",
       "path": "3. KWL 노트/JS 익힘/3_객체/7. this.md"
-    },
-    {
-      "basename": "6. Scope",
-      "path": "3. KWL 노트/JS 익힘/3_객체/6. Scope.md"
-    },
-    {
-      "basename": "5. Prototype",
-      "path": "3. KWL 노트/JS 익힘/3_객체/5. Prototype.md"
-    },
-    {
-      "basename": "24. 클래스 문제풀기",
-      "path": "3. KWL 노트/JS 익힘/2_OOP/24. 클래스 문제풀기.md"
-    },
-    {
-      "basename": "23. Super Keyword",
-      "path": "3. KWL 노트/JS 익힘/2_OOP/23. Super Keyword.md"
-    },
-    {
-      "basename": "22. Inheritance (상속)",
-      "path": "3. KWL 노트/JS 익힘/2_OOP/22. Inheritance (상속).md"
-    },
-    {
-      "basename": "github와 연결 방법",
-      "path": "2. 위키하우/git/github와 연결 방법.md"
-    },
-    {
-      "basename": "18. 에러 핸들링",
-      "path": "3. KWL 노트/JS 익힘/1_기본기/18. 에러 핸들링.md"
-    },
-    {
-      "basename": "14. Functions (함수)",
-      "path": "3. KWL 노트/JS 익힘/1_기본기/14. Functions (함수).md"
     }
   ],
   "omittedPaths": [],

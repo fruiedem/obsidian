@@ -79,12 +79,14 @@
             "id": "06feb3d73ed12ee4",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.9"
+                "file": "3. KWL 노트/VUE/8. 이벤트.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "icon": "lucide-file",
+              "title": "8. 이벤트"
             }
           }
         ],
@@ -234,6 +236,16 @@
   },
   "active": "06feb3d73ed12ee4",
   "lastOpenFiles": [
+    "3. KWL 노트/VUE/7. bootstrap link.md",
+    "3. KWL 노트/VUE/8. 이벤트.md",
+    "3. KWL 노트/VUE/6. 함수 사용하기.md",
+    "3. KWL 노트/VUE/5. Fragment.md",
+    "3. KWL 노트/VUE/4. Vue 컴포넌트.md",
+    "3. KWL 노트/VUE/3. 폴더 구조.md",
+    "3. KWL 노트/VUE/2. Vue 프로젝트 설치.md",
+    "3. KWL 노트/VUE/1. Untitled.md",
+    "3. KWL 노트/VUE/0. Untitled",
+    "3. KWL 노트/VUE",
     "파이프(오프쇼어 세션).md",
     "무제 1.md",
     "5. 프로젝트-WPJ/서비스나우/자료 조사.md",
@@ -255,21 +267,11 @@
     "3. KWL 노트/springboot 익힘/스프링부트 기초 강의/Untitled.md",
     "3. KWL 노트/springboot 익힘/스프링부트 기초 강의",
     "2. 위키하우/debugging/javascript.md",
-    "5. 프로젝트-WPJ/25-02-11 설치형 위플젝 공통코드 추가 작업.md",
     "2. 위키하우/debugging",
-    "무제.md",
-    "1. Wonder 5W1H/(25-02-07)Optional.ofNullable.md",
-    "3. KWL 노트/프로젝트 실습/코드로 배우는 React with 스프링부트 API서버/개발환경 설정/3. MariaDB와 부트 프로젝트 생성.md",
-    "3. KWL 노트/프로젝트 실습/코드로 배우는 React with 스프링부트 API서버/개발환경 설정/1. 리액트 프로젝트 생성.md",
-    "3. KWL 노트/프로젝트 실습/코드로 배우는 React with 스프링부트 API서버/개발환경 설정/2. Tailwind CSS 설정.md",
     "3. KWL 노트/프로젝트 실습/코드로 배우는 React with 스프링부트 API서버/개발환경 설정",
     "3. KWL 노트/프로젝트 실습/코드로 배우는 React with 스프링부트 API서버",
     "3. KWL 노트/프로젝트 실습",
-    "2. 위키하우/windows/wsl 접속 디폴트 계정 변경 방법.md",
     "2. 위키하우/windows",
-    "5. 프로젝트-WPJ/(System) 검증계 WAS 로그 추출 방법.md",
-    "첨부파일/개발가이드 2.2.docx",
-    "6. LIT",
     "첨부파일/Pasted image 20250202152810.png",
     "첨부파일/Pasted image 20250202152050.png",
     "첨부파일/Pasted image 20250202152028.png",
