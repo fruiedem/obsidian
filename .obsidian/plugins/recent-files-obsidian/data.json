@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "10. 데이터 바인딩",
+      "path": "3. KWL 노트/VUE/10. 데이터 바인딩.md"
+    },
+    {
+      "basename": "9. ref vs reactive",
+      "path": "3. KWL 노트/VUE/9. ref vs reactive.md"
+    },
+    {
       "basename": "8. 이벤트",
       "path": "3. KWL 노트/VUE/8. 이벤트.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "9. Closure",
       "path": "3. KWL 노트/JS 익힘/3_객체/9. Closure.md"
-    },
-    {
-      "basename": "8. Execution Context",
-      "path": "3. KWL 노트/JS 익힘/3_객체/8. Execution Context.md"
-    },
-    {
-      "basename": "7. this",
-      "path": "3. KWL 노트/JS 익힘/3_객체/7. this.md"
     }
   ],
   "omittedPaths": [],
