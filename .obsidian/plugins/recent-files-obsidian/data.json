@@ -1,6 +1,106 @@
 {
   "recentFiles": [
     {
+      "basename": "어드민 서비스 플로우",
+      "path": "5. LIT/프로젝트/대화형 AI(4.14~5.30)/메모/어드민 서비스 플로우.md"
+    },
+    {
+      "basename": "개발환경",
+      "path": "5. LIT/프로젝트/대화형 AI(4.14~5.30)/메모/개발환경.md"
+    },
+    {
+      "basename": "git",
+      "path": "5. LIT/프로젝트/대화형 AI(4.14~5.30)/메모/git.md"
+    },
+    {
+      "basename": "0515",
+      "path": "5. LIT/프로젝트/대화형 AI(4.14~5.30)/Task/0515.md"
+    },
+    {
+      "basename": "무제",
+      "path": "5. LIT/무제.md"
+    },
+    {
+      "basename": "-",
+      "path": "5. LIT/프로젝트/대화형 AI(4.14~5.30)/Task/0508-채팅히스토리/채팅 히스토리 조회/-.md"
+    },
+    {
+      "basename": "(Issue) Navigation 취소 불가 이슈",
+      "path": "5. LIT/프로젝트/대화형 AI(4.14~5.30)/Task/0428-로그인/로그인상태에 따른 페이지접근제어/(Issue) Navigation 취소 불가 이슈.md"
+    },
+    {
+      "basename": "(Issue) 로그인 상태 시 현재 페이지 유지",
+      "path": "5. LIT/프로젝트/대화형 AI(4.14~5.30)/Task/0428-로그인/로그인상태에 따른 페이지접근제어/(Issue) 로그인 상태 시 현재 페이지 유지.md"
+    },
+    {
+      "basename": "설계",
+      "path": "5. LIT/프로젝트/대화형 AI(4.14~5.30)/Task/0428-로그인/로그인상태에 따른 페이지접근제어/설계.md"
+    },
+    {
+      "basename": "✅(Issue) 최상위 레이아웃으로 기능 이동",
+      "path": "5. LIT/프로젝트/대화형 AI(4.14~5.30)/Task/0422-챗봇/챗봇창 기능 호출/✅(Issue) 최상위 레이아웃으로 기능 이동.md"
+    },
+    {
+      "basename": "(Issue) 챗봇창 부가기능 호출 오류",
+      "path": "5. LIT/프로젝트/대화형 AI(4.14~5.30)/Task/0422-챗봇/챗봇창 기능 호출/(Issue) 챗봇창 부가기능 호출 오류.md"
+    },
+    {
+      "basename": "✅(Issue) infinite redirection",
+      "path": "5. LIT/프로젝트/대화형 AI(4.14~5.30)/Task/0428-로그인/로그인상태에 따른 페이지접근제어/✅(Issue) infinite redirection.md"
+    },
+    {
+      "basename": "(Issue) pinia 관련 오류",
+      "path": "5. LIT/프로젝트/대화형 AI(4.14~5.30)/Task/0428-로그인/(Issue) pinia 관련 오류.md"
+    },
+    {
+      "basename": "(Issue) 폼 제출 시 페이지 리로드",
+      "path": "5. LIT/프로젝트/대화형 AI(4.14~5.30)/Task/0428-로그인/(Issue) 폼 제출 시 페이지 리로드.md"
+    },
+    {
+      "basename": "(Issue) CORS 이슈",
+      "path": "5. LIT/프로젝트/대화형 AI(4.14~5.30)/Task/0428-로그인/(Issue) CORS 이슈.md"
+    },
+    {
+      "basename": "(25-05-07) 어드민 화면설계",
+      "path": "5. LIT/프로젝트/대화형 AI(4.14~5.30)/회의록/(25-05-07) 어드민 화면설계.md"
+    },
+    {
+      "basename": "(Design) 요구사항 및 설계",
+      "path": "5. LIT/프로젝트/대화형 AI(4.14~5.30)/Task/0424-AI레포트/세부메뉴/(Design) 요구사항 및 설계.md"
+    },
+    {
+      "basename": "무제",
+      "path": "0. 목표 관리/(직업) IT/FE/Vue3/무제.md"
+    },
+    {
+      "basename": "15. Array Methods (배열 메서드)",
+      "path": "3. 커리큘럼(KWL)/JS 익힘/1_기본기/15. Array Methods (배열 메서드).md"
+    },
+    {
+      "basename": "16. Objects (객체)",
+      "path": "3. 커리큘럼(KWL)/JS 익힘/1_기본기/16. Objects (객체).md"
+    },
+    {
+      "basename": "학습 컨텐츠",
+      "path": "0. 목표 관리/(직업) IT/FE/CSS/학습 컨텐츠.md"
+    },
+    {
+      "basename": "로그인 로직",
+      "path": "5. LIT/프로젝트/대화형 AI(4.14~5.30)/Task/0428-로그인/로그인 로직.md"
+    },
+    {
+      "basename": "(25-04-29) 회의록",
+      "path": "5. LIT/프로젝트/대화형 AI(4.14~5.30)/회의록/(25-04-29) 회의록.md"
+    },
+    {
+      "basename": "로그인 페이지 이동 처리",
+      "path": "5. LIT/프로젝트/대화형 AI(4.14~5.30)/Task/0428-로그인/로그인 페이지 이동 처리.md"
+    },
+    {
+      "basename": "(Issue) 드래그 시 멈춤 현상",
+      "path": "5. LIT/프로젝트/대화형 AI(4.14~5.30)/Task/0422-챗봇/아이콘 드래그 이벤트-이동/(Issue) 드래그 시 멈춤 현상.md"
+    },
+    {
       "basename": "FE 대표 구현 기능",
       "path": "0. 목표 관리/(직업) IT/FE/FE 대표 구현 기능.md"
     },
@@ -13,20 +113,8 @@
       "path": "5. LIT/프로젝트/대화형 AI(4.14~5.30)/Task/0424-AI레포트/Transition 적용/(Issue) 박스 hover 시 글씨체 깨지는 현상.md"
     },
     {
-      "basename": "(Issue) 최상위 레이아웃으로 기능 이동",
-      "path": "5. LIT/프로젝트/대화형 AI(4.14~5.30)/Task/0422-챗봇/챗봇창 기능 호출/(Issue) 최상위 레이아웃으로 기능 이동.md"
-    },
-    {
-      "basename": "무제",
-      "path": "0. 목표 관리/(직업) IT/FE/Vue3/무제.md"
-    },
-    {
       "basename": "FE 프로젝트 주제",
       "path": "0. 목표 관리/(직업) IT/FE/Vue3/FE 프로젝트 주제.md"
-    },
-    {
-      "basename": "(Issue) 챗봇창 부가기능 호출 오류",
-      "path": "5. LIT/프로젝트/대화형 AI(4.14~5.30)/Task/0422-챗봇/챗봇창 기능 호출/(Issue) 챗봇창 부가기능 호출 오류.md"
     },
     {
       "basename": "(Issue) 클릭 시 채팅창 안 열림",
@@ -35,10 +123,6 @@
     {
       "basename": "(Issue) 드래그 이동 후 클릭 이벤트 동시 발생",
       "path": "5. LIT/프로젝트/대화형 AI(4.14~5.30)/Task/0422-챗봇/아이콘 드래그 이벤트-이동/(Issue) 드래그 이동 후 클릭 이벤트 동시 발생.md"
-    },
-    {
-      "basename": "(Issue) 드래그 시 멈춤 현상",
-      "path": "5. LIT/프로젝트/대화형 AI(4.14~5.30)/Task/0422-챗봇/아이콘 드래그 이벤트-이동/(Issue) 드래그 시 멈춤 현상.md"
     },
     {
       "basename": "기본 정보",
@@ -115,90 +199,6 @@
     {
       "basename": "(25-04-11) 회의록",
       "path": "5. LIT/프로젝트/GRS고도화/(25-04-11) 회의록.md"
-    },
-    {
-      "basename": "웰푸드",
-      "path": "5. LIT/프로젝트/온라인채널/Task/정적파일 정리작업(3.11~)/웰푸드.md"
-    },
-    {
-      "basename": "칠성",
-      "path": "5. LIT/프로젝트/온라인채널/Task/정적파일 정리작업(3.11~)/칠성.md"
-    },
-    {
-      "basename": "쇼핑IR",
-      "path": "5. LIT/프로젝트/온라인채널/Task/정적파일 정리작업(3.11~)/쇼핑IR.md"
-    },
-    {
-      "basename": "25-03-20 결함 조치요청 프로세스",
-      "path": "5. LIT/프로젝트/WPJ/회의록/25-03-20 결함 조치요청 프로세스.md"
-    },
-    {
-      "basename": "(System) 위플젝 서버 접속 정보",
-      "path": "5. LIT/프로젝트/WPJ/System/(System) 위플젝 서버 접속 정보.md"
-    },
-    {
-      "basename": "_온라인채널 공통 개발계",
-      "path": "5. LIT/프로젝트/온라인채널/Task/정적파일 정리작업(3.11~)/_온라인채널 공통 개발계.md"
-    },
-    {
-      "basename": "_작업 개요",
-      "path": "5. LIT/프로젝트/온라인채널/Task/정적파일 정리작업(3.11~)/_작업 개요.md"
-    },
-    {
-      "basename": "whole lifecycle",
-      "path": "0. 목표 관리/whole lifecycle.md"
-    },
-    {
-      "basename": "부동산",
-      "path": "0. 목표 관리/(자산) 재테크/부동산.md"
-    },
-    {
-      "basename": "주식",
-      "path": "0. 목표 관리/(자산) 재테크/주식.md"
-    },
-    {
-      "basename": "고정IP 관련",
-      "path": "5. LIT/사내 시스템/고정IP 관련.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "3. 커리큘럼(KWL)/springboot 익힘/스프링부트 기초 강의/Untitled.md"
-    },
-    {
-      "basename": "PM 기본",
-      "path": "2. 위키하우/PM/PM 기본.md"
-    },
-    {
-      "basename": "구체화 필요 대상",
-      "path": "2. 위키하우/PM/구체화 필요 대상.md"
-    },
-    {
-      "basename": "관련 자료",
-      "path": "2. 위키하우/PM/관련 자료.md"
-    },
-    {
-      "basename": "레슨런(private)",
-      "path": "5. LIT/프로젝트/WPJ/산출물/레슨런(private).md"
-    },
-    {
-      "basename": "wsl 접속 디폴트 계정 변경 방법",
-      "path": "2. 위키하우/windows/wsl 접속 디폴트 계정 변경 방법.md"
-    },
-    {
-      "basename": "3. MariaDB와 부트 프로젝트 생성",
-      "path": "3. 커리큘럼(KWL)/프로젝트 실습/코드로 배우는 React with 스프링부트 API서버/개발환경 설정/3. MariaDB와 부트 프로젝트 생성.md"
-    },
-    {
-      "basename": "참고자료",
-      "path": "5. LIT/프로젝트/서비스나우/참고자료.md"
-    },
-    {
-      "basename": "25-02-11 설치형 위플젝 공통코드 추가 작업",
-      "path": "5. LIT/프로젝트/WPJ/25-02-11 설치형 위플젝 공통코드 추가 작업.md"
-    },
-    {
-      "basename": "문서중앙화",
-      "path": "5. LIT/프로젝트/WPJ/산출물/문서중앙화.md"
     }
   ],
   "omittedPaths": [],
