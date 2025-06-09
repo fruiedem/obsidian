@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "무제",
+      "path": "3. 커리큘럼(KWL)/springboot 익힘/점프투스프링부트/무제.md"
+    },
+    {
+      "basename": "ㅇㅈ",
+      "path": "0. 목표 관리/ㅇㅈ.md"
+    },
+    {
+      "basename": "FE 대표 구현 기능",
+      "path": "0. 목표 관리/(직업) IT/FE/FE 대표 구현 기능.md"
+    },
+    {
       "basename": "어드민 서비스 요구사항 및 플로우",
       "path": "5. LIT/프로젝트/대화형 AI(4.14~5.30)/메모/어드민 서비스 요구사항 및 플로우.md"
     },
@@ -101,10 +113,6 @@
       "path": "5. LIT/프로젝트/대화형 AI(4.14~5.30)/Task/0422-챗봇/아이콘 드래그 이벤트-이동/(Issue) 드래그 시 멈춤 현상.md"
     },
     {
-      "basename": "FE 대표 구현 기능",
-      "path": "0. 목표 관리/(직업) IT/FE/FE 대표 구현 기능.md"
-    },
-    {
       "basename": "(Issue) 이미지 불러오기 오류(이미지 import 오류 X)",
       "path": "5. LIT/프로젝트/대화형 AI(4.14~5.30)/Task/0424-AI레포트/+이미지 넣기/(Issue) 이미지 불러오기 오류(이미지 import 오류 X).md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "스페인 여행",
       "path": "스페인 여행.md"
-    },
-    {
-      "basename": "파이프(오프쇼어 세션)",
-      "path": "파이프(오프쇼어 세션).md"
-    },
-    {
-      "basename": "(25-04-11) 회의록",
-      "path": "5. LIT/프로젝트/GRS고도화/(25-04-11) 회의록.md"
     }
   ],
   "omittedPaths": [],
