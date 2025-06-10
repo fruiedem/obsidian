@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "무제",
-      "path": "3. 커리큘럼(KWL)/springboot 익힘/점프투스프링부트/무제.md"
+      "basename": "0_BE 기본",
+      "path": "3. 커리큘럼(KWL)/springboot 익힘/점프투스프링부트/0_BE 기본.md"
+    },
+    {
+      "basename": "1_CSS",
+      "path": "3. 커리큘럼(KWL)/springboot 익힘/점프투스프링부트/1_CSS.md"
+    },
+    {
+      "basename": "2_SBB 서비스 개발",
+      "path": "3. 커리큘럼(KWL)/springboot 익힘/점프투스프링부트/2_SBB 서비스 개발.md"
+    },
+    {
+      "basename": "3_배포",
+      "path": "3. 커리큘럼(KWL)/springboot 익힘/점프투스프링부트/3_배포.md"
     },
     {
       "basename": "ㅇㅈ",
@@ -187,18 +199,6 @@
     {
       "basename": "PM",
       "path": "0. 목표 관리/(직업) IT/PM/PM.md"
-    },
-    {
-      "basename": "Spring 핵심스킬",
-      "path": "0. 목표 관리/(직업) IT/BE/Spring 핵심스킬.md"
-    },
-    {
-      "basename": "(25-04-15) 회의록",
-      "path": "5. LIT/프로젝트/대화형 AI(4.14~5.30)/회의록/(25-04-15) 회의록.md"
-    },
-    {
-      "basename": "스페인 여행",
-      "path": "스페인 여행.md"
     }
   ],
   "omittedPaths": [],
