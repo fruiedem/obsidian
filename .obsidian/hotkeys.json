@@ -1,9 +1,16 @@
 {
+<<<<<<< HEAD
+  "app:toggle-left-sidebar": [
+=======
   "editor:fold-less": [
+>>>>>>> 40bdb8cc83625296dd481553ab6397237a354555
     {
       "modifiers": [
         "Mod"
       ],
+<<<<<<< HEAD
+      "key": "Q"
+=======
       "key": "["
     }
   ],
@@ -13,6 +20,7 @@
         "Mod"
       ],
       "key": "]"
+>>>>>>> 40bdb8cc83625296dd481553ab6397237a354555
     }
   ],
   "app:toggle-left-sidebar": [
