@@ -1,6 +1,98 @@
 {
   "recentFiles": [
     {
+      "basename": "개발 환경",
+      "path": "5. LIT/과제/ai db산출물/개발 환경.md"
+    },
+    {
+      "basename": "✅테이블 기본 정보 조회 쿼리",
+      "path": "5. LIT/과제/ai db산출물/이슈/✅테이블 기본 정보 조회 쿼리.md"
+    },
+    {
+      "basename": "2025년 KPI 산식",
+      "path": "5. LIT/담당/2025년 KPI 산식.md"
+    },
+    {
+      "basename": "무제",
+      "path": "5. LIT/무제.md"
+    },
+    {
+      "basename": "mermaid 이슈 - 스타일링",
+      "path": "5. LIT/과제/ai db산출물/이슈/mermaid 이슈 - 스타일링.md"
+    },
+    {
+      "basename": "ERdiagram",
+      "path": "5. LIT/과제/ai db산출물/TEST/ERdiagram.md"
+    },
+    {
+      "basename": "테이블 조회 쿼리",
+      "path": "5. LIT/과제/ai db산출물/TEST/테이블 조회 쿼리.md"
+    },
+    {
+      "basename": "✅연관관계 표현",
+      "path": "5. LIT/과제/ai db산출물/이슈/✅연관관계 표현.md"
+    },
+    {
+      "basename": "mermaid 코드 변환",
+      "path": "5. LIT/과제/ai db산출물/TEST/mermaid 코드 변환.md"
+    },
+    {
+      "basename": "mermaid 이슈 - Note",
+      "path": "5. LIT/과제/ai db산출물/이슈/mermaid 이슈 - Note.md"
+    },
+    {
+      "basename": "✅코드 보안 글자수 1000자 내외 제한",
+      "path": "5. LIT/과제/ai db산출물/이슈/✅코드 보안 글자수 1000자 내외 제한.md"
+    },
+    {
+      "basename": "0630-3",
+      "path": "5. LIT/과제/ai db산출물/이슈/0630-3.md"
+    },
+    {
+      "basename": "mermaid 코드와 기능 분석 내용 합치기",
+      "path": "5. LIT/과제/ai db산출물/이슈/mermaid 코드와 기능 분석 내용 합치기.md"
+    },
+    {
+      "basename": "vscode 확장 개발 가이드",
+      "path": "5. LIT/과제/ai db산출물/vscode 확장 개발 가이드.md"
+    },
+    {
+      "basename": "무제",
+      "path": "5. LIT/과제/ai db산출물/무제.md"
+    },
+    {
+      "basename": "연관 테이블 조회 쿼리",
+      "path": "5. LIT/과제/ai db산출물/연관 테이블 조회 쿼리.md"
+    },
+    {
+      "basename": "프로젝트 기본 정보",
+      "path": "5. LIT/과제/ai db산출물/프로젝트 기본 정보.md"
+    },
+    {
+      "basename": "0630-2",
+      "path": "5. LIT/과제/ai db산출물/이슈/0630-2.md"
+    },
+    {
+      "basename": "인수인계",
+      "path": "5. LIT/운영/보안포탈/인수인계.md"
+    },
+    {
+      "basename": "배포",
+      "path": "5. LIT/운영/보안포탈/배포.md"
+    },
+    {
+      "basename": "보고",
+      "path": "5. LIT/과제/prisma를 이용한 테이블 요약서/보고.md"
+    },
+    {
+      "basename": "quickdbd",
+      "path": "5. LIT/과제/prisma를 이용한 테이블 요약서/quickdbd.md"
+    },
+    {
+      "basename": "npm 패키지 설치 시 인증서 오류",
+      "path": "2. 위키하우/windows/npm 패키지 설치 시 인증서 오류.md"
+    },
+    {
       "basename": "0_BE 기본",
       "path": "3. 커리큘럼(KWL)/springboot 익힘/점프투스프링부트/0_BE 기본.md"
     },
@@ -39,10 +131,6 @@
     {
       "basename": "0515",
       "path": "5. LIT/프로젝트/대화형 AI(4.14~5.30)/Task/0515.md"
-    },
-    {
-      "basename": "무제",
-      "path": "5. LIT/무제.md"
     },
     {
       "basename": "-",
@@ -111,94 +199,6 @@
     {
       "basename": "로그인 로직",
       "path": "5. LIT/프로젝트/대화형 AI(4.14~5.30)/Task/0428-로그인/로그인 로직.md"
-    },
-    {
-      "basename": "(25-04-29) 회의록",
-      "path": "5. LIT/프로젝트/대화형 AI(4.14~5.30)/회의록/(25-04-29) 회의록.md"
-    },
-    {
-      "basename": "로그인 페이지 이동 처리",
-      "path": "5. LIT/프로젝트/대화형 AI(4.14~5.30)/Task/0428-로그인/로그인 페이지 이동 처리.md"
-    },
-    {
-      "basename": "(Issue) 드래그 시 멈춤 현상",
-      "path": "5. LIT/프로젝트/대화형 AI(4.14~5.30)/Task/0422-챗봇/아이콘 드래그 이벤트-이동/(Issue) 드래그 시 멈춤 현상.md"
-    },
-    {
-      "basename": "(Issue) 이미지 불러오기 오류(이미지 import 오류 X)",
-      "path": "5. LIT/프로젝트/대화형 AI(4.14~5.30)/Task/0424-AI레포트/+이미지 넣기/(Issue) 이미지 불러오기 오류(이미지 import 오류 X).md"
-    },
-    {
-      "basename": "(Issue) 박스 hover 시 글씨체 깨지는 현상",
-      "path": "5. LIT/프로젝트/대화형 AI(4.14~5.30)/Task/0424-AI레포트/Transition 적용/(Issue) 박스 hover 시 글씨체 깨지는 현상.md"
-    },
-    {
-      "basename": "FE 프로젝트 주제",
-      "path": "0. 목표 관리/(직업) IT/FE/Vue3/FE 프로젝트 주제.md"
-    },
-    {
-      "basename": "(Issue) 클릭 시 채팅창 안 열림",
-      "path": "5. LIT/프로젝트/대화형 AI(4.14~5.30)/Task/0422-챗봇/아이콘 클릭 이벤트-채팅창열기/(Issue) 클릭 시 채팅창 안 열림.md"
-    },
-    {
-      "basename": "(Issue) 드래그 이동 후 클릭 이벤트 동시 발생",
-      "path": "5. LIT/프로젝트/대화형 AI(4.14~5.30)/Task/0422-챗봇/아이콘 드래그 이벤트-이동/(Issue) 드래그 이동 후 클릭 이벤트 동시 발생.md"
-    },
-    {
-      "basename": "기본 정보",
-      "path": "5. LIT/프로젝트/대화형 AI(4.14~5.30)/Task/기본 정보.md"
-    },
-    {
-      "basename": "개발 환경",
-      "path": "5. LIT/프로젝트/대화형 AI(4.14~5.30)/Task/개발 환경.md"
-    },
-    {
-      "basename": "(Issue) VPN 통한 내부 시스템 접속 오류",
-      "path": "5. LIT/사내 시스템/(Issue) VPN 통한 내부 시스템 접속 오류.md"
-    },
-    {
-      "basename": "(25-04-22) DB 구조 설명",
-      "path": "5. LIT/프로젝트/대화형 AI(4.14~5.30)/회의록/(25-04-22) DB 구조 설명.md"
-    },
-    {
-      "basename": "gitlab.lotte.vn",
-      "path": "5. LIT/사내 시스템/gitlab.lotte.vn.md"
-    },
-    {
-      "basename": "dbsafer 계정",
-      "path": "5. LIT/사내 시스템/dbsafer 계정.md"
-    },
-    {
-      "basename": "(25-04-21) 회의록",
-      "path": "5. LIT/프로젝트/대화형 AI(4.14~5.30)/회의록/(25-04-21) 회의록.md"
-    },
-    {
-      "basename": "Vue 3 강좌 한방에 몰아보기",
-      "path": "0. 목표 관리/(직업) IT/FE/Vue3/Vue 3 강좌 한방에 몰아보기.md"
-    },
-    {
-      "basename": "00. vue 핵심스킬",
-      "path": "0. 목표 관리/(직업) IT/FE/Vue3/00. vue 핵심스킬.md"
-    },
-    {
-      "basename": "01. 설치 방법",
-      "path": "0. 목표 관리/(직업) IT/FE/Vue3/01. 설치 방법.md"
-    },
-    {
-      "basename": "(25-04-17) 회의록",
-      "path": "5. LIT/프로젝트/대화형 AI(4.14~5.30)/회의록/(25-04-17) 회의록.md"
-    },
-    {
-      "basename": "(25-04-14) 회의록",
-      "path": "5. LIT/프로젝트/대화형 AI(4.14~5.30)/회의록/(25-04-14) 회의록.md"
-    },
-    {
-      "basename": "01. 핵심 가이드",
-      "path": "0. 목표 관리/(직업) IT/FE/Vue3/01. 핵심 가이드.md"
-    },
-    {
-      "basename": "PM",
-      "path": "0. 목표 관리/(직업) IT/PM/PM.md"
     }
   ],
   "omittedPaths": [],
