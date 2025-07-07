@@ -17,7 +17,7 @@ phone VARCHAR(15)
 Order {
 id INT PK
 order_date DATE
-customer_id INT FK
+customer_id INT(100) FK
 total_amount DECIMAL
 }
 Product {
