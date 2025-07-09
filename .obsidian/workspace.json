@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. LIT/과제/ai db산출물/개발 환경.md",
-                "mode": "source",
+                "file": "5. LIT/과제/ai db산출물/TEST/삭제 가능.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "개발 환경"
+              "title": "삭제 가능"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. LIT/과제/ai db산출물/이슈/✅연관관계 표현.md",
+                "file": "5. LIT/담당/무제.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "✅연관관계 표현"
+              "title": "무제"
             }
           }
         ],
@@ -195,39 +195,39 @@
   },
   "active": "b70ff9ff1a5d03d5",
   "lastOpenFiles": [
+    "5. LIT/과제/ai db산출물/TEST/테스트.md",
+    "5. LIT/과제/ai db산출물/TEST/최대 텍스트 글자 수_48000.md",
+    "5. LIT/과제/ai db산출물/TEST/최대 텍스트 글자 수 테스트_63000.md",
+    "5. LIT/과제/ai db산출물/TEST/삭제가능2.md",
+    "5. LIT/과제/ai db산출물/이슈/0630-2.md",
+    "5. LIT/과제/ai db산출물/TEST/삭제 가능.md",
+    "5. LIT/과제/ai db산출물/이슈/AI 이슈 - mermaid 변환 시 문법 오류.md",
+    "5. LIT/과제/ai db산출물/이슈/AI 응답 속도 이슈.md",
+    "5. LIT/과제/ai db산출물/이슈/chatgpt, claude 760자 제한.md",
+    "5. LIT/담당/무제.md",
+    "5. LIT/운영/보안포탈/배포.md",
+    "5. LIT/운영/보안포탈/인수인계.md",
     "5. LIT/과제/ai db산출물/이슈/mermaid 이슈 - 스타일링.md",
-    "5. LIT/과제/ai db산출물/이슈/mermaid 이슈 - Note.md",
+    "5. LIT/과제/ai db산출물/이슈/mermaid 코드와 기능 분석 내용 합치기.md",
     "5. LIT/과제/ai db산출물/TEST/ERdiagram.md",
-    "무제.md",
+    "5. LIT/과제/ai db산출물/TEST/테이블 조회 쿼리.md",
+    "5. LIT/과제/ai db산출물/TEST/테이블 전체 mermaid 코드.md",
     "5. LIT/과제/ai db산출물/개발 환경.md",
+    "5. LIT/과제/ai db산출물/이슈/✅연관관계 표현.md",
+    "5. LIT/과제/ai db산출물/이슈/mermaid 이슈 - Note.md",
+    "5. LIT/과제/ai db산출물/이슈/yeoman 이슈-rootDir.md",
+    "5. LIT/과제/ai db산출물/vscode 확장 개발 가이드.md",
+    "무제 3.md",
+    "무제.md",
     "첨부파일/Pasted image 20250607140558.png",
     "Untitled.md",
     "3. KWL 노트/VUE/9. ref vs reactive.md",
-    "3. KWL 노트/VUE/8. 이벤트.md",
-    "3. KWL 노트/VUE/7. bootstrap link.md",
-    "3. KWL 노트/VUE/10. 데이터 바인딩.md",
-    "3. KWL 노트/VUE/6. 함수 사용하기.md",
-    "3. KWL 노트/VUE/5. Fragment.md",
-    "3. KWL 노트/VUE/4. Vue 컴포넌트.md",
-    "3. KWL 노트/VUE/3. 폴더 구조.md",
-    "3. KWL 노트/VUE/2. Vue 프로젝트 설치.md",
-    "3. KWL 노트/VUE/1. Untitled.md",
-    "3. KWL 노트/바이브코딩/Introduction.md",
     "3. KWL 노트/VUE",
     "3. KWL 노트/바이브코딩",
     "3. KWL 노트",
-    "5. LIT/과제/ai db산출물/이슈/✅테이블 기본 정보 조회 쿼리.md",
-    "5. LIT/담당/2025년 KPI 산식.md",
     "첨부파일/Pasted image 20250704152137.png",
-    "5. LIT/무제.md",
     "5. LIT/담당",
     "5. LIT/무제",
-    "5. LIT/과제/ai db산출물/TEST/테이블 조회 쿼리.md",
-    "5. LIT/과제/ai db산출물/이슈/✅연관관계 표현.md",
-    "5. LIT/과제/ai db산출물/TEST/mermaid 코드 변환.md",
-    "5. LIT/과제/ai db산출물/이슈/✅코드 보안 글자수 1000자 내외 제한.md",
-    "5. LIT/과제/ai db산출물/이슈/0630-3.md",
-    "5. LIT/과제/ai db산출물/이슈/mermaid 코드와 기능 분석 내용 합치기.md",
     "5. LIT/과제/ai db산출물/무제",
     "5. LIT/과제/ai db산출물/TEST",
     "5. LIT/과제/ai db산출물/이슈",
