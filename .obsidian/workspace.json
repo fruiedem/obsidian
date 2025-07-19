@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. LIT/과제/ai db산출물/TEST/삭제 가능.md",
-                "mode": "preview",
+                "file": "5. LIT/프로젝트/물산 FMS 제안/1. 제안서 작성/무제.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "삭제 가능"
+              "title": "무제"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. LIT/과제/ai db산출물/이슈/0709_테이블 누락 이슈.md",
+                "file": "5. LIT/프로젝트/물산 FMS 제안/0. 기본/IS팀 확인내용 및 궁금.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0709_테이블 누락 이슈"
+              "title": "IS팀 확인내용 및 궁금"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ProjectCode",
+                "query": "고정",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 362.5
   },
   "right": {
     "id": "fe24dd3177135fe4",
@@ -193,10 +193,26 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "16cde162e193e741",
+  "active": "b70ff9ff1a5d03d5",
   "lastOpenFiles": [
-    "5. LIT/과제/ai db산출물/이슈/mermaid 이슈 - 스타일링.md",
+    "5. LIT/프로젝트/물산 FMS 제안/0. 기본/개발웹서버 정보.md",
+    "5. LIT/프로젝트/물산 FMS 제안/0. 기본/IS팀 확인내용 및 궁금.md",
+    "5. LIT/프로젝트/물산 FMS 제안/0. 기본/기 시스템 구성도.md",
+    "5. LIT/프로젝트/물산 FMS 제안/0. 기본/기 시스템 기술 스택.md",
+    "첨부파일/192c3a39-b6e3-41e6-9f8a-f0112691143e.png",
+    "5. LIT/프로젝트/물산 FMS 제안/1. 제안서 작성/누락요구사항.md",
+    "5. LIT/과제/ai db산출물/TEST/무제.md",
+    "5. LIT/프로젝트/물산 FMS 제안/1. 제안서 작성/무제.md",
+    "5. LIT/사내 시스템/고정IP 관련.md",
+    "5. LIT/프로젝트/물산 FMS 제안/0. 기본",
+    "5. LIT/프로젝트/물산 FMS 제안/무제.md",
+    "5. LIT/프로젝트/물산 FMS 제안/1. 제안서 작성",
+    "5. LIT/프로젝트/물산 FMS 제안/무제 1.md",
+    "5. LIT/과제/ai db산출물/TEST/삭제 가능.md",
+    "5. LIT/프로젝트/물산 FMS 제안",
+    "5. LIT/과제/ai db산출물/이슈/엔티티명 to 테이블명.md",
     "5. LIT/과제/ai db산출물/이슈/0709_테이블 누락 이슈.md",
+    "5. LIT/과제/ai db산출물/이슈/mermaid 이슈 - 스타일링.md",
     "5. LIT/과제/ai db산출물/이슈/AI 이슈 - mermaid 변환 시 문법 오류.md",
     "5. LIT/과제/ai db산출물/이슈/0630-2.md",
     "5. LIT/과제/ai db산출물/이슈/0630-3.md",
@@ -209,18 +225,6 @@
     "5. LIT/과제/ai db산출물/TEST/최대 텍스트 글자 수_48000.md",
     "5. LIT/과제/ai db산출물/TEST/최대 텍스트 글자 수 테스트_63000.md",
     "5. LIT/과제/ai db산출물/TEST/삭제가능2.md",
-    "5. LIT/과제/ai db산출물/TEST/삭제 가능.md",
-    "5. LIT/운영/보안포탈/배포.md",
-    "5. LIT/운영/보안포탈/인수인계.md",
-    "5. LIT/과제/ai db산출물/이슈/mermaid 코드와 기능 분석 내용 합치기.md",
-    "5. LIT/과제/ai db산출물/TEST/ERdiagram.md",
-    "5. LIT/과제/ai db산출물/TEST/테이블 조회 쿼리.md",
-    "5. LIT/과제/ai db산출물/TEST/테이블 전체 mermaid 코드.md",
-    "5. LIT/과제/ai db산출물/개발 환경.md",
-    "5. LIT/과제/ai db산출물/이슈/mermaid 이슈 - Note.md",
-    "5. LIT/과제/ai db산출물/이슈/yeoman 이슈-rootDir.md",
-    "5. LIT/과제/ai db산출물/vscode 확장 개발 가이드.md",
-    "무제 3.md",
     "첨부파일/Pasted image 20250607140558.png",
     "3. KWL 노트/VUE",
     "3. KWL 노트/바이브코딩",
@@ -230,9 +234,6 @@
     "5. LIT/무제",
     "5. LIT/과제/ai db산출물/무제",
     "5. LIT/과제/ai db산출물/TEST",
-    "5. LIT/과제/ai db산출물/이슈",
-    "5. LIT/운영/보안포탈",
-    "5. LIT/운영",
     "첨부파일/Pasted image 20250610163919.png",
     "첨부파일/Pasted image 20250508104326.png",
     "첨부파일/Pasted image 20250428165633.png",
@@ -241,7 +242,6 @@
     "첨부파일/Pasted image 20250312155951.png",
     "첨부파일/Pasted image 20250312144941.png",
     "첨부파일/Pasted image 20250310153559.png",
-    "첨부파일/Pasted image 20250310153352.png",
     "5. 프로젝트-WPJ/공통코드(안전교육 리스트 조회).canvas",
     "5. 프로젝트-WPJ/공통코드.canvas",
     "3. 커리큘럼(KWL)/springboot 익힘/4장 컨트롤러 구현/4.5 도서 쇼핑몰_도서 목록 표시하기.canvas"
