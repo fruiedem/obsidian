@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. LIT/프로젝트/물산 FMS 제안/1. 제안서 작성/무제.md",
+                "file": "2. 위키하우/windows/윈도우 11 업데이트 오류 (0x8024a203).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "무제"
+              "title": "윈도우 11 업데이트 오류 (0x8024a203)"
             }
           },
           {
@@ -41,16 +41,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "2. 위키하우/windows/윈도우 11 업데이트 오류 (0x8024a203).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "윈도우 11 업데이트 오류 (0x8024a203)"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "고정",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -207,10 +206,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5e8fb57b003d7c60",
+  "active": "b1b5b9abda43c5d5",
   "lastOpenFiles": [
-    "Untitled.md",
+    "5. LIT/프로젝트/물산 FMS 제안/1. 제안서 작성/제안후 개선포인트 조사.md",
+    "5. LIT/프로젝트/물산 FMS 제안/1. 제안서 작성/무제.md",
+    "2. 위키하우/windows/윈도우 11 업데이트 오류 (0x8024a203).md",
+    "5. LIT/프로젝트/물산 FMS 제안/0. 기본/개발웹서버 정보.md",
+    "5. LIT/과제/글로벌아웃소싱 업체조사/무제.md",
     "README.md",
+    "5. LIT/과제/글로벌아웃소싱 업체조사",
+    "2025-07-25.md",
+    "Untitled.md",
     "5. LIT/사내 시스템/사내 wifi.md",
     "5. LIT/과제/ai db산출물/0. 기본/산출물.md",
     "무제 파일.md",
@@ -223,14 +229,12 @@
     "5. LIT/과제/ai db산출물/0. 기본",
     "첨부파일/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F35cf0eae-de7e-4631-b356-7516b8648756%2FUntitled.png",
     "5. LIT/프로젝트/물산 FMS 제안/0. 기본/화면본수 체크.md",
-    "5. LIT/프로젝트/물산 FMS 제안/0. 기본/개발웹서버 정보.md",
     "5. LIT/프로젝트/물산 FMS 제안/1. 제안서 작성/누락요구사항.md",
     "무제 4.md",
     "5. LIT/프로젝트/물산 FMS 제안/0. 기본/IS팀 확인내용 및 궁금.md",
     "5. LIT/프로젝트/물산 FMS 제안/0. 기본/기 시스템 기술 스택.md",
     "첨부파일/192c3a39-b6e3-41e6-9f8a-f0112691143e.png",
     "5. LIT/과제/ai db산출물/TEST/무제.md",
-    "5. LIT/프로젝트/물산 FMS 제안/1. 제안서 작성/무제.md",
     "5. LIT/사내 시스템/고정IP 관련.md",
     "5. LIT/프로젝트/물산 FMS 제안/0. 기본",
     "5. LIT/프로젝트/물산 FMS 제안/무제.md",
@@ -239,16 +243,11 @@
     "5. LIT/과제/ai db산출물/TEST/삭제 가능.md",
     "5. LIT/프로젝트/물산 FMS 제안",
     "5. LIT/과제/ai db산출물/이슈/엔티티명 to 테이블명.md",
-    "5. LIT/과제/ai db산출물/이슈/0709_테이블 누락 이슈.md",
-    "5. LIT/과제/ai db산출물/이슈/mermaid 이슈 - 스타일링.md",
-    "5. LIT/과제/ai db산출물/이슈/AI 이슈 - mermaid 변환 시 문법 오류.md",
-    "5. LIT/과제/ai db산출물/이슈/0630-2.md",
     "첨부파일/Pasted image 20250607140558.png",
     "3. KWL 노트/VUE",
     "3. KWL 노트/바이브코딩",
     "3. KWL 노트",
     "첨부파일/Pasted image 20250704152137.png",
-    "5. LIT/담당",
     "첨부파일/Pasted image 20250610163919.png",
     "첨부파일/Pasted image 20250508104326.png",
     "첨부파일/Pasted image 20250428165633.png",
