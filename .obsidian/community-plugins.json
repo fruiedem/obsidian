@@ -1,5 +1,8 @@
 [
   "github-sync",
   "automatic-table-of-contents",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-minimal-settings",
+  "obsidian-plugin-toc",
+  "obsidian-style-settings"
 ]
