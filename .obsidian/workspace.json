@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "902ec0f600039fc6",
+        "id": "a35197572787ecf5",
         "type": "tabs",
         "children": [
           {
-            "id": "c9924c08adc67c69",
+            "id": "0ec1f045b46701e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "채용시장.md",
+                "file": "1. Wonder 5W1H/❌250818_IOC,DI, 컨테이너, 빈.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "채용시장"
+              "title": "❌250818_IOC,DI, 컨테이너, 빈"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "self signed certi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -164,7 +164,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,56 +179,57 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c9924c08adc67c69",
+  "active": "0ec1f045b46701e8",
   "lastOpenFiles": [
-    "5. LIT/프로젝트/물산 FMS 제안/2. 제안서 작성/인터뷰 질문.md",
-    "5. LIT/프로젝트/물산 FMS 제안/2. 제안서 작성/벤치마킹 사례 조사.md",
-    "5. LIT/프로젝트/물산 FMS 제안/2. 제안서 작성/누락요구사항.md",
-    "5. LIT/프로젝트/물산 FMS 제안/1. 기획",
-    "5. LIT/프로젝트/물산 FMS 제안/0. 기본/무제",
-    "5. LIT/프로젝트/물산 FMS 제안/2. 제안서 작성/무제.md",
-    "5. LIT/프로젝트/물산 FMS 제안/0. 기본/기 시스템 기술 스택.md",
-    "5. LIT/프로젝트/물산 FMS 제안/0. 기본/IS팀 확인내용 및 궁금.md",
-    "5. LIT/프로젝트/물산 FMS 제안/2. 제안서 작성/제안후 개선포인트 조사.md",
-    "2. 위키하우/windows/윈도우 11 업데이트 오류 (0x8024a203).md",
-    "5. LIT/프로젝트/물산 FMS 제안/0. 기본/개발웹서버 정보.md",
-    "5. LIT/과제/글로벌아웃소싱 업체조사/무제.md",
-    "README.md",
-    "5. LIT/과제/글로벌아웃소싱 업체조사",
-    "2025-07-25.md",
-    "Untitled.md",
-    "5. LIT/사내 시스템/사내 wifi.md",
-    "5. LIT/과제/ai db산출물/0. 기본/산출물.md",
-    "무제 파일.md",
-    "무제 1.md",
-    "무제.md",
-    "첨부파일/AI과제 시연 영상 v6 1.mp4",
-    "5. LIT/과제/ai db산출물/0. 기본/프로젝트 기본 정보.md",
-    "첨부파일/AI과제 시연 영상 v6.mp4",
-    "5. LIT/프로젝트/물산 FMS 제안/0. 기본/기 시스템 구성도.md",
-    "5. LIT/과제/ai db산출물/0. 기본",
+    "1. Wonder 5W1H/❌Package-lock.json.md",
+    "1. Wonder 5W1H/❌250818_IOC,DI, 컨테이너, 빈.md",
+    "1. Wonder 5W1H/❌도메인, DTO, Entity 차이.md",
+    "1. Wonder 5W1H/❌250207_Optional.ofNullable.md",
+    "1. Wonder 5W1H/❌250125_js 엔진 동작 방식.md",
+    "1. Wonder 5W1H/❌250123_환경에 따른 application.properties 라우팅 원리.md",
+    "1. Wonder 5W1H/❌jrebel 사내망에서 연결 하는 편법.md",
+    "1. Wonder 5W1H/❌IntelliJ SpringBoot 자동 빌드 설정.md",
+    "1. Wonder 5W1H/java enum.md",
+    "1. Wonder 5W1H/런타임 환경.md",
+    "1. Wonder 5W1H/(ERROR) Cannot find name.md",
+    "1. Wonder 5W1H/(ERROR) EPERM operation not permitted.md",
+    "3. KWL 노트/웹 개발 프레임워크/VUE/2. Vue 프로젝트 설치.md",
+    "3. KWL 노트/독서방법.md",
+    "3. KWL 노트/INTELLIJ/intellij 디버깅 방법.md",
+    "3. KWL 노트/바이브코딩/Introduction.md",
+    "3. KWL 노트/INTELLIJ/intellij 디버깅 방법2.md",
+    "3. KWL 노트/INTELLIJ/intellij tips.md",
+    "3. KWL 노트/DEBUGGING/javascript.md",
+    "3. KWL 노트/데이터베이스/MSSQL/쿼리/프로시저 정보 조회.md",
+    "3. KWL 노트/데이터베이스/MSSQL/무제.md",
+    "3. KWL 노트/데이터베이스/MSSQL/쿼리",
+    "3. KWL 노트/프로그래밍 랭기지/JAVASCRIPT/배열 사용법.md",
+    "3. KWL 노트/웹 개발 프레임워크",
+    "3. KWL 노트/프로그래밍 랭기지/무제.md",
+    "3. KWL 노트/데이터베이스/MSSQL",
+    "3. KWL 노트/데이터베이스",
+    "3. KWL 노트/프로그래밍 랭기지",
+    "3. KWL 노트/프로그래밍 랭기지/JAVASCRIPT/mssql 라이브러리 사용법.md",
+    "3. KWL 노트/프로그래밍 랭기지/JAVASCRIPT/DB라이브러리별 특징.md",
+    "3. KWL 노트/프로그래밍 랭기지/JAVASCRIPT/object 객체 사용법.md",
+    "3. KWL 노트/프로그래밍 랭기지/JAVASCRIPT",
+    "3. KWL 노트/웹 개발 프레임워크/스프링",
+    "5. LIT/운영/보안포탈/요청/글로벌화",
+    "5. LIT/과제/ai db산출물/Mybatis 사용 프로젝트 전용",
+    "5. LIT/과제/ai db산출물/Jpa 사용 프로젝트 전용",
+    "첨부파일/Pasted image 20250811115441.png",
+    "첨부파일/Pasted image 20250808155735.png",
     "첨부파일/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F35cf0eae-de7e-4631-b356-7516b8648756%2FUntitled.png",
-    "5. LIT/프로젝트/물산 FMS 제안/0. 기본/화면본수 체크.md",
-    "무제 4.md",
     "첨부파일/192c3a39-b6e3-41e6-9f8a-f0112691143e.png",
-    "5. LIT/과제/ai db산출물/TEST/무제.md",
-    "5. LIT/사내 시스템/고정IP 관련.md",
-    "5. LIT/프로젝트/물산 FMS 제안/0. 기본",
-    "5. LIT/프로젝트/물산 FMS 제안/무제.md",
-    "5. LIT/프로젝트/물산 FMS 제안/2. 제안서 작성",
-    "5. LIT/프로젝트/물산 FMS 제안",
     "첨부파일/Pasted image 20250607140558.png",
-    "3. KWL 노트/VUE",
     "첨부파일/Pasted image 20250704152137.png",
     "첨부파일/Pasted image 20250610163919.png",
     "첨부파일/Pasted image 20250508104326.png",
     "첨부파일/Pasted image 20250428165633.png",
     "5. LIT/프로젝트/GRS고도화/무제.canvas",
     "첨부파일/Pasted image 20250318163116.png",
-    "첨부파일/Pasted image 20250312155951.png",
-    "첨부파일/Pasted image 20250312144941.png",
     "5. 프로젝트-WPJ/공통코드(안전교육 리스트 조회).canvas",
     "5. 프로젝트-WPJ/공통코드.canvas",
-    "3. 커리큘럼(KWL)/springboot 익힘/4장 컨트롤러 구현/4.5 도서 쇼핑몰_도서 목록 표시하기.canvas"
+    "3. KWL 노트/3. 커리큘럼(KWL)/springboot 익힘/4장 컨트롤러 구현/4.5 도서 쇼핑몰_도서 목록 표시하기.canvas"
   ]
 }
